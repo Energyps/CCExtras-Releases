@@ -1,0 +1,43 @@
+name: Fehler melden
+description: Etwas funktioniert nicht wie erwartet oder Minecraft stürzt ab.
+title: "[Fehler] "
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: CCExtras-Version
+      description: Steht in Mod Menu bzw. im Dateinamen der Jar, z. B. 1.8.6.
+      placeholder: "1.8.6"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Was ist passiert?
+      description: Beschreibe den Fehler. Was hast du erwartet, was ist stattdessen passiert?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zum Nachstellen
+      placeholder: |
+        1. Aincraft Ebene 2 betreten
+        2. ...
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Bilder hier hineinziehen.
+  - type: textarea
+    id: log
+    attributes:
+      label: Crash-Report / Log
+      description: Bei Abstürzen den Crash-Report oder `logs/latest.log` einfügen.
+      render: text
+  - type: input
+    id: mods
+    attributes:
+      label: Weitere Mods
+      description: Andere installierte Mods (falls relevant).
