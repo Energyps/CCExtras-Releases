@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "modVersion": "1.9.1-beta.18",
+  "modVersion": "1.9.1",
   "files": {
     "neciitems.json": {
-      "sha256": "767194ab5ea511ae881a107f3dc0a00177a15395c3e05fbfd4ec033113c774e4",
-      "size": 3613628
+      "sha256": "d61070d477ab13609e08fc5c71a4155b2914797ed31a2c532b8da41a6d3e3235",
+      "size": 3613624
     },
     "Essence.json": {
       "sha256": "3eea4927d42855812576e1bc813f90d744e3363c1d3d89203f76ff6230e2d39e",
@@ -50,6 +50,14 @@
       "sha256": "5868635cc350659059be2185a6900fb35361bf887dde5bbaec575e69e48e6088",
       "size": 30023
     },
+    "aincraft_info.json": {
+      "sha256": "4bf1d8f6ef8bdd707f68687fd8e657c377ca71f4780159d7621ee3857c064030",
+      "size": 16501
+    },
+    "translations/de_de/aincraftinfo.json": {
+      "sha256": "1f33c90ecb25c7ef9c1f85af2739c5555869ce9a205609b17e6f8beabeab89b7",
+      "size": 6695
+    },
     "translations/de_de/aincraftstages.json": {
       "sha256": "6b3f9d4cd5b6749d1411056463a309ce8a26baa9d0e5a55a90db790c48cb8ab9",
       "size": 5267
@@ -58,17 +66,21 @@
       "sha256": "e6a92223fd391c2b8d8eaaacf008c5d47e996f169c25ac392858bda0a8b3d282",
       "size": 872
     },
+    "translations/de_de/blueprints.json": {
+      "sha256": "56a78d84b073371713810b1509cd7eecafa9c2d74334d66dd7ac554d8dfeca8b",
+      "size": 164693
+    },
     "translations/de_de/ccextrasconfig.json": {
-      "sha256": "9c2834a69193413648506d58b1d691a4ba97137d4edd854d72c7a6a29de6f934",
-      "size": 68788
+      "sha256": "e02de7d1df94c96eecb06f95a8f299e25c73834318bb906990f0490d7ef10ef5",
+      "size": 71828
     },
     "translations/de_de/charms.json": {
       "sha256": "ab0687d909e9e383fbaf6798e42c7d57a417fbbfd36fcde8a251215b1611e14a",
       "size": 9792
     },
     "translations/de_de/debug.json": {
-      "sha256": "910b750842bc60a1d1bcdc31cd26c013a66f078897025932027b6f0bff598c5f",
-      "size": 8829
+      "sha256": "df36d6c7772c1efffff43bfee1437112ff8e0154f91a7c7b71b1e667fa6dc79b",
+      "size": 9367
     },
     "translations/de_de/essences.json": {
       "sha256": "7fffd8f64e4adc32119af8b1f51b19d1d058b048a4a6734adb3fa0c663a7849e",
@@ -95,16 +107,16 @@
       "size": 1485
     },
     "translations/de_de/hud.json": {
-      "sha256": "80960c56764ed43aadddda44958dfb8ac3c2f7a49fc5bfb51371905aa04abb15",
-      "size": 9261
+      "sha256": "a9684f24fa0376825d5c0658c21e171a3b9fb4d75de9dd557b483cdcecce83d4",
+      "size": 12327
     },
     "translations/de_de/materials.json": {
       "sha256": "873d448d8681cc18cc4b8768471d1592f063cbd052c824ab0597bc9ab5524b04",
       "size": 33525
     },
     "translations/de_de/neci.json": {
-      "sha256": "4b93ba70c4b47799f9ad18560df94ff6ae8cacc67ff7423e20b3683e49467220",
-      "size": 8086
+      "sha256": "72b0d04fe92203f05fa0671b06b3ed0bd32e30688f79ed0c2681bb9b875aa4d4",
+      "size": 8355
     },
     "translations/de_de/rarity.json": {
       "sha256": "a13703b086f11c757c1fc36120e27166c6d08cc2d32f9e290a5c89176b2eb4c7",
@@ -114,6 +126,10 @@
       "sha256": "1a380e9e56d566c4793cd2688093501db7131a1e01596ebada429bf129074812",
       "size": 154
     },
+    "translations/de_de/runes.json": {
+      "sha256": "7f90a51f3b7d37e5489f2e3929e1b370a1cfad338d63b7053397b4f77e11fcab",
+      "size": 2335
+    },
     "translations/de_de/schmiedezustaende.json": {
       "sha256": "944208ef909afee30abd6ad686607be8a153d4afb60595520af9ca81ab00bcf9",
       "size": 541
@@ -122,25 +138,33 @@
       "sha256": "4d3188bee1595c854aa9fb010fbdc414bc140becab3699757a58c42c0d6bfd1a",
       "size": 1127
     },
+    "translations/en_us/aincraftinfo.json": {
+      "sha256": "9e44f38668b5053647795ce34ea677dd9b3ffa8234d1757cb33392ee8a68b0f0",
+      "size": 6053
+    },
     "translations/en_us/aincraftstages.json": {
       "sha256": "f760ac1ce828e0f8f4d6d0aabdfc21e0c515a98d9496ef152cab9ff1ecb55dc0",
       "size": 5164
     },
     "translations/en_us/anvil.json": {
-      "sha256": "501826807e896baae5951f4bf22c0c2752a18492a8a3060f2188b5583d7f8054",
-      "size": 838
+      "sha256": "641dac81e57c4c0ef5d5e59dd7079f3294f9eb9d4eecb222e3cfc802eb393203",
+      "size": 839
+    },
+    "translations/en_us/blueprints.json": {
+      "sha256": "377f5da0326ee4a1b34ccda42311dacbea997debfc813c2630644c622e8b29b5",
+      "size": 160535
     },
     "translations/en_us/ccextrasconfig.json": {
-      "sha256": "259bc1d193a31b38425ff8e12fe0e2db409e730e8ea9b1cc75ef4268c58bef9b",
-      "size": 64959
+      "sha256": "0438c62ac180fb77362fb150cd60a62f49f4c190729cb994bd1eacfaccb4ea53",
+      "size": 67803
     },
     "translations/en_us/charms.json": {
       "sha256": "9832c14a775f9e57ace283f70cb2e68fbc4c844fac47315473b8823fe484e5ad",
       "size": 9484
     },
     "translations/en_us/debug.json": {
-      "sha256": "21ed7b07409d57353b9332155081cd5e4f50978ebcfdfe9ccc79921eaa50b39a",
-      "size": 8507
+      "sha256": "5e3127905acce454d1d09f1f7e2a1428586a71d5ac18faa9241767c7595157a3",
+      "size": 9038
     },
     "translations/en_us/essences.json": {
       "sha256": "e8ff7f2ea96c5842d14baab657b7bf955acb8ae6b37971fd67712d395b7ae5d2",
@@ -167,16 +191,16 @@
       "size": 1444
     },
     "translations/en_us/hud.json": {
-      "sha256": "48a7106e623c379bb47718c0e4fc89cf8c817a1818c952fb566e238296f44ce1",
-      "size": 8961
+      "sha256": "080d79274048c2a73564197200621a28ee85a66d6825afb6050fc9be9be9b3d9",
+      "size": 11975
     },
     "translations/en_us/materials.json": {
       "sha256": "bbdf2acbd75cbe223d20eddf3c9ed1afdbdcb7fc36e0a39b24815219569512b2",
       "size": 32882
     },
     "translations/en_us/neci.json": {
-      "sha256": "6c50baf2b9d08f1310630bc72ce2e80d3d4ed87536a5336e88914ee8758ab22d",
-      "size": 7902
+      "sha256": "0ee30711909c10d228f1c18fc8e01cfac6a0e7cf2be753656444f7ff2ad10fbf",
+      "size": 8163
     },
     "translations/en_us/rarity.json": {
       "sha256": "b97fed1223ea79e2019f48aaa1cace4808f96b83c2eaca60c77f7b95e85156a1",
@@ -185,6 +209,10 @@
     "translations/en_us/recycler.json": {
       "sha256": "fed2876651c611a3c0723a590b1bc00ae5b8923d8be185656b401682f7438a12",
       "size": 139
+    },
+    "translations/en_us/runes.json": {
+      "sha256": "c34e6663e4d1c441c8bebff4459eb66f065277b29b365d6f568774d900d766e0",
+      "size": 2264
     },
     "translations/en_us/schmiedezustaende.json": {
       "sha256": "3f850b9988019e994b4d56fd766d1ade6cc7a1997d12de54c7a726ed56197c15",

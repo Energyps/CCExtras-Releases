@@ -31902,7 +31902,7 @@
     {
       "minecraftId": "minecraft:diamond_hoe",
       "customModelData": 12,
-      "displayName": "CACTUS_CLICKER.tools.titan_reinforced_master_hoe",
+      "displayName": "Titanverstärkte Meisterhacke",
       "aincraftStage": 98,
       "itemScore": 1,
       "price": {
@@ -53338,7 +53338,7 @@
     {
       "minecraftId": "minecraft:diamond_axe",
       "customModelData": 174,
-      "displayName": "Frostfänger-Pilz-Spalter",
+      "displayName": "Frostfänger-Pilz-Spaltaxt",
       "aincraftStage": 87,
       "itemScore": 1,
       "price": {
@@ -65034,7 +65034,7 @@
     {
       "minecraftId": "minecraft:diamond_boots",
       "customModelData": 128,
-      "displayName": "Herausforderer  Eisenstiefel",
+      "displayName": "Herausforderer Eisenstiefel",
       "aincraftStage": 40,
       "itemScore": 41.8,
       "price": {
@@ -65089,7 +65089,7 @@
     {
       "minecraftId": "minecraft:name_tag",
       "customModelData": 1120,
-      "displayName": "Herausforderer  Schutzband",
+      "displayName": "Herausforderer Schutzband",
       "aincraftStage": 86,
       "itemScore": 87.8,
       "price": {
@@ -89895,7 +89895,7 @@
     {
       "minecraftId": "minecraft:diamond_chestplate",
       "customModelData": 102,
-      "displayName": "Mondblick Lederrüstung",
+      "displayName": "Mondblick-Lederrüstung",
       "aincraftStage": 76,
       "itemScore": 1,
       "price": {
@@ -114751,7 +114751,7 @@
     {
       "minecraftId": "minecraft:diamond_helmet",
       "customModelData": 76,
-      "displayName": "Einfacher Lederhelm",
+      "displayName": "Schlichter Lederhelm",
       "aincraftStage": 38,
       "itemScore": 60,
       "price": {
@@ -150236,7 +150236,7 @@
       ]
     },
     {
-      "kind": "ability",
+      "kind": "ability_slot",
       "minecraftId": "minecraft:name_tag",
       "customModelData": 0,
       "displayName": "Passiver Fähigkeits Slot",
@@ -150322,7 +150322,7 @@
       ]
     },
     {
-      "kind": "ability",
+      "kind": "ability_slot",
       "minecraftId": "minecraft:name_tag",
       "customModelData": 0,
       "displayName": "Passiver Fähigkeits Slot",
@@ -150408,7 +150408,7 @@
       ]
     },
     {
-      "kind": "ability",
+      "kind": "ability_slot",
       "minecraftId": "minecraft:name_tag",
       "customModelData": 0,
       "displayName": "Passiver Fähigkeits Slot",

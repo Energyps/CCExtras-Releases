@@ -1,0 +1,718 @@
+{
+  "_quelle": "CCLive-Utilities (CC0, Stand 964ad0d): CardsStatues.json, MobFloorHpData. Mob-HP je Ebene 1-100.",
+  "mobHp": [19, 38, 62, 93, 131, 178, 234, 302, 380, 472, 576, 694, 827, 975, 1139, 1319, 1517, 1733, 1967, 2220, 2492, 2785, 3098, 3433, 3789, 4167, 4568, 4992, 5440, 5912, 6408, 6929, 7476, 8048, 8647, 9272, 9924, 10604, 11311, 12047, 12811, 13605, 14428, 15280, 16162, 17075, 18019, 18994, 20000, 21038, 22108, 23211, 24346, 25514, 26716, 27952, 29221, 30525, 31863, 33236, 34645, 36088, 37568, 39083, 40635, 42223, 43849, 45511, 47210, 48947, 50722, 52536, 54387, 56277, 58206, 60174, 62181, 64228, 66314, 68441, 70607, 72815, 75062, 77351, 79681, 82052, 84464, 86919, 89415, 91953, 94534, 97157, 99823, 102532, 105284, 108079, 110917, 113800, 116726, 119696],
+  "cards": [
+    {
+      "name": "Kaninchen",
+      "effect": "Ausweichchance (Additiv)",
+      "aincraft": [1, 22]
+    },
+    {
+      "name": "Huhn",
+      "effect": "Bogenschaden (Additiv)",
+      "aincraft": [2, 23]
+    },
+    {
+      "name": "Schwein",
+      "effect": "Vitalität (Additiv)",
+      "aincraft": [3, 24]
+    },
+    {
+      "name": "Schaf",
+      "effect": "Ausweichlevel (Additiv)",
+      "aincraft": [4, 25]
+    },
+    {
+      "name": "Kuh",
+      "effect": "Axtschaden (Additiv)",
+      "aincraft": [5, 26]
+    },
+    {
+      "name": "Pferd",
+      "effect": "Laufgeschwindigkeit (Prozentual)",
+      "aincraft": [6, 27]
+    },
+    {
+      "name": "Esel",
+      "effect": "Verteidigung (Prozentual)",
+      "aincraft": [7, 28]
+    },
+    {
+      "name": "Lama",
+      "effect": "Schaden (Additiv)",
+      "aincraft": [8, 29]
+    },
+    {
+      "name": "Kamel",
+      "effect": "Kaktus Ertrag (Prozentual)",
+      "aincraft": [9, 30]
+    },
+    {
+      "name": "Ozelot",
+      "effect": "Schwertschaden (Additiv)",
+      "aincraft": [10, 31]
+    },
+    {
+      "name": "Ziege",
+      "effect": "Bergbau Erfahrung (Prozentual)",
+      "aincraft": [11, 32]
+    },
+    {
+      "name": "Fuchs",
+      "effect": "Glückslevel (Additiv)",
+      "aincraft": [12, 33]
+    },
+    {
+      "name": "Schildkröte",
+      "effect": "Verteidigung (Additiv)",
+      "aincraft": [13, 34]
+    },
+    {
+      "name": "Wolf",
+      "effect": "Kritischtrefferchancelevel (Additiv)",
+      "aincraft": [14, 35]
+    },
+    {
+      "name": "Panda",
+      "effect": "Vitalitätslevel (Additiv)",
+      "aincraft": [15, 36]
+    },
+    {
+      "name": "Polarbär",
+      "effect": "Stärkelevel (Additiv)",
+      "aincraft": [16, 37]
+    },
+    {
+      "name": "Axolotl",
+      "effect": "Geschicklichkeitslevel (Additiv)",
+      "aincraft": [17, 38]
+    },
+    {
+      "name": "Allay",
+      "effect": "Vitalität (Additiv)",
+      "aincraft": [18]
+    },
+    {
+      "name": "Biene",
+      "effect": "Schild Kapazität (Additiv)",
+      "aincraft": [19, 40]
+    },
+    {
+      "name": "Papagei",
+      "effect": "Charakter Erfahrung (Prozentual)",
+      "aincraft": [20]
+    },
+    {
+      "name": "Fledermaus",
+      "effect": "Lebensentzug (Additiv)",
+      "aincraft": [21]
+    },
+    {
+      "name": "Frosch",
+      "effect": "Armbrustschaden (Additiv)",
+      "aincraft": [39]
+    },
+    {
+      "name": "Tintenfisch",
+      "effect": "Schild Kapazität (Prozentual)",
+      "aincraft": [41]
+    },
+    {
+      "name": "Killer Kaninchen",
+      "effect": "Dropchance (Prozentual)",
+      "aincraft": [42]
+    },
+    {
+      "name": "Spinne",
+      "effect": "Schild Regeneration (Additiv)",
+      "aincraft": [43]
+    },
+    {
+      "name": "Goblin",
+      "effect": "Vitalität (Prozentual)",
+      "aincraft": [44]
+    },
+    {
+      "name": "Zombie",
+      "effect": "Seelen Ertrag (Prozentual)",
+      "aincraft": [45, 46]
+    },
+    {
+      "name": "Feuerzombie",
+      "effect": "Essenzen Dropchance (Prozentual)",
+      "aincraft": [47]
+    },
+    {
+      "name": "Wasserzombie",
+      "effect": "Lebensregeneration (Additiv)",
+      "aincraft": [48]
+    },
+    {
+      "name": "Steinzombie",
+      "effect": "Verteidigung (Prozentual)",
+      "aincraft": [49]
+    },
+    {
+      "name": "Zombie Bewohner",
+      "effect": "Münz Menge (Additiv)",
+      "aincraft": [50]
+    },
+    {
+      "name": "Mumien",
+      "effect": "Klingenschaden (Additiv)",
+      "aincraft": [51]
+    },
+    {
+      "name": "Diener",
+      "effect": "Schaden (Additiv)",
+      "aincraft": [52]
+    },
+    {
+      "name": "Skelett",
+      "effect": "Pfeilschaden (Additiv)",
+      "aincraft": [53]
+    },
+    {
+      "name": "Schleim",
+      "effect": "Charakter Erfahrung (Prozentual)",
+      "aincraft": [54, 63, 88, 95]
+    },
+    {
+      "name": "Hexen",
+      "effect": "Münz Menge (Prozentual)",
+      "aincraft": [55]
+    },
+    {
+      "name": "Streuner",
+      "effect": "Bogenschaden (Prozentual)",
+      "aincraft": [56]
+    },
+    {
+      "name": "Ertrunkener",
+      "effect": "Holzfäller Erfahrung (Prozentual)",
+      "aincraft": [57]
+    },
+    {
+      "name": "Plünderer",
+      "effect": "Armbrustschaden (Prozentual)",
+      "aincraft": [58]
+    },
+    {
+      "name": "Creeper",
+      "effect": "Schaden (Additiv)",
+      "aincraft": [59]
+    },
+    {
+      "name": "Magier",
+      "effect": "Amboss Geschwindigkeit (Additiv)",
+      "aincraft": [60]
+    },
+    {
+      "name": "Silberfisch",
+      "effect": "Amboss Kapazität (Additiv)",
+      "aincraft": [61]
+    },
+    {
+      "name": "Wächter",
+      "effect": "Ofen Geschwindigkeit (Prozentual)",
+      "aincraft": [62]
+    },
+    {
+      "name": "Spinnereiter",
+      "effect": "Schild Geschwindigkeit (Prozentual)",
+      "aincraft": [64]
+    },
+    {
+      "name": "Höhlenspinne",
+      "effect": "Münz Menge (Additiv)",
+      "aincraft": [65]
+    },
+    {
+      "name": "Skelettpferd",
+      "effect": "Pfeilschaden (Additiv)",
+      "aincraft": [66]
+    },
+    {
+      "name": "Pilzkuh",
+      "effect": "Jackpot (Prozentual)",
+      "aincraft": [67]
+    },
+    {
+      "name": "Hühnchenreiter",
+      "effect": "Klingenschaden (Additiv)",
+      "aincraft": [68]
+    },
+    {
+      "name": "Magmaschleim",
+      "effect": "Schmelz Geschwindigkeit (Prozentual)",
+      "aincraft": [69, 81, 92, 98]
+    },
+    {
+      "name": "Skelettreiter",
+      "effect": "Charakter Erfahrung (Prozentual)",
+      "aincraft": [70]
+    },
+    {
+      "name": "Verwüster",
+      "effect": "Kritischschadenlevel (Additiv)",
+      "aincraft": [71]
+    },
+    {
+      "name": "Eisengolem",
+      "effect": "Verteidigung (Prozentual)",
+      "aincraft": [72]
+    },
+    {
+      "name": "Sniffer",
+      "effect": "Holzertrag Chance (Prozentual)",
+      "aincraft": [73]
+    },
+    {
+      "name": "Schneegolem",
+      "effect": "Respawnrate (Prozentual)",
+      "aincraft": [74]
+    },
+    {
+      "name": "Schweini",
+      "effect": "Pfeilschaden (Prozentual)",
+      "aincraft": [75]
+    },
+    {
+      "name": "Schreiter",
+      "effect": "Schmelz Geschwindigkeit (Additiv)",
+      "aincraft": [76]
+    },
+    {
+      "name": "Zombie-Schweini",
+      "effect": "Schmelzofen Kapazität (Additiv)",
+      "aincraft": [77]
+    },
+    {
+      "name": "Zoglin",
+      "effect": "Fabrik Erfahrung (Prozentual)",
+      "aincraft": [78]
+    },
+    {
+      "name": "Schweini-Grobian",
+      "effect": "Axtschaden (Prozentual)",
+      "aincraft": [79]
+    },
+    {
+      "name": "Lohe",
+      "effect": "Schmelz Effizienz (Prozentual)",
+      "aincraft": [80]
+    },
+    {
+      "name": "Ghast",
+      "effect": "Amboss Kapazität (Prozentual)",
+      "aincraft": [82]
+    },
+    {
+      "name": "Leuchttintenfisch",
+      "effect": "Boss Schaden (Prozentual)",
+      "aincraft": [83]
+    },
+    {
+      "name": "Geladener Creeper",
+      "effect": "Amboss Erfahrung (Prozentual)",
+      "aincraft": [84]
+    },
+    {
+      "name": "Phantom",
+      "effect": "Kritischtrefferschaden (Prozentual)",
+      "aincraft": [85]
+    },
+    {
+      "name": "Endermilbe",
+      "effect": "Bergbauertrag Chance (Prozentual)",
+      "aincraft": [86]
+    },
+    {
+      "name": "Vex",
+      "effect": "Schwertschaden (Prozentual)",
+      "aincraft": [87]
+    },
+    {
+      "name": "Hoglin",
+      "effect": "Schmelz Kapazität (Prozentual)",
+      "aincraft": [89]
+    },
+    {
+      "name": "Shulker",
+      "effect": "Amboss Geschwindigkeit (Prozentual)",
+      "aincraft": [90]
+    },
+    {
+      "name": "Enderman",
+      "effect": "Kritischtrefferchance (Prozentual)",
+      "aincraft": [91]
+    },
+    {
+      "name": "Witherskelett",
+      "effect": "Klingenschaden (Prozentual)",
+      "aincraft": [93]
+    },
+    {
+      "name": "Verwüster Reiter",
+      "effect": "Kaktus Ertrag (Prozentual)",
+      "aincraft": [94]
+    },
+    {
+      "name": "Riesen",
+      "effect": "Bossschaden (Additiv)",
+      "aincraft": [96]
+    },
+    {
+      "name": "Wächterältester",
+      "effect": "Seelen Ertrag (Prozentual)",
+      "aincraft": [97]
+    },
+    {
+      "name": "Wither",
+      "effect": "Kritischtrefferschaden (Prozentual)",
+      "aincraft": [99]
+    },
+    {
+      "name": "Warden",
+      "effect": "Bossschaden (Prozentual)",
+      "aincraft": [100]
+    }
+  ],
+  "statues": [
+    {
+      "name": "Schwert",
+      "effect": "Schwertschaden (Additiv)",
+      "aincraft": [1]
+    },
+    {
+      "name": "Bogen",
+      "effect": "Bogenschaden (Additiv)",
+      "aincraft": [2]
+    },
+    {
+      "name": "Axt",
+      "effect": "Axtschaden (Additiv)",
+      "aincraft": [3]
+    },
+    {
+      "name": "Ofen",
+      "effect": "Schmelzgeschwindigkeit (Additiv)",
+      "aincraft": [4]
+    },
+    {
+      "name": "Armbrust",
+      "effect": "Armbrustschaden (Additiv)",
+      "aincraft": [5]
+    },
+    {
+      "name": "Geschwindigkeits",
+      "effect": "Laufgeschwindigkeit (Prozentual)",
+      "aincraft": [6, 27]
+    },
+    {
+      "name": "Kaktus",
+      "effect": "Kaktus Ertrag (Prozentual)",
+      "aincraft": [7, 28]
+    },
+    {
+      "name": "Seelen",
+      "effect": "Seelen Ertrag (Prozentual)",
+      "aincraft": [8, 29]
+    },
+    {
+      "name": "Kraft",
+      "effect": "Schaden (Additiv)",
+      "aincraft": [10, 31]
+    },
+    {
+      "name": "Bergbau",
+      "effect": "Bergbau Ertrag (Additiv)",
+      "aincraft": [11, 32]
+    },
+    {
+      "name": "Fabelhafte",
+      "effect": "Schmelz Effizienz (Additiv)",
+      "aincraft": [12]
+    },
+    {
+      "name": "Muschel",
+      "effect": "Schild Kapazität (Additiv)",
+      "aincraft": [13, 34]
+    },
+    {
+      "name": "Holzfäller",
+      "effect": "Holz Ertrag (Prozentual)",
+      "aincraft": [14, 35]
+    },
+    {
+      "name": "Kleeblatt",
+      "effect": "Glückslevel (Additiv)",
+      "aincraft": [15]
+    },
+    {
+      "name": "Herz",
+      "effect": "Vitalität (Additiv)",
+      "aincraft": [16, 37]
+    },
+    {
+      "name": "Gesundheits",
+      "effect": "Vitalität (Additiv)",
+      "aincraft": [17]
+    },
+    {
+      "name": "Essenz",
+      "effect": "Essenzen Dropchance (Prozentual)",
+      "aincraft": [18, 39]
+    },
+    {
+      "name": "Buch",
+      "effect": "Charakter Erfahrung (Prozentual)",
+      "aincraft": [19, 40]
+    },
+    {
+      "name": "Amboss",
+      "effect": "Amboss Geschwindigkeit (Additiv)",
+      "aincraft": [20, 45]
+    },
+    {
+      "name": "Schmelztiegel",
+      "effect": "Schmelz Kapazität (Additiv)",
+      "aincraft": [21, 50]
+    },
+    {
+      "name": "Hasenpfote",
+      "effect": "Dropchance (Prozentual)",
+      "aincraft": [22, 42]
+    },
+    {
+      "name": "Fuß",
+      "effect": "Geschicklichkeitslevel (Additiv)",
+      "aincraft": [23, 49]
+    },
+    {
+      "name": "Hantel",
+      "effect": "Stärkelevel (Additiv)",
+      "aincraft": [25, 47]
+    },
+    {
+      "name": "Goldtopf",
+      "effect": "Münz Menge (Additiv)",
+      "aincraft": [26]
+    },
+    {
+      "name": "Bullseye",
+      "effect": "Pfeilschaden (Additiv)",
+      "aincraft": [33, 43]
+    },
+    {
+      "name": "Faust",
+      "effect": "Klingenschaden (Additiv)",
+      "aincraft": [36, 44]
+    },
+    {
+      "name": "Pharao",
+      "effect": "Münz Menge (Prozentual)",
+      "aincraft": [51]
+    },
+    {
+      "name": "Kriegsaxt",
+      "effect": "Axtschaden (Prozentual)",
+      "aincraft": [52]
+    },
+    {
+      "name": "Pfeil",
+      "effect": "Pfeilschaden (Prozentual)",
+      "aincraft": [53]
+    },
+    {
+      "name": "Schraubenschlüssel",
+      "effect": "Fabrik Erfahrung (Prozentual)",
+      "aincraft": [54, 63, 88, 95]
+    },
+    {
+      "name": "Blatt",
+      "effect": "Lebensregeneration (Additiv)",
+      "aincraft": [55]
+    },
+    {
+      "name": "Dart",
+      "effect": "Pfeilschaden (Prozentual)",
+      "aincraft": [56]
+    },
+    {
+      "name": "Schatz",
+      "effect": "Münzchance (Prozentual)",
+      "aincraft": [57]
+    },
+    {
+      "name": "Bolzen",
+      "effect": "Armbrustschaden (Prozentual)",
+      "aincraft": [58]
+    },
+    {
+      "name": "Spitzhacke",
+      "effect": "Bergbau Erfahrung (Prozentual)",
+      "aincraft": [59]
+    },
+    {
+      "name": "Klingen",
+      "effect": "Klingenschaden (Prozentual)",
+      "aincraft": [60]
+    },
+    {
+      "name": "Tarn",
+      "effect": "Ausweichlevel (Additiv)",
+      "aincraft": [61]
+    },
+    {
+      "name": "Spritzen",
+      "effect": "Lebensentzug (Additiv)",
+      "aincraft": [62]
+    },
+    {
+      "name": "Kristallschwert",
+      "effect": "Schwertschaden (Prozentual)",
+      "aincraft": [64]
+    },
+    {
+      "name": "Funken",
+      "effect": "Schmelz Effizienz (Prozentual)",
+      "aincraft": [65]
+    },
+    {
+      "name": "Stern",
+      "effect": "Charakter Erfahrung (Prozentual)",
+      "aincraft": [66]
+    },
+    {
+      "name": "Setzling",
+      "effect": "Respawnrate (Prozentual)",
+      "aincraft": [67]
+    },
+    {
+      "name": "Zahnrad",
+      "effect": "Amboss Kapazität (Additiv)",
+      "aincraft": [68]
+    },
+    {
+      "name": "Säge",
+      "effect": "Holzfäller Erfahrung (Prozentual)",
+      "aincraft": [69]
+    },
+    {
+      "name": "Teleskop",
+      "effect": "Kritischtrefferchancelevel (Additiv)",
+      "aincraft": [70]
+    },
+    {
+      "name": "Boxhandschuh",
+      "effect": "Schaden (Additiv)",
+      "aincraft": [71]
+    },
+    {
+      "name": "Riesen",
+      "effect": "Bossschaden (Additiv)",
+      "aincraft": [72]
+    },
+    {
+      "name": "Rüstung",
+      "effect": "Verteidigung (Additiv)",
+      "aincraft": [73, 92, 99]
+    },
+    {
+      "name": "Barriere",
+      "effect": "Schild Kapazität (Prozentual)",
+      "aincraft": [74]
+    },
+    {
+      "name": "Goldenes Zahnrad",
+      "effect": "Amboss Kapazität (Prozentual)",
+      "aincraft": [75]
+    },
+    {
+      "name": "Kaktusmeister",
+      "effect": "Kaktus Ertrag (Prozentual)",
+      "aincraft": [76, 90]
+    },
+    {
+      "name": "Präzision",
+      "effect": "Kritischtrefferchance (Prozentual)",
+      "aincraft": [77, 87]
+    },
+    {
+      "name": "Seelenmeister",
+      "effect": "Seelen Ertrag (Prozentual)",
+      "aincraft": [78, 93]
+    },
+    {
+      "name": "Goldhammer",
+      "effect": "Amboss Erfahrung (Prozentual)",
+      "aincraft": [79]
+    },
+    {
+      "name": "Hochofen",
+      "effect": "Schmelzgeschwindigkeit (Prozentual)",
+      "aincraft": [80]
+    },
+    {
+      "name": "Barren",
+      "effect": "Schmelz Kapazität (Prozentual)",
+      "aincraft": [81]
+    },
+    {
+      "name": "Blut",
+      "effect": "Vitalität (Prozentual)",
+      "aincraft": [82]
+    },
+    {
+      "name": "Gießkannen",
+      "effect": "Respawnrate (Prozentual)",
+      "aincraft": [83]
+    },
+    {
+      "name": "Goldenespitzhacke",
+      "effect": "Bergbau Erfahrung (Prozentual)",
+      "aincraft": [84]
+    },
+    {
+      "name": "Schnitter",
+      "effect": "Kritischtrefferschaden (Prozentual)",
+      "aincraft": [85]
+    },
+    {
+      "name": "Stundenglas",
+      "effect": "Schildgeschwindigkeit (Additiv)",
+      "aincraft": [86]
+    },
+    {
+      "name": "Baum",
+      "effect": "Holzfäller Erfahrung (Prozentual)",
+      "aincraft": [89]
+    },
+    {
+      "name": "Scope",
+      "effect": "Kritischtrefferschadenlevel (Additiv)",
+      "aincraft": [91]
+    },
+    {
+      "name": "Goldener Amboss",
+      "effect": "Amboss Geschwindigkeit (Prozentual)",
+      "aincraft": [94]
+    },
+    {
+      "name": "Festungs",
+      "effect": "Verteidigungslevel (Additiv)",
+      "aincraft": [96]
+    },
+    {
+      "name": "Titanen",
+      "effect": "Bossschaden (Prozentual)",
+      "aincraft": [97]
+    },
+    {
+      "name": "Kraftgürtel",
+      "effect": "Schaden (Additiv)",
+      "aincraft": [100]
+    }
+  ]
+}
