@@ -1,0 +1,930 @@
+[
+  {
+    "level": 1,
+    "material": "config.ccextras.aincraft.floor1.material1",
+    "amount": 113,
+    "souls": "11",
+    "coins": 4,
+    "cactus": "100 K"
+  },
+  {
+    "level": 2,
+    "material": "config.ccextras.aincraft.floor1.material1",
+    "amount": 113,
+    "souls": "46",
+    "coins": 4,
+    "cactus": "100 M"
+  },
+  {
+    "level": 3,
+    "material": "config.ccextras.aincraft.floor1.material3",
+    "amount": 22,
+    "souls": "196",
+    "coins": 4,
+    "cactus": "100 B"
+  },
+  {
+    "level": 4,
+    "material": "config.ccextras.aincraft.floor1.material5",
+    "amount": 1,
+    "souls": "825",
+    "coins": 4,
+    "cactus": "100 T"
+  },
+  {
+    "level": 5,
+    "material": "config.ccextras.aincraft.floor1.material5",
+    "amount": 1,
+    "souls": "3.481 K",
+    "coins": 6,
+    "cactus": "100 aa"
+  },
+  {
+    "level": 6,
+    "material": "config.ccextras.aincraft.floor1.material1",
+    "amount": 114,
+    "souls": "14.678 K",
+    "coins": 7,
+    "cactus": "100 ab"
+  },
+  {
+    "level": 7,
+    "material": "config.ccextras.aincraft.floor2.material5",
+    "amount": 1,
+    "souls": "61.897 K",
+    "coins": 10,
+    "cactus": "100 ac"
+  },
+  {
+    "level": 8,
+    "material": "config.ccextras.aincraft.floor1.material1",
+    "amount": 114,
+    "souls": "261.016 K",
+    "coins": 14,
+    "cactus": "100 ad"
+  },
+  {
+    "level": 9,
+    "material": "config.ccextras.aincraft.floor1.material3",
+    "amount": 23,
+    "souls": "1.101 M",
+    "coins": 20,
+    "cactus": "100 ae"
+  },
+  {
+    "level": 10,
+    "material": "config.ccextras.aincraft.floor1.material1",
+    "amount": 115,
+    "souls": "4.642 M",
+    "coins": 26,
+    "cactus": "100 af"
+  },
+  {
+    "level": 11,
+    "material": "config.ccextras.aincraft.floor1.material4",
+    "amount": 5,
+    "souls": "19.573 M",
+    "coins": 35,
+    "cactus": "100 ag"
+  },
+  {
+    "level": 12,
+    "material": "config.ccextras.aincraft.floor3.material1",
+    "amount": 115,
+    "souls": "82.540 M",
+    "coins": 45,
+    "cactus": "100 ah"
+  },
+  {
+    "level": 13,
+    "material": "Spinnfaden",
+    "amount": 19,
+    "souls": "348.070 M",
+    "coins": 58,
+    "cactus": "100 ai"
+  },
+  {
+    "level": 14,
+    "material": "config.ccextras.aincraft.floor2.material1",
+    "amount": 118,
+    "souls": "1.468 B",
+    "coins": 73,
+    "cactus": "100 aj"
+  },
+  {
+    "level": 15,
+    "material": "config.ccextras.aincraft.floor4.material1",
+    "amount": 118,
+    "souls": "6.190 B",
+    "coins": 90,
+    "cactus": "100 ak"
+  },
+  {
+    "level": 16,
+    "material": "Spinnfaden",
+    "amount": 19,
+    "souls": "26.102 B",
+    "coins": 110,
+    "cactus": "100 al"
+  },
+  {
+    "level": 17,
+    "material": "config.ccextras.aincraft.floor5.material5",
+    "amount": 1,
+    "souls": "110.069 B",
+    "coins": 132,
+    "cactus": "100 am"
+  },
+  {
+    "level": 18,
+    "material": "Kohle",
+    "amount": 507,
+    "souls": "464.159 B",
+    "coins": 158,
+    "cactus": "100 an"
+  },
+  {
+    "level": 19,
+    "material": "config.ccextras.aincraft.floor1.material4",
+    "amount": 6,
+    "souls": "1.957 T",
+    "coins": 187,
+    "cactus": "100 ao"
+  },
+  {
+    "level": 20,
+    "material": "config.ccextras.aincraft.floor4.material4",
+    "amount": 6,
+    "souls": "8.254 T",
+    "coins": 219,
+    "cactus": "100 ap"
+  },
+  {
+    "level": 21,
+    "material": "Kohle",
+    "amount": 513,
+    "souls": "34.807 T",
+    "coins": 255,
+    "cactus": "100 aq"
+  },
+  {
+    "level": 22,
+    "material": "config.ccextras.aincraft.floor2.material3",
+    "amount": 25,
+    "souls": "146.780 T",
+    "coins": 295,
+    "cactus": "100 ar"
+  },
+  {
+    "level": 23,
+    "material": "config.ccextras.aincraft.floor4.material3",
+    "amount": 25,
+    "souls": "618.966 T",
+    "coins": 339,
+    "cactus": "100 as"
+  },
+  {
+    "level": 24,
+    "material": "config.ccextras.aincraft.floor5.material4",
+    "amount": 6,
+    "souls": "2.610 aa",
+    "coins": 387,
+    "cactus": "100 at"
+  },
+  {
+    "level": 25,
+    "material": "Spinnfaden",
+    "amount": 24,
+    "souls": "11.007 aa",
+    "coins": 439,
+    "cactus": "100 au"
+  },
+  {
+    "level": 26,
+    "material": "config.ccextras.aincraft.floor6.material2",
+    "amount": 66,
+    "souls": "46.416 aa",
+    "coins": 495,
+    "cactus": "100 av"
+  },
+  {
+    "level": 27,
+    "material": "config.ccextras.aincraft.floor3.material2",
+    "amount": 66,
+    "souls": "195.734 aa",
+    "coins": 557,
+    "cactus": "100 aw"
+  },
+  {
+    "level": 28,
+    "material": "config.ccextras.aincraft.floor5.material3",
+    "amount": 26,
+    "souls": "825.404 aa",
+    "coins": 623,
+    "cactus": "100 ax"
+  },
+  {
+    "level": 29,
+    "material": "Kohle",
+    "amount": 531,
+    "souls": "3.481 ab",
+    "coins": 695,
+    "cactus": "100 ay"
+  },
+  {
+    "level": 30,
+    "material": "config.ccextras.aincraft.floor3.material1",
+    "amount": 140,
+    "souls": "14.678 ab",
+    "coins": 771,
+    "cactus": "100 az"
+  },
+  {
+    "level": 31,
+    "material": "config.ccextras.aincraft.floor7.material3",
+    "amount": 28,
+    "souls": "61.897 ab",
+    "coins": 854,
+    "cactus": "100 ba"
+  },
+  {
+    "level": 32,
+    "material": "config.ccextras.aincraft.floor4.material4",
+    "amount": 7,
+    "souls": "261.016 ab",
+    "coins": 941,
+    "cactus": "100 bb"
+  },
+  {
+    "level": 33,
+    "material": "config.ccextras.aincraft.floor4.material5",
+    "amount": 1,
+    "souls": "1.101 ac",
+    "coins": 1035,
+    "cactus": "100 bc"
+  },
+  {
+    "level": 34,
+    "material": "Rohes Kupfererz",
+    "amount": 544,
+    "souls": "4.642 ac",
+    "coins": 1135,
+    "cactus": "100 bd"
+  },
+  {
+    "level": 35,
+    "material": "config.ccextras.aincraft.floor5.material1",
+    "amount": 149,
+    "souls": "19.573 ac",
+    "coins": 1241,
+    "cactus": "100 be"
+  },
+  {
+    "level": 36,
+    "material": "config.ccextras.aincraft.floor2.material3",
+    "amount": 29,
+    "souls": "82.540 ac",
+    "coins": 1353,
+    "cactus": "100 bf"
+  },
+  {
+    "level": 37,
+    "material": "config.ccextras.aincraft.floor7.material2",
+    "amount": 15,
+    "souls": "348.070 ac",
+    "coins": 1472,
+    "cactus": "100 bg"
+  },
+  {
+    "level": 38,
+    "material": "config.ccextras.aincraft.floor4.material2",
+    "amount": 15,
+    "souls": "1.468 ad",
+    "coins": 1598,
+    "cactus": "100 bh"
+  },
+  {
+    "level": 39,
+    "material": "config.ccextras.aincraft.floor2.material3",
+    "amount": 6,
+    "souls": "6.190 ad",
+    "coins": 1731,
+    "cactus": "100 bi"
+  },
+  {
+    "level": 40,
+    "material": "config.ccextras.aincraft.floor10.material5",
+    "amount": 1,
+    "souls": "26.102 ad",
+    "coins": 1871,
+    "cactus": "100 bj"
+  },
+  {
+    "level": 41,
+    "material": "config.ccextras.aincraft.floor6.material1",
+    "amount": 169,
+    "souls": "110.069 ad",
+    "coins": 2019,
+    "cactus": "100 bk"
+  },
+  {
+    "level": 42,
+    "material": "config.ccextras.aincraft.floor9.material5",
+    "amount": 1,
+    "souls": "464.159 ad",
+    "coins": 2174,
+    "cactus": "100 bl"
+  },
+  {
+    "level": 43,
+    "material": "config.ccextras.aincraft.floor4.material4",
+    "amount": 8,
+    "souls": "1.957 ae",
+    "coins": 2336,
+    "cactus": "100 bm"
+  },
+  {
+    "level": 44,
+    "material": "config.ccextras.aincraft.floor7.material3",
+    "amount": 33,
+    "souls": "8.254 ae",
+    "coins": 2507,
+    "cactus": "100 bn"
+  },
+  {
+    "level": 45,
+    "material": "config.ccextras.aincraft.floor8.material4",
+    "amount": 9,
+    "souls": "34.807 ae",
+    "coins": 2686,
+    "cactus": "100 bo"
+  },
+  {
+    "level": 46,
+    "material": "config.ccextras.aincraft.floor5.material2",
+    "amount": 90,
+    "souls": "146.780 ae",
+    "coins": 2873,
+    "cactus": "100 bp"
+  },
+  {
+    "level": 47,
+    "material": "config.ccextras.aincraft.floor7.material4",
+    "amount": 9,
+    "souls": "618.966 ae",
+    "coins": 3068,
+    "cactus": "100 bq"
+  },
+  {
+    "level": 48,
+    "material": "config.ccextras.aincraft.floor5.material2",
+    "amount": 90,
+    "souls": "2.610 af",
+    "coins": 3272,
+    "cactus": "100 br"
+  },
+  {
+    "level": 49,
+    "material": "config.ccextras.aincraft.floor10.material1",
+    "amount": 38,
+    "souls": "11.007 af",
+    "coins": 3486,
+    "cactus": "100 bs"
+  },
+  {
+    "level": 50,
+    "material": "config.ccextras.aincraft.floor3.material4",
+    "amount": 1,
+    "souls": "46.416 af",
+    "coins": 3708,
+    "cactus": "100 bt"
+  },
+  {
+    "level": 51,
+    "material": "config.ccextras.aincraft.floor11.material2",
+    "amount": 19,
+    "souls": "195.734 af",
+    "coins": 3939,
+    "cactus": "100 bu"
+  },
+  {
+    "level": 52,
+    "material": "config.ccextras.aincraft.floor10.material3",
+    "amount": 7,
+    "souls": "825.404 af",
+    "coins": 4180,
+    "cactus": "100 bv"
+  },
+  {
+    "level": 53,
+    "material": "config.ccextras.aincraft.floor6.material4",
+    "amount": 10,
+    "souls": "3.481 ag",
+    "coins": 4431,
+    "cactus": "100 bw"
+  },
+  {
+    "level": 54,
+    "material": "config.ccextras.aincraft.floor8.material3",
+    "amount": 41,
+    "souls": "14.678 ag",
+    "coins": 4691,
+    "cactus": "100 bx"
+  },
+  {
+    "level": 55,
+    "material": "config.ccextras.aincraft.floor3.material4",
+    "amount": 10,
+    "souls": "61.897 ag",
+    "coins": 4961,
+    "cactus": "100 by"
+  },
+  {
+    "level": 56,
+    "material": "config.ccextras.aincraft.floor10.material1",
+    "amount": 207,
+    "souls": "261.016 ag",
+    "coins": 5242,
+    "cactus": "100 bz"
+  },
+  {
+    "level": 57,
+    "material": "config.ccextras.aincraft.floor4.material1",
+    "amount": 222,
+    "souls": "1.101 ah",
+    "coins": 5533,
+    "cactus": "100 ca"
+  },
+  {
+    "level": 58,
+    "material": "config.ccextras.aincraft.floor11.material4",
+    "amount": 11,
+    "souls": "4.642 ah",
+    "coins": 5834,
+    "cactus": "100 cb"
+  },
+  {
+    "level": 59,
+    "material": "config.ccextras.aincraft.floor8.material4",
+    "amount": 11,
+    "souls": "19.573 ah",
+    "coins": 6147,
+    "cactus": "100 cc"
+  },
+  {
+    "level": 60,
+    "material": "config.ccextras.aincraft.floor10.material1",
+    "amount": 222,
+    "souls": "82.540 ah",
+    "coins": 6470,
+    "cactus": "100 cd"
+  },
+  {
+    "level": 61,
+    "material": "config.ccextras.aincraft.floor6.material4",
+    "amount": 11,
+    "souls": "348.070 ah",
+    "coins": 6804,
+    "cactus": "100 ce"
+  },
+  {
+    "level": 62,
+    "material": "config.ccextras.aincraft.floor13.material2",
+    "amount": 119,
+    "souls": "1.468 ai",
+    "coins": 7150,
+    "cactus": "100 cf"
+  },
+  {
+    "level": 63,
+    "material": "config.ccextras.aincraft.floor9.material1",
+    "amount": 238,
+    "souls": "6.190 ai",
+    "coins": 7507,
+    "cactus": "100 cg"
+  },
+  {
+    "level": 64,
+    "material": "config.ccextras.aincraft.floor11.material3",
+    "amount": 47,
+    "souls": "26.102 ai",
+    "coins": 7876,
+    "cactus": "100 ch"
+  },
+  {
+    "level": 65,
+    "material": "config.ccextras.aincraft.floor14.material2",
+    "amount": 25,
+    "souls": "110.069 ai",
+    "coins": 8257,
+    "cactus": "100 ci"
+  },
+  {
+    "level": 66,
+    "material": "config.ccextras.aincraft.floor14.material5",
+    "amount": 1,
+    "souls": "464.159 ai",
+    "coins": 8650,
+    "cactus": "100 cj"
+  },
+  {
+    "level": 67,
+    "material": "Spinnfaden",
+    "amount": 91,
+    "souls": "1.957 aj",
+    "coins": 9055,
+    "cactus": "100 ck"
+  },
+  {
+    "level": 68,
+    "material": "config.ccextras.aincraft.floor14.material3",
+    "amount": 10,
+    "souls": "8.254 aj",
+    "coins": 9473,
+    "cactus": "100 cl"
+  },
+  {
+    "level": 69,
+    "material": "config.ccextras.aincraft.floor13.material5",
+    "amount": 2,
+    "souls": "34.807 aj",
+    "coins": 9904,
+    "cactus": "100 cm"
+  },
+  {
+    "level": 70,
+    "material": "config.ccextras.aincraft.floor12.material4",
+    "amount": 13,
+    "souls": "146.780 aj",
+    "coins": 10347,
+    "cactus": "100 cn"
+  },
+  {
+    "level": 71,
+    "material": "config.ccextras.aincraft.floor7.material3",
+    "amount": 54,
+    "souls": "618.966 aj",
+    "coins": 10803,
+    "cactus": "100 co"
+  },
+  {
+    "level": 72,
+    "material": "config.ccextras.aincraft.floor14.material5",
+    "amount": 2,
+    "souls": "2.610 ak",
+    "coins": 11273,
+    "cactus": "100 cp"
+  },
+  {
+    "level": 73,
+    "material": "Dschungelholz",
+    "amount": 836,
+    "souls": "11.007 ak",
+    "coins": 11755,
+    "cactus": "100 cq"
+  },
+  {
+    "level": 74,
+    "material": "config.ccextras.aincraft.floor3.material3",
+    "amount": 11,
+    "souls": "46.416 ak",
+    "coins": 12252,
+    "cactus": "100 cr"
+  },
+  {
+    "level": 75,
+    "material": "config.ccextras.aincraft.floor12.material5",
+    "amount": 1,
+    "souls": "195.734 ak",
+    "coins": 12762,
+    "cactus": "100 cs"
+  },
+  {
+    "level": 76,
+    "material": "config.ccextras.aincraft.floor18.material3",
+    "amount": 11,
+    "souls": "825.404 ak",
+    "coins": 13286,
+    "cactus": "100 ct"
+  },
+  {
+    "level": 77,
+    "material": "config.ccextras.aincraft.floor6.material5",
+    "amount": 3,
+    "souls": "3.481 al",
+    "coins": 13825,
+    "cactus": "100 cu"
+  },
+  {
+    "level": 78,
+    "material": "config.ccextras.aincraft.floor4.material2",
+    "amount": 157,
+    "souls": "14.678 al",
+    "coins": 14378,
+    "cactus": "100 cv"
+  },
+  {
+    "level": 79,
+    "material": "config.ccextras.aincraft.floor5.material1",
+    "amount": 13,
+    "souls": "61.897 al",
+    "coins": 14945,
+    "cactus": "100 cw"
+  },
+  {
+    "level": 80,
+    "material": "config.ccextras.aincraft.floor9.material3",
+    "amount": 62,
+    "souls": "261.016 al",
+    "coins": 15527,
+    "cactus": "100 cx"
+  },
+  {
+    "level": 81,
+    "material": "config.ccextras.aincraft.floor17.material4",
+    "amount": 3,
+    "souls": "1.101 am",
+    "coins": 16124,
+    "cactus": "100 cy"
+  },
+  {
+    "level": 82,
+    "material": "config.ccextras.aincraft.floor7.material1",
+    "amount": 67,
+    "souls": "4.642 am",
+    "coins": 16736,
+    "cactus": "100 cz"
+  },
+  {
+    "level": 83,
+    "material": "config.ccextras.aincraft.floor15.material2",
+    "amount": 33,
+    "souls": "19.573 am",
+    "coins": 17364,
+    "cactus": "100 da"
+  },
+  {
+    "level": 84,
+    "material": "config.ccextras.aincraft.floor10.material4",
+    "amount": 3,
+    "souls": "82.540 am",
+    "coins": 18006,
+    "cactus": "100 db"
+  },
+  {
+    "level": 85,
+    "material": "config.ccextras.aincraft.floor22.material1",
+    "amount": 359,
+    "souls": "348.070 am",
+    "coins": 18665,
+    "cactus": "100 dc"
+  },
+  {
+    "level": 86,
+    "material": "config.ccextras.aincraft.floor21.material3",
+    "amount": 71,
+    "souls": "1.468 an",
+    "coins": 19340,
+    "cactus": "100 dd"
+  },
+  {
+    "level": 87,
+    "material": "Dschungelholz",
+    "amount": 995,
+    "souls": "6.190 an",
+    "coins": 20030,
+    "cactus": "100 de"
+  },
+  {
+    "level": 88,
+    "material": "config.ccextras.aincraft.floor19.material4",
+    "amount": 17,
+    "souls": "26.102 an",
+    "coins": 20737,
+    "cactus": "100 df"
+  },
+  {
+    "level": 89,
+    "material": "config.ccextras.aincraft.floor6.material3",
+    "amount": 76,
+    "souls": "110.069 an",
+    "coins": 21460,
+    "cactus": "100 dg"
+  },
+  {
+    "level": 90,
+    "material": "config.ccextras.aincraft.floor19.material5",
+    "amount": 3,
+    "souls": "464.159 an",
+    "coins": 22200,
+    "cactus": "100 dh"
+  },
+  {
+    "level": 91,
+    "material": "config.ccextras.aincraft.floor20.material5",
+    "amount": 3,
+    "souls": "1.957 ao",
+    "coins": 22956,
+    "cactus": "100 di"
+  },
+  {
+    "level": 92,
+    "material": "config.ccextras.aincraft.floor23.material3",
+    "amount": 76,
+    "souls": "8.254 ao",
+    "coins": 23730,
+    "cactus": "100 dj"
+  },
+  {
+    "level": 93,
+    "material": "config.ccextras.aincraft.floor20.material2",
+    "amount": 204,
+    "souls": "34.807 ao",
+    "coins": 24521,
+    "cactus": "100 dk"
+  },
+  {
+    "level": 94,
+    "material": "config.ccextras.aincraft.floor14.material1",
+    "amount": 408,
+    "souls": "146.780 ao",
+    "coins": 25329,
+    "cactus": "100 dl"
+  },
+  {
+    "level": 95,
+    "material": "config.ccextras.aincraft.floor20.material1",
+    "amount": 408,
+    "souls": "618.966 ao",
+    "coins": 26155,
+    "cactus": "100 dm"
+  },
+  {
+    "level": 96,
+    "material": "config.ccextras.aincraft.floor5.material1",
+    "amount": 408,
+    "souls": "2.610 ap",
+    "coins": 26998,
+    "cactus": "100 dn"
+  },
+  {
+    "level": 97,
+    "material": "config.ccextras.aincraft.floor16.material1",
+    "amount": 434,
+    "souls": "11.007 ap",
+    "coins": 27860,
+    "cactus": "100 do"
+  },
+  {
+    "level": 98,
+    "material": "config.ccextras.aincraft.floor23.material3",
+    "amount": 86,
+    "souls": "46.416 ap",
+    "coins": 28739,
+    "cactus": "100 dp"
+  },
+  {
+    "level": 99,
+    "material": "config.ccextras.aincraft.floor21.material3",
+    "amount": 86,
+    "souls": "195.734 ap",
+    "coins": 29637,
+    "cactus": "100 dq"
+  },
+  {
+    "level": 100,
+    "material": "config.ccextras.aincraft.floor9.material4",
+    "amount": 21,
+    "souls": "825.404 ap",
+    "coins": 30554,
+    "cactus": "100 dr"
+  },
+  {
+    "level": 101,
+    "material": "config.ccextras.aincraft.floor24.material3",
+    "amount": 92,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 102,
+    "material": "config.ccextras.aincraft.floor6.material2",
+    "amount": 230,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 103,
+    "material": "config.ccextras.aincraft.floor11.material4",
+    "amount": 23,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 104,
+    "material": "config.ccextras.aincraft.floor24.material4",
+    "amount": 23,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 105,
+    "material": "config.ccextras.aincraft.floor22.material4",
+    "amount": 24,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 106,
+    "material": "config.ccextras.aincraft.floor22.material1",
+    "amount": 490,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 107,
+    "material": "config.ccextras.aincraft.floor4.material4",
+    "amount": 24,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 108,
+    "material": "config.ccextras.aincraft.floor11.material1",
+    "amount": 490,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 109,
+    "material": "config.ccextras.aincraft.floor15.material2",
+    "amount": 259,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 110,
+    "material": "config.ccextras.aincraft.floor25.material4",
+    "amount": 25,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 111,
+    "material": "config.ccextras.aincraft.floor5.material2",
+    "amount": 259,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 112,
+    "material": "config.ccextras.aincraft.floor7.material1",
+    "amount": 519,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 113,
+    "material": "config.ccextras.aincraft.floor21.material2",
+    "amount": 275,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 114,
+    "material": "config.ccextras.aincraft.floor9.material4",
+    "amount": 27,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 115,
+    "material": "config.ccextras.aincraft.floor19.material4",
+    "amount": 27,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  },
+  {
+    "level": 116,
+    "material": "Eisenbarren",
+    "amount": 1516,
+    "souls": "-1",
+    "coins": -1,
+    "cactus": "-1"
+  }
+]

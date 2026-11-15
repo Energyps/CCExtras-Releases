@@ -1,0 +1,9 @@
+{
+  "config.ccextras.blacksmith.forgingconditions.blitz": "Blitzgeschmiedet",
+  "config.ccextras.blacksmith.forgingconditions.deamon": "Dämonengeschmiedet",
+  "config.ccextras.blacksmith.forgingconditions.dragon": "Drachengeschmiedet",
+  "config.ccextras.blacksmith.forgingconditions.frost": "Frostgeschmiedet",
+  "config.ccextras.blacksmith.forgingconditions.lava": "Lavageschmiedet",
+  "config.ccextras.blacksmith.forgingconditions.stern": "Sternengeschmiedet",
+  "config.ccextras.blacksmith.forgingconditions.titan": "Titangeschmiedet"
+}

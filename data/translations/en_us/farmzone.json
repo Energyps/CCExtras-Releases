@@ -1,0 +1,20 @@
+{
+  "config.ccextras.farmzone.material.obsidian": "Obsidian",
+  "config.ccextras.farmzone.material.diamond": "Diamonds",
+  "config.ccextras.farmzone.material.sulfur": "Sulfur",
+  "config.ccextras.farmzone.material.quartz": "Quartz",
+  "config.ccextras.farmzone.material.mushroom_wood": "Mushroom Wood",
+  "config.ccextras.farmzone.material.dark_oak_wood": "Dark Oak Wood",
+  "config.ccextras.farmzone.material.mangrove_wood": "Mangrove Wood",
+  "config.ccextras.farmzone.material.crimson_wood": "Crimson Wood",
+  "config.ccextras.farmzone.material.warped_wood": "Warped Wood",
+  "config.ccextras.farmzone.material.echo_crystal": "Echo Crystal",
+  "config.ccextras.farmzone.material.oak_wood": "Oak Wood",
+  "config.ccextras.farmzone.material.coal": "Coal",
+  "config.ccextras.farmzone.material.copper_ingot": "Copper Ingot",
+  "config.ccextras.farmzone.material.jungle_wood": "Jungle Wood",
+  "config.ccextras.farmzone.material.spruce_wood": "Spruce Wood",
+  "config.ccextras.farmzone.material.bamboo": "Bamboo",
+  "tooltip.ccextras.location.pond": "Pond: %s (%s)",
+  "tooltip.ccextras.location.unlock": "Unlocked by: %s"
+}

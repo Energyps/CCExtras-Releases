@@ -1,0 +1,20 @@
+{
+  "config.ccextras.keys.removeBlueprintPin": "remove current Blueprint Pin",
+  "config.ccextras.keys.setBlueprintPin": "Pin current Blueprint",
+  "config.ccextras.keys.addBlueprintAmount": "Add Blueprint Amount",
+  "config.ccextras.keys.removeBlueprintAmount": "Remove Blueprint Amount",
+  "config.ccextras.keys.nextBlueprint": "Next Blueprint",
+  "config.ccextras.keys.previousBlueprint": "Previous Blueprint",
+  "config.ccextras.keys.nextBlueprintSearch": "Blueprint search: next entry",
+  "config.ccextras.keys.previousBlueprintSearch": "Blueprint search: previous entry",
+  "config.ccextras.keys.addBlueprintSearchAmount": "Blueprint search: amount +1",
+  "config.ccextras.keys.removeBlueprintSearchAmount": "Blueprint search: amount -1",
+  "config.ccextras.keys.addBlueprintSearchAmountTen": "Blueprint search: amount +10",
+  "config.ccextras.keys.removeBlueprintSearchAmountTen": "Blueprint search: amount -10",
+  "config.ccextras.keys.removeBlueprintSearch": "Blueprint search: remove entry",
+  "config.ccextras.keys.toggleBlueprintOverall": "Toggle Blueprint Overall Costs",
+  "config.ccextras.keys.scrollBlueprintOverallUp": "Scroll Blueprint Overall Costs Up",
+  "config.ccextras.keys.scrollBlueprintOverallDown": "Scroll Blueprint Overall Costs Down",
+  "config.ccextras.keys.toggleAincraftCoinsStopwatch": "Toggle Aincraft Coins Stopwatch",
+  "config.ccextras.keys.resetAincraftCoinsStopwatch": "Reset Aincraft Coins Stopwatch"
+}

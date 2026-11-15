@@ -1,0 +1,1212 @@
+{
+  "Effizienz": [
+    {
+      "Level": 0,
+      "config.ccextras.aincraft.rarity.common": 30,
+      "config.ccextras.aincraft.rarity.uncommon": 39,
+      "config.ccextras.aincraft.rarity.rare": 47,
+      "config.ccextras.aincraft.rarity.epic": 52,
+      "config.ccextras.aincraft.rarity.legendary": 56
+    },
+    {
+      "Level": 1,
+      "config.ccextras.aincraft.rarity.common": 35,
+      "config.ccextras.aincraft.rarity.uncommon": 45,
+      "config.ccextras.aincraft.rarity.rare": 55,
+      "config.ccextras.aincraft.rarity.epic": 60,
+      "config.ccextras.aincraft.rarity.legendary": 65
+    },
+    {
+      "Level": 2,
+      "config.ccextras.aincraft.rarity.common": 38,
+      "config.ccextras.aincraft.rarity.uncommon": 50,
+      "config.ccextras.aincraft.rarity.rare": 60,
+      "config.ccextras.aincraft.rarity.epic": 67,
+      "config.ccextras.aincraft.rarity.legendary": 72
+    },
+    {
+      "Level": 3,
+      "config.ccextras.aincraft.rarity.common": 41,
+      "config.ccextras.aincraft.rarity.uncommon": 54,
+      "config.ccextras.aincraft.rarity.rare": 65,
+      "config.ccextras.aincraft.rarity.epic": 72,
+      "config.ccextras.aincraft.rarity.legendary": 77
+    },
+    {
+      "Level": 4,
+      "config.ccextras.aincraft.rarity.common": 44,
+      "config.ccextras.aincraft.rarity.uncommon": 57,
+      "config.ccextras.aincraft.rarity.rare": 69,
+      "config.ccextras.aincraft.rarity.epic": 77,
+      "config.ccextras.aincraft.rarity.legendary": 83
+    },
+    {
+      "Level": 5,
+      "config.ccextras.aincraft.rarity.common": 47,
+      "config.ccextras.aincraft.rarity.uncommon": 60,
+      "config.ccextras.aincraft.rarity.rare": 73,
+      "config.ccextras.aincraft.rarity.epic": 81,
+      "config.ccextras.aincraft.rarity.legendary": 87
+    },
+    {
+      "Level": 6,
+      "config.ccextras.aincraft.rarity.common": 49,
+      "config.ccextras.aincraft.rarity.uncommon": 63,
+      "config.ccextras.aincraft.rarity.rare": 77,
+      "config.ccextras.aincraft.rarity.epic": 85,
+      "config.ccextras.aincraft.rarity.legendary": 92
+    },
+    {
+      "Level": 7,
+      "config.ccextras.aincraft.rarity.common": 51,
+      "config.ccextras.aincraft.rarity.uncommon": 66,
+      "config.ccextras.aincraft.rarity.rare": 81,
+      "config.ccextras.aincraft.rarity.epic": 89,
+      "config.ccextras.aincraft.rarity.legendary": 96
+    },
+    {
+      "Level": 8,
+      "config.ccextras.aincraft.rarity.common": 53,
+      "config.ccextras.aincraft.rarity.uncommon": 69,
+      "config.ccextras.aincraft.rarity.rare": 84,
+      "config.ccextras.aincraft.rarity.epic": 93,
+      "config.ccextras.aincraft.rarity.legendary": 100
+    },
+    {
+      "Level": 9,
+      "config.ccextras.aincraft.rarity.common": 55,
+      "config.ccextras.aincraft.rarity.uncommon": 72,
+      "config.ccextras.aincraft.rarity.rare": 87,
+      "config.ccextras.aincraft.rarity.epic": 97,
+      "config.ccextras.aincraft.rarity.legendary": 104
+    },
+    {
+      "Level": 10,
+      "config.ccextras.aincraft.rarity.common": 57,
+      "config.ccextras.aincraft.rarity.uncommon": 74,
+      "config.ccextras.aincraft.rarity.rare": 91,
+      "config.ccextras.aincraft.rarity.epic": 100,
+      "config.ccextras.aincraft.rarity.legendary": 108
+    },
+    {
+      "Level": 11,
+      "config.ccextras.aincraft.rarity.common": 59,
+      "config.ccextras.aincraft.rarity.uncommon": 77,
+      "config.ccextras.aincraft.rarity.rare": 94,
+      "config.ccextras.aincraft.rarity.epic": 104,
+      "config.ccextras.aincraft.rarity.legendary": 111
+    },
+    {
+      "Level": 12,
+      "config.ccextras.aincraft.rarity.common": 61,
+      "config.ccextras.aincraft.rarity.uncommon": 79,
+      "config.ccextras.aincraft.rarity.rare": 97,
+      "config.ccextras.aincraft.rarity.epic": 107,
+      "config.ccextras.aincraft.rarity.legendary": 115
+    },
+    {
+      "Level": 13,
+      "config.ccextras.aincraft.rarity.common": 63,
+      "config.ccextras.aincraft.rarity.uncommon": 82,
+      "config.ccextras.aincraft.rarity.rare": 100,
+      "config.ccextras.aincraft.rarity.epic": 110,
+      "config.ccextras.aincraft.rarity.legendary": 119
+    },
+    {
+      "Level": 14,
+      "config.ccextras.aincraft.rarity.common": 65,
+      "config.ccextras.aincraft.rarity.uncommon": 84,
+      "config.ccextras.aincraft.rarity.rare": 103,
+      "config.ccextras.aincraft.rarity.epic": 114,
+      "config.ccextras.aincraft.rarity.legendary": 122
+    },
+    {
+      "Level": 15,
+      "config.ccextras.aincraft.rarity.common": 67,
+      "config.ccextras.aincraft.rarity.uncommon": 87,
+      "config.ccextras.aincraft.rarity.rare": 106,
+      "config.ccextras.aincraft.rarity.epic": 117,
+      "config.ccextras.aincraft.rarity.legendary": 126
+    },
+    {
+      "Level": 16,
+      "config.ccextras.aincraft.rarity.common": 69,
+      "config.ccextras.aincraft.rarity.uncommon": 89,
+      "config.ccextras.aincraft.rarity.rare": 109,
+      "config.ccextras.aincraft.rarity.epic": 120,
+      "config.ccextras.aincraft.rarity.legendary": 129
+    },
+    {
+      "Level": 17,
+      "config.ccextras.aincraft.rarity.common": 70,
+      "config.ccextras.aincraft.rarity.uncommon": 92,
+      "config.ccextras.aincraft.rarity.rare": 112,
+      "config.ccextras.aincraft.rarity.epic": 123,
+      "config.ccextras.aincraft.rarity.legendary": 133
+    },
+    {
+      "Level": 18,
+      "config.ccextras.aincraft.rarity.common": 72,
+      "config.ccextras.aincraft.rarity.uncommon": 94,
+      "config.ccextras.aincraft.rarity.rare": 115,
+      "config.ccextras.aincraft.rarity.epic": 127,
+      "config.ccextras.aincraft.rarity.legendary": 136
+    },
+    {
+      "Level": 19,
+      "config.ccextras.aincraft.rarity.common": 74,
+      "config.ccextras.aincraft.rarity.uncommon": 96,
+      "config.ccextras.aincraft.rarity.rare": 118,
+      "config.ccextras.aincraft.rarity.epic": 130,
+      "config.ccextras.aincraft.rarity.legendary": 140
+    },
+    {
+      "Level": 20,
+      "config.ccextras.aincraft.rarity.common": 76,
+      "config.ccextras.aincraft.rarity.uncommon": 99,
+      "config.ccextras.aincraft.rarity.rare": 120,
+      "config.ccextras.aincraft.rarity.epic": 133,
+      "config.ccextras.aincraft.rarity.legendary": 143
+    },
+    {
+      "Level": 21,
+      "config.ccextras.aincraft.rarity.common": 78,
+      "config.ccextras.aincraft.rarity.uncommon": 101,
+      "config.ccextras.aincraft.rarity.rare": 123,
+      "config.ccextras.aincraft.rarity.epic": 136,
+      "config.ccextras.aincraft.rarity.legendary": 147
+    },
+    {
+      "Level": 22,
+      "config.ccextras.aincraft.rarity.common": 80,
+      "config.ccextras.aincraft.rarity.uncommon": 103,
+      "config.ccextras.aincraft.rarity.rare": 126,
+      "config.ccextras.aincraft.rarity.epic": 140,
+      "config.ccextras.aincraft.rarity.legendary": 150
+    },
+    {
+      "Level": 23,
+      "config.ccextras.aincraft.rarity.common": 81,
+      "config.ccextras.aincraft.rarity.uncommon": 106,
+      "config.ccextras.aincraft.rarity.rare": 129,
+      "config.ccextras.aincraft.rarity.epic": 143,
+      "config.ccextras.aincraft.rarity.legendary": 154
+    },
+    {
+      "Level": 24,
+      "config.ccextras.aincraft.rarity.common": 83,
+      "config.ccextras.aincraft.rarity.uncommon": 108,
+      "config.ccextras.aincraft.rarity.rare": 132,
+      "config.ccextras.aincraft.rarity.epic": 146,
+      "config.ccextras.aincraft.rarity.legendary": 157
+    },
+    {
+      "Level": 25,
+      "config.ccextras.aincraft.rarity.common": 85,
+      "config.ccextras.aincraft.rarity.uncommon": 111,
+      "config.ccextras.aincraft.rarity.rare": 135,
+      "config.ccextras.aincraft.rarity.epic": 149,
+      "config.ccextras.aincraft.rarity.legendary": 161
+    },
+    {
+      "Level": 26,
+      "config.ccextras.aincraft.rarity.common": 87,
+      "config.ccextras.aincraft.rarity.uncommon": 113,
+      "config.ccextras.aincraft.rarity.rare": 138,
+      "config.ccextras.aincraft.rarity.epic": 153,
+      "config.ccextras.aincraft.rarity.legendary": 164
+    },
+    {
+      "Level": 27,
+      "config.ccextras.aincraft.rarity.common": 89,
+      "config.ccextras.aincraft.rarity.uncommon": 116,
+      "config.ccextras.aincraft.rarity.rare": 141,
+      "config.ccextras.aincraft.rarity.epic": 156,
+      "config.ccextras.aincraft.rarity.legendary": 168
+    },
+    {
+      "Level": 28,
+      "config.ccextras.aincraft.rarity.common": 91,
+      "config.ccextras.aincraft.rarity.uncommon": 118,
+      "config.ccextras.aincraft.rarity.rare": 144,
+      "config.ccextras.aincraft.rarity.epic": 159,
+      "config.ccextras.aincraft.rarity.legendary": 171
+    },
+    {
+      "Level": 29,
+      "config.ccextras.aincraft.rarity.common": 93,
+      "config.ccextras.aincraft.rarity.uncommon": 120,
+      "config.ccextras.aincraft.rarity.rare": 147,
+      "config.ccextras.aincraft.rarity.epic": 163,
+      "config.ccextras.aincraft.rarity.legendary": 175
+    },
+    {
+      "Level": 30,
+      "config.ccextras.aincraft.rarity.common": 95,
+      "config.ccextras.aincraft.rarity.uncommon": 123,
+      "config.ccextras.aincraft.rarity.rare": 150,
+      "config.ccextras.aincraft.rarity.epic": 166,
+      "config.ccextras.aincraft.rarity.legendary": 179
+    },
+    {
+      "Level": 31,
+      "config.ccextras.aincraft.rarity.common": 96,
+      "config.ccextras.aincraft.rarity.uncommon": 125,
+      "config.ccextras.aincraft.rarity.rare": 153,
+      "config.ccextras.aincraft.rarity.epic": 169,
+      "config.ccextras.aincraft.rarity.legendary": 182
+    },
+    {
+      "Level": 32,
+      "config.ccextras.aincraft.rarity.common": 98,
+      "config.ccextras.aincraft.rarity.uncommon": 128,
+      "config.ccextras.aincraft.rarity.rare": 156,
+      "config.ccextras.aincraft.rarity.epic": 173,
+      "config.ccextras.aincraft.rarity.legendary": 186
+    },
+    {
+      "Level": 33,
+      "config.ccextras.aincraft.rarity.common": 100,
+      "config.ccextras.aincraft.rarity.uncommon": 131,
+      "config.ccextras.aincraft.rarity.rare": 159,
+      "config.ccextras.aincraft.rarity.epic": 176,
+      "config.ccextras.aincraft.rarity.legendary": 190
+    },
+    {
+      "Level": 34,
+      "config.ccextras.aincraft.rarity.common": 102,
+      "config.ccextras.aincraft.rarity.uncommon": 133,
+      "config.ccextras.aincraft.rarity.rare": 163,
+      "config.ccextras.aincraft.rarity.epic": 180,
+      "config.ccextras.aincraft.rarity.legendary": 193
+    },
+    {
+      "Level": 35,
+      "config.ccextras.aincraft.rarity.common": 104,
+      "config.ccextras.aincraft.rarity.uncommon": 136,
+      "config.ccextras.aincraft.rarity.rare": 166,
+      "config.ccextras.aincraft.rarity.epic": 183,
+      "config.ccextras.aincraft.rarity.legendary": 197
+    },
+    {
+      "Level": 36,
+      "config.ccextras.aincraft.rarity.common": 106,
+      "config.ccextras.aincraft.rarity.uncommon": 138,
+      "config.ccextras.aincraft.rarity.rare": 169,
+      "config.ccextras.aincraft.rarity.epic": 187,
+      "config.ccextras.aincraft.rarity.legendary": 201
+    },
+    {
+      "Level": 37,
+      "config.ccextras.aincraft.rarity.common": 108,
+      "config.ccextras.aincraft.rarity.uncommon": 141,
+      "config.ccextras.aincraft.rarity.rare": 172,
+      "config.ccextras.aincraft.rarity.epic": 191,
+      "config.ccextras.aincraft.rarity.legendary": 205
+    },
+    {
+      "Level": 38,
+      "config.ccextras.aincraft.rarity.common": 110,
+      "config.ccextras.aincraft.rarity.uncommon": 144,
+      "config.ccextras.aincraft.rarity.rare": 176,
+      "config.ccextras.aincraft.rarity.epic": 194,
+      "config.ccextras.aincraft.rarity.legendary": 209
+    },
+    {
+      "Level": 39,
+      "config.ccextras.aincraft.rarity.common": 113,
+      "config.ccextras.aincraft.rarity.uncommon": 146,
+      "config.ccextras.aincraft.rarity.rare": 179,
+      "config.ccextras.aincraft.rarity.epic": 198,
+      "config.ccextras.aincraft.rarity.legendary": 213
+    },
+    {
+      "Level": 40,
+      "config.ccextras.aincraft.rarity.common": 115,
+      "config.ccextras.aincraft.rarity.uncommon": 149,
+      "config.ccextras.aincraft.rarity.rare": 182,
+      "config.ccextras.aincraft.rarity.epic": 202,
+      "config.ccextras.aincraft.rarity.legendary": 217
+    },
+    {
+      "Level": 41,
+      "config.ccextras.aincraft.rarity.common": 117,
+      "config.ccextras.aincraft.rarity.uncommon": 152,
+      "config.ccextras.aincraft.rarity.rare": 186,
+      "config.ccextras.aincraft.rarity.epic": 205,
+      "config.ccextras.aincraft.rarity.legendary": 221
+    },
+    {
+      "Level": 42,
+      "config.ccextras.aincraft.rarity.common": 119,
+      "config.ccextras.aincraft.rarity.uncommon": 155,
+      "config.ccextras.aincraft.rarity.rare": 189,
+      "config.ccextras.aincraft.rarity.epic": 209,
+      "config.ccextras.aincraft.rarity.legendary": 225
+    },
+    {
+      "Level": 43,
+      "config.ccextras.aincraft.rarity.common": 121,
+      "config.ccextras.aincraft.rarity.uncommon": 158,
+      "config.ccextras.aincraft.rarity.rare": 193,
+      "config.ccextras.aincraft.rarity.epic": 213,
+      "config.ccextras.aincraft.rarity.legendary": 229
+    },
+    {
+      "Level": 44,
+      "config.ccextras.aincraft.rarity.common": 123,
+      "config.ccextras.aincraft.rarity.uncommon": 161,
+      "config.ccextras.aincraft.rarity.rare": 196,
+      "config.ccextras.aincraft.rarity.epic": 217,
+      "config.ccextras.aincraft.rarity.legendary": 234
+    },
+    {
+      "Level": 45,
+      "config.ccextras.aincraft.rarity.common": 126,
+      "config.ccextras.aincraft.rarity.uncommon": 164,
+      "config.ccextras.aincraft.rarity.rare": 200,
+      "config.ccextras.aincraft.rarity.epic": 221,
+      "config.ccextras.aincraft.rarity.legendary": 238
+    },
+    {
+      "Level": 46,
+      "config.ccextras.aincraft.rarity.common": 128,
+      "config.ccextras.aincraft.rarity.uncommon": 167,
+      "config.ccextras.aincraft.rarity.rare": 204,
+      "config.ccextras.aincraft.rarity.epic": 225,
+      "config.ccextras.aincraft.rarity.legendary": 242
+    },
+    {
+      "Level": 47,
+      "config.ccextras.aincraft.rarity.common": 130,
+      "config.ccextras.aincraft.rarity.uncommon": 170,
+      "config.ccextras.aincraft.rarity.rare": 207,
+      "config.ccextras.aincraft.rarity.epic": 229,
+      "config.ccextras.aincraft.rarity.legendary": 247
+    },
+    {
+      "Level": 48,
+      "config.ccextras.aincraft.rarity.common": 133,
+      "config.ccextras.aincraft.rarity.uncommon": 173,
+      "config.ccextras.aincraft.rarity.rare": 211,
+      "config.ccextras.aincraft.rarity.epic": 233,
+      "config.ccextras.aincraft.rarity.legendary": 251
+    },
+    {
+      "Level": 49,
+      "config.ccextras.aincraft.rarity.common": 135,
+      "config.ccextras.aincraft.rarity.uncommon": 176,
+      "config.ccextras.aincraft.rarity.rare": 215,
+      "config.ccextras.aincraft.rarity.epic": 238,
+      "config.ccextras.aincraft.rarity.legendary": 256
+    },
+    {
+      "Level": 50,
+      "config.ccextras.aincraft.rarity.common": 137,
+      "config.ccextras.aincraft.rarity.uncommon": 179,
+      "config.ccextras.aincraft.rarity.rare": 219,
+      "config.ccextras.aincraft.rarity.epic": 242,
+      "config.ccextras.aincraft.rarity.legendary": 260
+    },
+    {
+      "Level": 51,
+      "config.ccextras.aincraft.rarity.common": 140,
+      "config.ccextras.aincraft.rarity.uncommon": 182,
+      "config.ccextras.aincraft.rarity.rare": 223,
+      "config.ccextras.aincraft.rarity.epic": 246,
+      "config.ccextras.aincraft.rarity.legendary": 265
+    },
+    {
+      "Level": 52,
+      "config.ccextras.aincraft.rarity.common": 142,
+      "config.ccextras.aincraft.rarity.uncommon": 186,
+      "config.ccextras.aincraft.rarity.rare": 227,
+      "config.ccextras.aincraft.rarity.epic": 251,
+      "config.ccextras.aincraft.rarity.legendary": 270
+    },
+    {
+      "Level": 53,
+      "config.ccextras.aincraft.rarity.common": 145,
+      "config.ccextras.aincraft.rarity.uncommon": 189,
+      "config.ccextras.aincraft.rarity.rare": 231,
+      "config.ccextras.aincraft.rarity.epic": 255,
+      "config.ccextras.aincraft.rarity.legendary": 275
+    },
+    {
+      "Level": 54,
+      "config.ccextras.aincraft.rarity.common": 148,
+      "config.ccextras.aincraft.rarity.uncommon": 192,
+      "config.ccextras.aincraft.rarity.rare": 235,
+      "config.ccextras.aincraft.rarity.epic": 260,
+      "config.ccextras.aincraft.rarity.legendary": 280
+    },
+    {
+      "Level": 55,
+      "config.ccextras.aincraft.rarity.common": 150,
+      "config.ccextras.aincraft.rarity.uncommon": 196,
+      "config.ccextras.aincraft.rarity.rare": 239,
+      "config.ccextras.aincraft.rarity.epic": 265,
+      "config.ccextras.aincraft.rarity.legendary": 285
+    },
+    {
+      "Level": 56,
+      "config.ccextras.aincraft.rarity.common": 153,
+      "config.ccextras.aincraft.rarity.uncommon": 199,
+      "config.ccextras.aincraft.rarity.rare": 244,
+      "config.ccextras.aincraft.rarity.epic": 269,
+      "config.ccextras.aincraft.rarity.legendary": 290
+    },
+    {
+      "Level": 57,
+      "config.ccextras.aincraft.rarity.common": 156,
+      "config.ccextras.aincraft.rarity.uncommon": 203,
+      "config.ccextras.aincraft.rarity.rare": 248,
+      "config.ccextras.aincraft.rarity.epic": 274,
+      "config.ccextras.aincraft.rarity.legendary": 295
+    },
+    {
+      "Level": 58,
+      "config.ccextras.aincraft.rarity.common": 159,
+      "config.ccextras.aincraft.rarity.uncommon": 207,
+      "config.ccextras.aincraft.rarity.rare": 253,
+      "config.ccextras.aincraft.rarity.epic": 279,
+      "config.ccextras.aincraft.rarity.legendary": 301
+    },
+    {
+      "Level": 59,
+      "config.ccextras.aincraft.rarity.common": 161,
+      "config.ccextras.aincraft.rarity.uncommon": 210,
+      "config.ccextras.aincraft.rarity.rare": 257,
+      "config.ccextras.aincraft.rarity.epic": 284,
+      "config.ccextras.aincraft.rarity.legendary": 306
+    },
+    {
+      "Level": 60,
+      "config.ccextras.aincraft.rarity.common": 164,
+      "config.ccextras.aincraft.rarity.uncommon": 214,
+      "config.ccextras.aincraft.rarity.rare": 262,
+      "config.ccextras.aincraft.rarity.epic": 289,
+      "config.ccextras.aincraft.rarity.legendary": 312
+    },
+    {
+      "Level": 61,
+      "config.ccextras.aincraft.rarity.common": 167,
+      "config.ccextras.aincraft.rarity.uncommon": 218,
+      "config.ccextras.aincraft.rarity.rare": 266,
+      "config.ccextras.aincraft.rarity.epic": 295,
+      "config.ccextras.aincraft.rarity.legendary": 317
+    },
+    {
+      "Level": 62,
+      "config.ccextras.aincraft.rarity.common": 170,
+      "config.ccextras.aincraft.rarity.uncommon": 222,
+      "config.ccextras.aincraft.rarity.rare": 271,
+      "config.ccextras.aincraft.rarity.epic": 300,
+      "config.ccextras.aincraft.rarity.legendary": 323
+    },
+    {
+      "Level": 63,
+      "config.ccextras.aincraft.rarity.common": 173,
+      "config.ccextras.aincraft.rarity.uncommon": 226,
+      "config.ccextras.aincraft.rarity.rare": 276,
+      "config.ccextras.aincraft.rarity.epic": 306,
+      "config.ccextras.aincraft.rarity.legendary": 329
+    },
+    {
+      "Level": 64,
+      "config.ccextras.aincraft.rarity.common": 177,
+      "config.ccextras.aincraft.rarity.uncommon": 230,
+      "config.ccextras.aincraft.rarity.rare": 281,
+      "config.ccextras.aincraft.rarity.epic": 311,
+      "config.ccextras.aincraft.rarity.legendary": 335
+    },
+    {
+      "Level": 65,
+      "config.ccextras.aincraft.rarity.common": 180,
+      "config.ccextras.aincraft.rarity.uncommon": 234,
+      "config.ccextras.aincraft.rarity.rare": 286,
+      "config.ccextras.aincraft.rarity.epic": 317,
+      "config.ccextras.aincraft.rarity.legendary": 341
+    },
+    {
+      "Level": 66,
+      "config.ccextras.aincraft.rarity.common": 183,
+      "config.ccextras.aincraft.rarity.uncommon": 239,
+      "config.ccextras.aincraft.rarity.rare": 292,
+      "config.ccextras.aincraft.rarity.epic": 323,
+      "config.ccextras.aincraft.rarity.legendary": 347
+    },
+    {
+      "Level": 67,
+      "config.ccextras.aincraft.rarity.common": 186,
+      "config.ccextras.aincraft.rarity.uncommon": 243,
+      "config.ccextras.aincraft.rarity.rare": 297,
+      "config.ccextras.aincraft.rarity.epic": 329,
+      "config.ccextras.aincraft.rarity.legendary": 354
+    },
+    {
+      "Level": 68,
+      "config.ccextras.aincraft.rarity.common": 190,
+      "config.ccextras.aincraft.rarity.uncommon": 247,
+      "config.ccextras.aincraft.rarity.rare": 303,
+      "config.ccextras.aincraft.rarity.epic": 335,
+      "config.ccextras.aincraft.rarity.legendary": 360
+    },
+    {
+      "Level": 69,
+      "config.ccextras.aincraft.rarity.common": 193,
+      "config.ccextras.aincraft.rarity.uncommon": 252,
+      "config.ccextras.aincraft.rarity.rare": 308,
+      "config.ccextras.aincraft.rarity.epic": 341,
+      "config.ccextras.aincraft.rarity.legendary": 367
+    },
+    {
+      "Level": 70,
+      "config.ccextras.aincraft.rarity.common": 197,
+      "config.ccextras.aincraft.rarity.uncommon": 257,
+      "config.ccextras.aincraft.rarity.rare": 314,
+      "config.ccextras.aincraft.rarity.epic": 347,
+      "config.ccextras.aincraft.rarity.legendary": 374
+    },
+    {
+      "Level": 71,
+      "config.ccextras.aincraft.rarity.common": 201,
+      "config.ccextras.aincraft.rarity.uncommon": 262,
+      "config.ccextras.aincraft.rarity.rare": 320,
+      "config.ccextras.aincraft.rarity.epic": 354,
+      "config.ccextras.aincraft.rarity.legendary": 381
+    },
+    {
+      "Level": 72,
+      "config.ccextras.aincraft.rarity.common": 204,
+      "config.ccextras.aincraft.rarity.uncommon": 266,
+      "config.ccextras.aincraft.rarity.rare": 326,
+      "config.ccextras.aincraft.rarity.epic": 360,
+      "config.ccextras.aincraft.rarity.legendary": 388
+    },
+    {
+      "Level": 73,
+      "config.ccextras.aincraft.rarity.common": 208,
+      "config.ccextras.aincraft.rarity.uncommon": 271,
+      "config.ccextras.aincraft.rarity.rare": 332,
+      "config.ccextras.aincraft.rarity.epic": 367,
+      "config.ccextras.aincraft.rarity.legendary": 395
+    },
+    {
+      "Level": 74,
+      "config.ccextras.aincraft.rarity.common": 212,
+      "config.ccextras.aincraft.rarity.uncommon": 277,
+      "config.ccextras.aincraft.rarity.rare": 338,
+      "config.ccextras.aincraft.rarity.epic": 374,
+      "config.ccextras.aincraft.rarity.legendary": 403
+    },
+    {
+      "Level": 75,
+      "config.ccextras.aincraft.rarity.common": 216,
+      "config.ccextras.aincraft.rarity.uncommon": 282,
+      "config.ccextras.aincraft.rarity.rare": 345,
+      "config.ccextras.aincraft.rarity.epic": 381,
+      "config.ccextras.aincraft.rarity.legendary": 410
+    },
+    {
+      "Level": 76,
+      "config.ccextras.aincraft.rarity.common": 220,
+      "config.ccextras.aincraft.rarity.uncommon": 287,
+      "config.ccextras.aincraft.rarity.rare": 351,
+      "config.ccextras.aincraft.rarity.epic": 389,
+      "config.ccextras.aincraft.rarity.legendary": 418
+    },
+    {
+      "Level": 77,
+      "config.ccextras.aincraft.rarity.common": 225,
+      "config.ccextras.aincraft.rarity.uncommon": 293,
+      "config.ccextras.aincraft.rarity.rare": 358,
+      "config.ccextras.aincraft.rarity.epic": 396,
+      "config.ccextras.aincraft.rarity.legendary": 426
+    },
+    {
+      "Level": 78,
+      "config.ccextras.aincraft.rarity.common": 229,
+      "config.ccextras.aincraft.rarity.uncommon": 298,
+      "config.ccextras.aincraft.rarity.rare": 365,
+      "config.ccextras.aincraft.rarity.epic": 404,
+      "config.ccextras.aincraft.rarity.legendary": 435
+    },
+    {
+      "Level": 79,
+      "config.ccextras.aincraft.rarity.common": 233,
+      "config.ccextras.aincraft.rarity.uncommon": 304,
+      "config.ccextras.aincraft.rarity.rare": 372,
+      "config.ccextras.aincraft.rarity.epic": 412,
+      "config.ccextras.aincraft.rarity.legendary": 443
+    },
+    {
+      "Level": 80,
+      "config.ccextras.aincraft.rarity.common": 238,
+      "config.ccextras.aincraft.rarity.uncommon": 310,
+      "config.ccextras.aincraft.rarity.rare": 379,
+      "config.ccextras.aincraft.rarity.epic": 420,
+      "config.ccextras.aincraft.rarity.legendary": 452
+    },
+    {
+      "Level": 81,
+      "config.ccextras.aincraft.rarity.common": 243,
+      "config.ccextras.aincraft.rarity.uncommon": 316,
+      "config.ccextras.aincraft.rarity.rare": 387,
+      "config.ccextras.aincraft.rarity.epic": 428,
+      "config.ccextras.aincraft.rarity.legendary": 461
+    },
+    {
+      "Level": 82,
+      "config.ccextras.aincraft.rarity.common": 248,
+      "config.ccextras.aincraft.rarity.uncommon": 323,
+      "config.ccextras.aincraft.rarity.rare": 395,
+      "config.ccextras.aincraft.rarity.epic": 437,
+      "config.ccextras.aincraft.rarity.legendary": 470
+    },
+    {
+      "Level": 83,
+      "config.ccextras.aincraft.rarity.common": 252,
+      "config.ccextras.aincraft.rarity.uncommon": 329,
+      "config.ccextras.aincraft.rarity.rare": 403,
+      "config.ccextras.aincraft.rarity.epic": 445,
+      "config.ccextras.aincraft.rarity.legendary": 479
+    },
+    {
+      "Level": 84,
+      "config.ccextras.aincraft.rarity.common": 258,
+      "config.ccextras.aincraft.rarity.uncommon": 336,
+      "config.ccextras.aincraft.rarity.rare": 411,
+      "config.ccextras.aincraft.rarity.epic": 454,
+      "config.ccextras.aincraft.rarity.legendary": 489
+    },
+    {
+      "Level": 85,
+      "config.ccextras.aincraft.rarity.common": 263,
+      "config.ccextras.aincraft.rarity.uncommon": 343,
+      "config.ccextras.aincraft.rarity.rare": 419,
+      "config.ccextras.aincraft.rarity.epic": 464,
+      "config.ccextras.aincraft.rarity.legendary": 499
+    },
+    {
+      "Level": 86,
+      "config.ccextras.aincraft.rarity.common": 268,
+      "config.ccextras.aincraft.rarity.uncommon": 350,
+      "config.ccextras.aincraft.rarity.rare": 428,
+      "config.ccextras.aincraft.rarity.epic": 473,
+      "config.ccextras.aincraft.rarity.legendary": 509
+    },
+    {
+      "Level": 87,
+      "config.ccextras.aincraft.rarity.common": 274,
+      "config.ccextras.aincraft.rarity.uncommon": 357,
+      "config.ccextras.aincraft.rarity.rare": 437,
+      "config.ccextras.aincraft.rarity.epic": 483,
+      "config.ccextras.aincraft.rarity.legendary": 520
+    },
+    {
+      "Level": 88,
+      "config.ccextras.aincraft.rarity.common": 280,
+      "config.ccextras.aincraft.rarity.uncommon": 365,
+      "config.ccextras.aincraft.rarity.rare": 446,
+      "config.ccextras.aincraft.rarity.epic": 493,
+      "config.ccextras.aincraft.rarity.legendary": 531
+    },
+    {
+      "Level": 89,
+      "config.ccextras.aincraft.rarity.common": 285,
+      "config.ccextras.aincraft.rarity.uncommon": 372,
+      "config.ccextras.aincraft.rarity.rare": 455,
+      "config.ccextras.aincraft.rarity.epic": 504,
+      "config.ccextras.aincraft.rarity.legendary": 542
+    },
+    {
+      "Level": 90,
+      "config.ccextras.aincraft.rarity.common": 292,
+      "config.ccextras.aincraft.rarity.uncommon": 380,
+      "config.ccextras.aincraft.rarity.rare": 465,
+      "config.ccextras.aincraft.rarity.epic": 515,
+      "config.ccextras.aincraft.rarity.legendary": 554
+    },
+    {
+      "Level": 91,
+      "config.ccextras.aincraft.rarity.common": 298,
+      "config.ccextras.aincraft.rarity.uncommon": 389,
+      "config.ccextras.aincraft.rarity.rare": 475,
+      "config.ccextras.aincraft.rarity.epic": 526,
+      "config.ccextras.aincraft.rarity.legendary": 566
+    },
+    {
+      "Level": 92,
+      "config.ccextras.aincraft.rarity.common": 304,
+      "config.ccextras.aincraft.rarity.uncommon": 397,
+      "config.ccextras.aincraft.rarity.rare": 486,
+      "config.ccextras.aincraft.rarity.epic": 537,
+      "config.ccextras.aincraft.rarity.legendary": 578
+    },
+    {
+      "Level": 93,
+      "config.ccextras.aincraft.rarity.common": 311,
+      "config.ccextras.aincraft.rarity.uncommon": 406,
+      "config.ccextras.aincraft.rarity.rare": 496,
+      "config.ccextras.aincraft.rarity.epic": 549,
+      "config.ccextras.aincraft.rarity.legendary": 591
+    },
+    {
+      "Level": 94,
+      "config.ccextras.aincraft.rarity.common": 318,
+      "config.ccextras.aincraft.rarity.uncommon": 415,
+      "config.ccextras.aincraft.rarity.rare": 507,
+      "config.ccextras.aincraft.rarity.epic": 561,
+      "config.ccextras.aincraft.rarity.legendary": 604
+    },
+    {
+      "Level": 95,
+      "config.ccextras.aincraft.rarity.common": 325,
+      "config.ccextras.aincraft.rarity.uncommon": 424,
+      "config.ccextras.aincraft.rarity.rare": 519,
+      "config.ccextras.aincraft.rarity.epic": 574,
+      "config.ccextras.aincraft.rarity.legendary": 618
+    },
+    {
+      "Level": 96,
+      "config.ccextras.aincraft.rarity.common": 333,
+      "config.ccextras.aincraft.rarity.uncommon": 434,
+      "config.ccextras.aincraft.rarity.rare": 531,
+      "config.ccextras.aincraft.rarity.epic": 587,
+      "config.ccextras.aincraft.rarity.legendary": 632
+    },
+    {
+      "Level": 97,
+      "config.ccextras.aincraft.rarity.common": 340,
+      "config.ccextras.aincraft.rarity.uncommon": 444,
+      "config.ccextras.aincraft.rarity.rare": 543,
+      "config.ccextras.aincraft.rarity.epic": 601,
+      "config.ccextras.aincraft.rarity.legendary": 647
+    },
+    {
+      "Level": 98,
+      "config.ccextras.aincraft.rarity.common": 348,
+      "config.ccextras.aincraft.rarity.uncommon": 455,
+      "config.ccextras.aincraft.rarity.rare": 556,
+      "config.ccextras.aincraft.rarity.epic": 615,
+      "config.ccextras.aincraft.rarity.legendary": 662
+    },
+    {
+      "Level": 99,
+      "config.ccextras.aincraft.rarity.common": 357,
+      "config.ccextras.aincraft.rarity.uncommon": 465,
+      "config.ccextras.aincraft.rarity.rare": 569,
+      "config.ccextras.aincraft.rarity.epic": 630,
+      "config.ccextras.aincraft.rarity.legendary": 678
+    },
+    {
+      "Level": 100,
+      "config.ccextras.aincraft.rarity.common": 365,
+      "config.ccextras.aincraft.rarity.uncommon": 477,
+      "config.ccextras.aincraft.rarity.rare": 583,
+      "config.ccextras.aincraft.rarity.epic": 645,
+      "config.ccextras.aincraft.rarity.legendary": 694
+    },
+    {
+      "Level": 101,
+      "config.ccextras.aincraft.rarity.common": 374,
+      "config.ccextras.aincraft.rarity.uncommon": 488,
+      "config.ccextras.aincraft.rarity.rare": 597,
+      "config.ccextras.aincraft.rarity.epic": 661,
+      "config.ccextras.aincraft.rarity.legendary": 711
+    },
+    {
+      "Level": 102,
+      "config.ccextras.aincraft.rarity.common": 384,
+      "config.ccextras.aincraft.rarity.uncommon": 500,
+      "config.ccextras.aincraft.rarity.rare": 612,
+      "config.ccextras.aincraft.rarity.epic": 677,
+      "config.ccextras.aincraft.rarity.legendary": 729
+    },
+    {
+      "Level": 103,
+      "config.ccextras.aincraft.rarity.common": 393,
+      "config.ccextras.aincraft.rarity.uncommon": 513,
+      "config.ccextras.aincraft.rarity.rare": 628,
+      "config.ccextras.aincraft.rarity.epic": 694,
+      "config.ccextras.aincraft.rarity.legendary": 747
+    },
+    {
+      "Level": 104,
+      "config.ccextras.aincraft.rarity.common": 403,
+      "config.ccextras.aincraft.rarity.uncommon": 526,
+      "config.ccextras.aincraft.rarity.rare": 644,
+      "config.ccextras.aincraft.rarity.epic": 712,
+      "config.ccextras.aincraft.rarity.legendary": 767
+    },
+    {
+      "Level": 105,
+      "config.ccextras.aincraft.rarity.common": 414,
+      "config.ccextras.aincraft.rarity.uncommon": 540,
+      "config.ccextras.aincraft.rarity.rare": 661,
+      "config.ccextras.aincraft.rarity.epic": 731,
+      "config.ccextras.aincraft.rarity.legendary": 787
+    },
+    {
+      "Level": 106,
+      "config.ccextras.aincraft.rarity.common": 425,
+      "config.ccextras.aincraft.rarity.uncommon": 554,
+      "config.ccextras.aincraft.rarity.rare": 678,
+      "config.ccextras.aincraft.rarity.epic": 750,
+      "config.ccextras.aincraft.rarity.legendary": 808
+    },
+    {
+      "Level": 107,
+      "config.ccextras.aincraft.rarity.common": 436,
+      "config.ccextras.aincraft.rarity.uncommon": 569,
+      "config.ccextras.aincraft.rarity.rare": 696,
+      "config.ccextras.aincraft.rarity.epic": 770,
+      "config.ccextras.aincraft.rarity.legendary": 829
+    },
+    {
+      "Level": 108,
+      "config.ccextras.aincraft.rarity.common": 448,
+      "config.ccextras.aincraft.rarity.uncommon": 585,
+      "config.ccextras.aincraft.rarity.rare": 715,
+      "config.ccextras.aincraft.rarity.epic": 792,
+      "config.ccextras.aincraft.rarity.legendary": 852
+    },
+    {
+      "Level": 109,
+      "config.ccextras.aincraft.rarity.common": 461,
+      "config.ccextras.aincraft.rarity.uncommon": 601,
+      "config.ccextras.aincraft.rarity.rare": 735,
+      "config.ccextras.aincraft.rarity.epic": 814,
+      "config.ccextras.aincraft.rarity.legendary": 876
+    },
+    {
+      "Level": 110,
+      "config.ccextras.aincraft.rarity.common": 474,
+      "config.ccextras.aincraft.rarity.uncommon": 618,
+      "config.ccextras.aincraft.rarity.rare": 756,
+      "config.ccextras.aincraft.rarity.epic": 837,
+      "config.ccextras.aincraft.rarity.legendary": 901
+    },
+    {
+      "Level": 111,
+      "config.ccextras.aincraft.rarity.common": 488,
+      "config.ccextras.aincraft.rarity.uncommon": 636,
+      "config.ccextras.aincraft.rarity.rare": 778,
+      "config.ccextras.aincraft.rarity.epic": 861,
+      "config.ccextras.aincraft.rarity.legendary": 927
+    },
+    {
+      "Level": 112,
+      "config.ccextras.aincraft.rarity.common": 502,
+      "config.ccextras.aincraft.rarity.uncommon": 655,
+      "config.ccextras.aincraft.rarity.rare": 802,
+      "config.ccextras.aincraft.rarity.epic": 887,
+      "config.ccextras.aincraft.rarity.legendary": 955
+    },
+    {
+      "Level": 113,
+      "config.ccextras.aincraft.rarity.common": 517,
+      "config.ccextras.aincraft.rarity.uncommon": 675,
+      "config.ccextras.aincraft.rarity.rare": 826,
+      "config.ccextras.aincraft.rarity.epic": 914,
+      "config.ccextras.aincraft.rarity.legendary": 984
+    },
+    {
+      "Level": 114,
+      "config.ccextras.aincraft.rarity.common": 533,
+      "config.ccextras.aincraft.rarity.uncommon": 696,
+      "config.ccextras.aincraft.rarity.rare": 851,
+      "config.ccextras.aincraft.rarity.epic": 942,
+      "config.ccextras.aincraft.rarity.legendary": 1014
+    },
+    {
+      "Level": 115,
+      "config.ccextras.aincraft.rarity.common": 550,
+      "config.ccextras.aincraft.rarity.uncommon": 718,
+      "config.ccextras.aincraft.rarity.rare": 878,
+      "config.ccextras.aincraft.rarity.epic": 972,
+      "config.ccextras.aincraft.rarity.legendary": 1046
+    },
+    {
+      "Level": 116,
+      "config.ccextras.aincraft.rarity.common": 568,
+      "config.ccextras.aincraft.rarity.uncommon": 741,
+      "config.ccextras.aincraft.rarity.rare": 907,
+      "config.ccextras.aincraft.rarity.epic": 1003,
+      "config.ccextras.aincraft.rarity.legendary": 1080
+    },
+    {
+      "Level": 117,
+      "config.ccextras.aincraft.rarity.common": 587,
+      "config.ccextras.aincraft.rarity.uncommon": 766,
+      "config.ccextras.aincraft.rarity.rare": 937,
+      "config.ccextras.aincraft.rarity.epic": 1037,
+      "config.ccextras.aincraft.rarity.legendary": 1116
+    },
+    {
+      "Level": 118,
+      "config.ccextras.aincraft.rarity.common": 607,
+      "config.ccextras.aincraft.rarity.uncommon": 792,
+      "config.ccextras.aincraft.rarity.rare": 969,
+      "config.ccextras.aincraft.rarity.epic": 1072,
+      "config.ccextras.aincraft.rarity.legendary": 1154
+    },
+    {
+      "Level": 119,
+      "config.ccextras.aincraft.rarity.common": 628,
+      "config.ccextras.aincraft.rarity.uncommon": 820,
+      "config.ccextras.aincraft.rarity.rare": 1003,
+      "config.ccextras.aincraft.rarity.epic": 1109,
+      "config.ccextras.aincraft.rarity.legendary": 1194
+    },
+    {
+      "Level": 120,
+      "config.ccextras.aincraft.rarity.common": 650,
+      "config.ccextras.aincraft.rarity.uncommon": 849,
+      "config.ccextras.aincraft.rarity.rare": 1039,
+      "config.ccextras.aincraft.rarity.epic": 1149,
+      "config.ccextras.aincraft.rarity.legendary": 1237
+    },
+    {
+      "Level": 121,
+      "config.ccextras.aincraft.rarity.common": 674,
+      "config.ccextras.aincraft.rarity.uncommon": 880,
+      "config.ccextras.aincraft.rarity.rare": 1077,
+      "config.ccextras.aincraft.rarity.epic": 1192,
+      "config.ccextras.aincraft.rarity.legendary": 1283
+    },
+    {
+      "Level": 122,
+      "config.ccextras.aincraft.rarity.common": 700,
+      "config.ccextras.aincraft.rarity.uncommon": 914,
+      "config.ccextras.aincraft.rarity.rare": 1118,
+      "config.ccextras.aincraft.rarity.epic": 1237,
+      "config.ccextras.aincraft.rarity.legendary": 1331
+    },
+    {
+      "Level": 123,
+      "config.ccextras.aincraft.rarity.common": 727,
+      "config.ccextras.aincraft.rarity.uncommon": 949,
+      "config.ccextras.aincraft.rarity.rare": 1162,
+      "config.ccextras.aincraft.rarity.epic": 1285,
+      "config.ccextras.aincraft.rarity.legendary": 1384
+    },
+    {
+      "Level": 124,
+      "config.ccextras.aincraft.rarity.common": 757,
+      "config.ccextras.aincraft.rarity.uncommon": 988,
+      "config.ccextras.aincraft.rarity.rare": 1208,
+      "config.ccextras.aincraft.rarity.epic": 1337,
+      "config.ccextras.aincraft.rarity.legendary": 1439
+    },
+    {
+      "Level": 125,
+      "config.ccextras.aincraft.rarity.common": 788,
+      "config.ccextras.aincraft.rarity.uncommon": 1029,
+      "config.ccextras.aincraft.rarity.rare": 1259,
+      "config.ccextras.aincraft.rarity.epic": 1393,
+      "config.ccextras.aincraft.rarity.legendary": 1500
+    },
+    {
+      "Level": 126,
+      "config.ccextras.aincraft.rarity.common": 822,
+      "config.ccextras.aincraft.rarity.uncommon": 1073,
+      "config.ccextras.aincraft.rarity.rare": 1313,
+      "config.ccextras.aincraft.rarity.epic": 1453,
+      "config.ccextras.aincraft.rarity.legendary": 1564
+    },
+    {
+      "Level": 127,
+      "config.ccextras.aincraft.rarity.common": 859,
+      "config.ccextras.aincraft.rarity.uncommon": 1121,
+      "config.ccextras.aincraft.rarity.rare": 1372,
+      "config.ccextras.aincraft.rarity.epic": 1518,
+      "config.ccextras.aincraft.rarity.legendary": 1634
+    },
+    {
+      "Level": 128,
+      "config.ccextras.aincraft.rarity.common": 899,
+      "config.ccextras.aincraft.rarity.uncommon": 1174,
+      "config.ccextras.aincraft.rarity.rare": 1436,
+      "config.ccextras.aincraft.rarity.epic": 1589,
+      "config.ccextras.aincraft.rarity.legendary": 1710
+    },
+    {
+      "Level": 129,
+      "config.ccextras.aincraft.rarity.common": 942,
+      "config.ccextras.aincraft.rarity.uncommon": 1230,
+      "config.ccextras.aincraft.rarity.rare": 1505,
+      "config.ccextras.aincraft.rarity.epic": 1666,
+      "config.ccextras.aincraft.rarity.legendary": 1793
+    },
+    {
+      "Level": 130,
+      "config.ccextras.aincraft.rarity.common": 990,
+      "config.ccextras.aincraft.rarity.uncommon": 1292,
+      "config.ccextras.aincraft.rarity.rare": 1581,
+      "config.ccextras.aincraft.rarity.epic": 1750,
+      "config.ccextras.aincraft.rarity.legendary": 1883
+    },
+    {
+      "Level": 131,
+      "config.ccextras.aincraft.rarity.common": 1042,
+      "config.ccextras.aincraft.rarity.uncommon": 1360,
+      "config.ccextras.aincraft.rarity.rare": 1664,
+      "config.ccextras.aincraft.rarity.epic": 1842,
+      "config.ccextras.aincraft.rarity.legendary": 1983
+    },
+    {
+      "Level": 132,
+      "config.ccextras.aincraft.rarity.common": 1099,
+      "config.ccextras.aincraft.rarity.uncommon": 1435,
+      "config.ccextras.aincraft.rarity.rare": 1756,
+      "config.ccextras.aincraft.rarity.epic": 1943,
+      "config.ccextras.aincraft.rarity.legendary": 2092
+    },
+    {
+      "Level": 133,
+      "config.ccextras.aincraft.rarity.common": 1163,
+      "config.ccextras.aincraft.rarity.uncommon": 1518,
+      "config.ccextras.aincraft.rarity.rare": 1858,
+      "config.ccextras.aincraft.rarity.epic": 2056,
+      "config.ccextras.aincraft.rarity.legendary": 2213
+    },
+    {
+      "Level": 134,
+      "config.ccextras.aincraft.rarity.common": 1234,
+      "config.ccextras.aincraft.rarity.uncommon": 1611,
+      "config.ccextras.aincraft.rarity.rare": 1971,
+      "config.ccextras.aincraft.rarity.epic": 2181,
+      "config.ccextras.aincraft.rarity.legendary": 2348
+    },
+    {
+      "Level": 135,
+      "config.ccextras.aincraft.rarity.common": 1313,
+      "config.ccextras.aincraft.rarity.uncommon": 1714,
+      "config.ccextras.aincraft.rarity.rare": 2098,
+      "config.ccextras.aincraft.rarity.epic": 2322,
+      "config.ccextras.aincraft.rarity.legendary": 2499
+    },
+    {
+      "Level": 136,
+      "config.ccextras.aincraft.rarity.common": 1403,
+      "config.ccextras.aincraft.rarity.uncommon": 1832,
+      "config.ccextras.aincraft.rarity.rare": 2241,
+      "config.ccextras.aincraft.rarity.epic": 2480,
+      "config.ccextras.aincraft.rarity.legendary": 2670
+    },
+    {
+      "Level": 137,
+      "config.ccextras.aincraft.rarity.common": 1505,
+      "config.ccextras.aincraft.rarity.uncommon": 1965,
+      "config.ccextras.aincraft.rarity.rare": 2404,
+      "config.ccextras.aincraft.rarity.epic": 2660,
+      "config.ccextras.aincraft.rarity.legendary": 2864
+    },
+    {
+      "Level": 138,
+      "config.ccextras.aincraft.rarity.common": 1622,
+      "config.ccextras.aincraft.rarity.uncommon": 2117,
+      "config.ccextras.aincraft.rarity.rare": 2591,
+      "config.ccextras.aincraft.rarity.epic": 2867,
+      "config.ccextras.aincraft.rarity.legendary": 3087
+    },
+    {
+      "Level": 139,
+      "config.ccextras.aincraft.rarity.common": 1758,
+      "config.ccextras.aincraft.rarity.uncommon": 2295,
+      "config.ccextras.aincraft.rarity.rare": 2808,
+      "config.ccextras.aincraft.rarity.epic": 3107,
+      "config.ccextras.aincraft.rarity.legendary": 3345
+    },
+    {
+      "Level": 140,
+      "config.ccextras.aincraft.rarity.common": 1917,
+      "config.ccextras.aincraft.rarity.uncommon": 2503,
+      "config.ccextras.aincraft.rarity.rare": 3062,
+      "config.ccextras.aincraft.rarity.epic": 3389,
+      "config.ccextras.aincraft.rarity.legendary": 3648
+    },
+    {
+      "Level": 141,
+      "config.ccextras.aincraft.rarity.common": 2106,
+      "config.ccextras.aincraft.rarity.uncommon": 2750,
+      "config.ccextras.aincraft.rarity.rare": 3365,
+      "config.ccextras.aincraft.rarity.epic": 3724,
+      "config.ccextras.aincraft.rarity.legendary": 4009
+    },
+    {
+      "Level": 142,
+      "config.ccextras.aincraft.rarity.common": 2335,
+      "config.ccextras.aincraft.rarity.uncommon": 3049,
+      "config.ccextras.aincraft.rarity.rare": 3731,
+      "config.ccextras.aincraft.rarity.epic": 4129,
+      "config.ccextras.aincraft.rarity.legendary": 4445
+    },
+    {
+      "Level": 143,
+      "config.ccextras.aincraft.rarity.common": 2618,
+      "config.ccextras.aincraft.rarity.uncommon": 3419,
+      "config.ccextras.aincraft.rarity.rare": 4183,
+      "config.ccextras.aincraft.rarity.epic": 4630,
+      "config.ccextras.aincraft.rarity.legendary": 4984
+    },
+    {
+      "Level": 144,
+      "config.ccextras.aincraft.rarity.common": 2976,
+      "config.ccextras.aincraft.rarity.uncommon": 3886,
+      "config.ccextras.aincraft.rarity.rare": 4756,
+      "config.ccextras.aincraft.rarity.epic": 5263,
+      "config.ccextras.aincraft.rarity.legendary": 5666
+    },
+    {
+      "Level": 145,
+      "config.ccextras.aincraft.rarity.common": 3444,
+      "config.ccextras.aincraft.rarity.uncommon": 4497,
+      "config.ccextras.aincraft.rarity.rare": 5503,
+      "config.ccextras.aincraft.rarity.epic": 6090,
+      "config.ccextras.aincraft.rarity.legendary": 6556
+    },
+    {
+      "Level": 146,
+      "config.ccextras.aincraft.rarity.common": 4081,
+      "config.ccextras.aincraft.rarity.uncommon": 5329,
+      "config.ccextras.aincraft.rarity.rare": 6521,
+      "config.ccextras.aincraft.rarity.epic": 7217,
+      "config.ccextras.aincraft.rarity.legendary": 7769
+    },
+    {
+      "Level": 147,
+      "config.ccextras.aincraft.rarity.common": 5000,
+      "config.ccextras.aincraft.rarity.uncommon": 6529,
+      "config.ccextras.aincraft.rarity.rare": 7989,
+      "config.ccextras.aincraft.rarity.epic": 8842,
+      "config.ccextras.aincraft.rarity.legendary": 9518
+    },
+    {
+      "Level": 148,
+      "config.ccextras.aincraft.rarity.common": 6439,
+      "config.ccextras.aincraft.rarity.uncommon": 8409,
+      "config.ccextras.aincraft.rarity.rare": 10290,
+      "config.ccextras.aincraft.rarity.epic": 11388,
+      "config.ccextras.aincraft.rarity.legendary": 12259
+    },
+    {
+      "Level": 149,
+      "config.ccextras.aincraft.rarity.common": 9019,
+      "config.ccextras.aincraft.rarity.uncommon": 11777,
+      "config.ccextras.aincraft.rarity.rare": 14412,
+      "config.ccextras.aincraft.rarity.epic": 15950,
+      "config.ccextras.aincraft.rarity.legendary": 17170
+    },
+    {
+      "Level": 150,
+      "config.ccextras.aincraft.rarity.common": 14979,
+      "config.ccextras.aincraft.rarity.uncommon": 19560,
+      "config.ccextras.aincraft.rarity.rare": 23937,
+      "config.ccextras.aincraft.rarity.epic": 26490,
+      "config.ccextras.aincraft.rarity.legendary": 28518
+    }
+  ]
+}

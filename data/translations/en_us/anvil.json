@@ -1,0 +1,16 @@
+{
+  "config.ccextras.anvil.material.iron_plate": "Iron Plates",
+  "config.ccextras.anvil.material.hardened_brick": "Hardened Brick",
+  "config.ccextras.anvil.material.chain_link": "Chain Link",
+  "config.ccextras.anvil.material.clamp": "Clamp",
+  "config.ccextras.anvil.material.copper_plate": "Copper Plates",
+  "config.ccextras.anvil.material.leather": "Leather",
+  "config.ccextras.anvil.material.screw": "Screw",
+  "config.ccextras.anvil.material.spider_silk": "Spider Silk",
+  "config.ccextras.anvil.material.strong_string": "Strong String",
+  "config.ccextras.anvil.material.cloth": "Cloth",
+  "config.ccextras.anvil.material.advanced_gear": "Advanced Gear",
+  "config.ccextras.anvil.material.reinforced_screw": "Reinforced Screw",
+  "config.ccextras.anvil.material.gear": "Gear",
+  "config.ccextras.anvil.material.brick": "Brick"
+}

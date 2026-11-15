@@ -1,0 +1,16 @@
+{
+  "config.ccextras.anvil.material.iron_plate": "Eisenplatten",
+  "config.ccextras.anvil.material.hardened_brick": "Gehärteter Ziegelstein",
+  "config.ccextras.anvil.material.chain_link": "Kettenglied",
+  "config.ccextras.anvil.material.clamp": "Klammer",
+  "config.ccextras.anvil.material.copper_plate": "Kupferplatten",
+  "config.ccextras.anvil.material.leather": "Leder",
+  "config.ccextras.anvil.material.screw": "Schraube",
+  "config.ccextras.anvil.material.spider_silk": "Spinnfaden",
+  "config.ccextras.anvil.material.strong_string": "Stabile Schnur",
+  "config.ccextras.anvil.material.cloth": "Stoff",
+  "config.ccextras.anvil.material.advanced_gear": "Verbessertes Zahnrad",
+  "config.ccextras.anvil.material.reinforced_screw": "Verstärkte Schraube",
+  "config.ccextras.anvil.material.gear": "Zahnrad",
+  "config.ccextras.anvil.material.brick": "Ziegelstein"
+}

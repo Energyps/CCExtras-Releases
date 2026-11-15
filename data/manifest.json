@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "modVersion": "1.9.1-beta.18",
+  "files": {
+    "neciitems.json": {
+      "sha256": "767194ab5ea511ae881a107f3dc0a00177a15395c3e05fbfd4ec033113c774e4",
+      "size": 3613628
+    },
+    "Essence.json": {
+      "sha256": "3eea4927d42855812576e1bc813f90d744e3363c1d3d89203f76ff6230e2d39e",
+      "size": 14030
+    },
+    "MKLevel.json": {
+      "sha256": "11c916d49f689b9223a7b08338ea37dffc6e446c2c66297c5104096bc330b5b6",
+      "size": 24326
+    },
+    "Aspekte.json": {
+      "sha256": "ebfbb0be2c786b23b4b49463ce007707fbd77de96c18895ee86e2da63e99e88f",
+      "size": 73855
+    },
+    "runes.json": {
+      "sha256": "63939c69c8783505bcfe9116912482989e1869ffe65f2d65d02f3aeaf97ff95a",
+      "size": 5427
+    },
+    "statues.json": {
+      "sha256": "c45edaa1e6b200f796ad3f955cfa2a0434e869ee585b0b0a9250fbfcda34b858",
+      "size": 3567
+    },
+    "Materials.json": {
+      "sha256": "f5a9dc25693524a7bda9c531106ee1b0b5287aece344dd187ead14c70524cb93",
+      "size": 850
+    },
+    "anvil_prices.json": {
+      "sha256": "ad4aba5a108797819cfb96667d1d308341afbb1dd627e25fce0f5a3cf2c8df17",
+      "size": 17078
+    },
+    "furnace_prices.json": {
+      "sha256": "5c974862bb01e7693a4f5a8890c7595006ea6b42d7a1434aa9b1914266c83341",
+      "size": 19508
+    },
+    "recycler_prices.json": {
+      "sha256": "87c6bf300dc17190be52ba08126750792a8b02255d3ab4941ebebb15b734bbdc",
+      "size": 47444
+    },
+    "recycler_efficiency.json": {
+      "sha256": "c38cdeeb5c2e0a5cbea16bd592a79fa2724d4dc28586a4797c45f2f9be1249a6",
+      "size": 44988
+    },
+    "farmworld_locations.json": {
+      "sha256": "5868635cc350659059be2185a6900fb35361bf887dde5bbaec575e69e48e6088",
+      "size": 30023
+    },
+    "translations/de_de/aincraftstages.json": {
+      "sha256": "6b3f9d4cd5b6749d1411056463a309ce8a26baa9d0e5a55a90db790c48cb8ab9",
+      "size": 5267
+    },
+    "translations/de_de/anvil.json": {
+      "sha256": "e6a92223fd391c2b8d8eaaacf008c5d47e996f169c25ac392858bda0a8b3d282",
+      "size": 872
+    },
+    "translations/de_de/ccextrasconfig.json": {
+      "sha256": "9c2834a69193413648506d58b1d691a4ba97137d4edd854d72c7a6a29de6f934",
+      "size": 68788
+    },
+    "translations/de_de/charms.json": {
+      "sha256": "ab0687d909e9e383fbaf6798e42c7d57a417fbbfd36fcde8a251215b1611e14a",
+      "size": 9792
+    },
+    "translations/de_de/debug.json": {
+      "sha256": "910b750842bc60a1d1bcdc31cd26c013a66f078897025932027b6f0bff598c5f",
+      "size": 8829
+    },
+    "translations/de_de/essences.json": {
+      "sha256": "7fffd8f64e4adc32119af8b1f51b19d1d058b048a4a6734adb3fa0c663a7849e",
+      "size": 10326
+    },
+    "translations/de_de/farmzone.json": {
+      "sha256": "3c23b560611c8b979bb31fefebcb2b2e2dac76f71eecda4b967e5676096e0336",
+      "size": 1140
+    },
+    "translations/de_de/fishingmaterials.json": {
+      "sha256": "e1cd7ca4c9458c04b8c51b5e32c64a20fe4302ec391b22f41ecaa0a9f41b2cad",
+      "size": 40457
+    },
+    "translations/de_de/fishtraps.json": {
+      "sha256": "70419069829a9746657d70b32d21e0321ff4535ad0efb648436aaa43ef4a7dba",
+      "size": 617
+    },
+    "translations/de_de/furnace.json": {
+      "sha256": "7fff71d7ffccb285994c817c84303f98fdc66b47ab523ba594861f1b22f33291",
+      "size": 535
+    },
+    "translations/de_de/hotkeys.json": {
+      "sha256": "eaedf8711dac9939e427f6ad6132463cfb089a7de6ed14707f1f59e8242d5036",
+      "size": 1485
+    },
+    "translations/de_de/hud.json": {
+      "sha256": "80960c56764ed43aadddda44958dfb8ac3c2f7a49fc5bfb51371905aa04abb15",
+      "size": 9261
+    },
+    "translations/de_de/materials.json": {
+      "sha256": "873d448d8681cc18cc4b8768471d1592f063cbd052c824ab0597bc9ab5524b04",
+      "size": 33525
+    },
+    "translations/de_de/neci.json": {
+      "sha256": "4b93ba70c4b47799f9ad18560df94ff6ae8cacc67ff7423e20b3683e49467220",
+      "size": 8086
+    },
+    "translations/de_de/rarity.json": {
+      "sha256": "a13703b086f11c757c1fc36120e27166c6d08cc2d32f9e290a5c89176b2eb4c7",
+      "size": 340
+    },
+    "translations/de_de/recycler.json": {
+      "sha256": "1a380e9e56d566c4793cd2688093501db7131a1e01596ebada429bf129074812",
+      "size": 154
+    },
+    "translations/de_de/schmiedezustaende.json": {
+      "sha256": "944208ef909afee30abd6ad686607be8a153d4afb60595520af9ca81ab00bcf9",
+      "size": 541
+    },
+    "translations/de_de/update.json": {
+      "sha256": "4d3188bee1595c854aa9fb010fbdc414bc140becab3699757a58c42c0d6bfd1a",
+      "size": 1127
+    },
+    "translations/en_us/aincraftstages.json": {
+      "sha256": "f760ac1ce828e0f8f4d6d0aabdfc21e0c515a98d9496ef152cab9ff1ecb55dc0",
+      "size": 5164
+    },
+    "translations/en_us/anvil.json": {
+      "sha256": "501826807e896baae5951f4bf22c0c2752a18492a8a3060f2188b5583d7f8054",
+      "size": 838
+    },
+    "translations/en_us/ccextrasconfig.json": {
+      "sha256": "259bc1d193a31b38425ff8e12fe0e2db409e730e8ea9b1cc75ef4268c58bef9b",
+      "size": 64959
+    },
+    "translations/en_us/charms.json": {
+      "sha256": "9832c14a775f9e57ace283f70cb2e68fbc4c844fac47315473b8823fe484e5ad",
+      "size": 9484
+    },
+    "translations/en_us/debug.json": {
+      "sha256": "21ed7b07409d57353b9332155081cd5e4f50978ebcfdfe9ccc79921eaa50b39a",
+      "size": 8507
+    },
+    "translations/en_us/essences.json": {
+      "sha256": "e8ff7f2ea96c5842d14baab657b7bf955acb8ae6b37971fd67712d395b7ae5d2",
+      "size": 10381
+    },
+    "translations/en_us/farmzone.json": {
+      "sha256": "145ba4a7e656e97672a6542f5fecb417ecad5eaf878c5b296264a7c0b8c1a259",
+      "size": 1124
+    },
+    "translations/en_us/fishingmaterials.json": {
+      "sha256": "1c0a183c79e6e854961efcc88e75746fa4f26ccaafd1141c1ef3e03d6df24af0",
+      "size": 36506
+    },
+    "translations/en_us/fishtraps.json": {
+      "sha256": "20c5a01156a4e63ed64d0e84f46cc0faea3c8274c71ce270973018c399d42b4c",
+      "size": 568
+    },
+    "translations/en_us/furnace.json": {
+      "sha256": "a0f0ae2b5567240ea8e575f1a4dfa8b974e4c7a40d81b368c391b9ee01dfe3c7",
+      "size": 519
+    },
+    "translations/en_us/hotkeys.json": {
+      "sha256": "fe4fb26b57c8761ffe2f606b6cb462ff148f99aae73ffc1582f6bc5b6576cec8",
+      "size": 1444
+    },
+    "translations/en_us/hud.json": {
+      "sha256": "48a7106e623c379bb47718c0e4fc89cf8c817a1818c952fb566e238296f44ce1",
+      "size": 8961
+    },
+    "translations/en_us/materials.json": {
+      "sha256": "bbdf2acbd75cbe223d20eddf3c9ed1afdbdcb7fc36e0a39b24815219569512b2",
+      "size": 32882
+    },
+    "translations/en_us/neci.json": {
+      "sha256": "6c50baf2b9d08f1310630bc72ce2e80d3d4ed87536a5336e88914ee8758ab22d",
+      "size": 7902
+    },
+    "translations/en_us/rarity.json": {
+      "sha256": "b97fed1223ea79e2019f48aaa1cace4808f96b83c2eaca60c77f7b95e85156a1",
+      "size": 326
+    },
+    "translations/en_us/recycler.json": {
+      "sha256": "fed2876651c611a3c0723a590b1bc00ae5b8923d8be185656b401682f7438a12",
+      "size": 139
+    },
+    "translations/en_us/schmiedezustaende.json": {
+      "sha256": "3f850b9988019e994b4d56fd766d1ade6cc7a1997d12de54c7a726ed56197c15",
+      "size": 504
+    },
+    "translations/en_us/update.json": {
+      "sha256": "5ce9dec53a11e31b2d56da1ed21d5851c634bb1cc708fd9f697e0bc4df13add9",
+      "size": 1046
+    }
+  }
+}

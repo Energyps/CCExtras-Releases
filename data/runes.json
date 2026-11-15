@@ -1,0 +1,276 @@
+{
+  "_quelle": "Mob-Lexikon im Spiel (Runenbauplan je Ebene)",
+  "unlock_kills": 1500,
+  "runes": [
+    {
+      "aincraft": 1,
+      "mob": "Baby Hase",
+      "type": "darkness",
+      "name": "Harmonische Dominanz"
+    },
+    {
+      "aincraft": 2,
+      "mob": "Baby Huhn",
+      "type": "darkness",
+      "name": "Verstärkte Dunkelheit"
+    },
+    {
+      "aincraft": 5,
+      "mob": "Baby Kuh",
+      "type": "explosion",
+      "name": "Doppelte Explosionspfeile"
+    },
+    {
+      "aincraft": 8,
+      "mob": "Baby Lama",
+      "type": "fire",
+      "name": "Brennende Pfeile"
+    },
+    {
+      "aincraft": 11,
+      "mob": "Baby Ziege",
+      "type": "darkness",
+      "name": "Verstärkte Dunkelheit"
+    },
+    {
+      "aincraft": 13,
+      "mob": "Baby Schildkröte",
+      "type": "bridge",
+      "name": "Schaden"
+    },
+    {
+      "aincraft": 14,
+      "mob": "Baby Wolf",
+      "type": "explosion",
+      "name": "Dreifache Explosionspfeile"
+    },
+    {
+      "aincraft": 16,
+      "mob": "Baby Polarbär",
+      "type": "ice",
+      "name": "Gefrorener Boden"
+    },
+    {
+      "aincraft": 19,
+      "mob": "Baby Biene",
+      "type": "poison",
+      "name": "Giftpfeil"
+    },
+    {
+      "aincraft": 20,
+      "mob": "Papagei",
+      "type": "explosion",
+      "name": "Detonation"
+    },
+    {
+      "aincraft": 22,
+      "mob": "Hase",
+      "type": "bridge",
+      "name": "Tickrate"
+    },
+    {
+      "aincraft": 23,
+      "mob": "Huhn",
+      "type": "fire",
+      "name": "Brennende Ausdauer"
+    },
+    {
+      "aincraft": 25,
+      "mob": "Schaf",
+      "type": "ice",
+      "name": "Starke Eispfeile"
+    },
+    {
+      "aincraft": 27,
+      "mob": "Pferd",
+      "type": "darkness",
+      "name": "Fluch"
+    },
+    {
+      "aincraft": 30,
+      "mob": "Kamel",
+      "type": "fire",
+      "name": "Verstärkter Feuerpfeil"
+    },
+    {
+      "aincraft": 32,
+      "mob": "Ziege",
+      "type": "darkness",
+      "name": "Dunkle Hinrichtung"
+    },
+    {
+      "aincraft": 34,
+      "mob": "Schildkröte",
+      "type": "ice",
+      "name": "Frostige Schritte"
+    },
+    {
+      "aincraft": 36,
+      "mob": "Panda",
+      "type": "explosion",
+      "name": "Erstschlag"
+    },
+    {
+      "aincraft": 37,
+      "mob": "Polarbär",
+      "type": "bridge",
+      "name": "Letzte Chance"
+    },
+    {
+      "aincraft": 40,
+      "mob": "Biene",
+      "type": "poison",
+      "name": "Doppelter Giftpfeil"
+    },
+    {
+      "aincraft": 42,
+      "mob": "Killerhase",
+      "type": "ice",
+      "name": "Permafrost"
+    },
+    {
+      "aincraft": 43,
+      "mob": "Spinne",
+      "type": "poison",
+      "name": "Verstärkter Giftpfeil"
+    },
+    {
+      "aincraft": 46,
+      "mob": "Zombie",
+      "type": "darkness",
+      "name": "Nekromant"
+    },
+    {
+      "aincraft": 48,
+      "mob": "Wasserzombie",
+      "type": "ice",
+      "name": "Schädlicher Frost"
+    },
+    {
+      "aincraft": 50,
+      "mob": "Zombie Dorfbewohner",
+      "type": "explosion",
+      "name": "Schutzlose Zerstörung"
+    },
+    {
+      "aincraft": 53,
+      "mob": "Skelett",
+      "type": "fire",
+      "name": "Sofortiger Tod"
+    },
+    {
+      "aincraft": 54,
+      "mob": "Kleiner Schleim",
+      "type": "bridge",
+      "name": "Geschwindigkeit"
+    },
+    {
+      "aincraft": 55,
+      "mob": "Hexe",
+      "type": "poison",
+      "name": "Effektiver Giftpfeil"
+    },
+    {
+      "aincraft": 56,
+      "mob": "Streuner",
+      "type": "ice",
+      "name": "Doppelte Eispfeile"
+    },
+    {
+      "aincraft": 59,
+      "mob": "Creeper",
+      "type": "explosion",
+      "name": "Zerstörung"
+    },
+    {
+      "aincraft": 61,
+      "mob": "Silberfisch",
+      "type": "ice",
+      "name": "Eisige Durchdringung"
+    },
+    {
+      "aincraft": 64,
+      "mob": "Spinnenreiter",
+      "type": "fire",
+      "name": "Tödlicher Schuss"
+    },
+    {
+      "aincraft": 65,
+      "mob": "Höhlenspinne",
+      "type": "poison",
+      "name": "Schwächendes Gift"
+    },
+    {
+      "aincraft": 69,
+      "mob": "Kleiner Magmaschleim",
+      "type": "explosion",
+      "name": "Detonationsradius"
+    },
+    {
+      "aincraft": 70,
+      "mob": "Skelettpferdreiter",
+      "type": "fire",
+      "name": "Blitz"
+    },
+    {
+      "aincraft": 72,
+      "mob": "Eisengolem",
+      "type": "bridge",
+      "name": "Eisengolem"
+    },
+    {
+      "aincraft": 74,
+      "mob": "Schneegolem",
+      "type": "ice",
+      "name": "Gefroren"
+    },
+    {
+      "aincraft": 76,
+      "mob": "Schreiter",
+      "type": "bridge",
+      "name": "Letzte Chance"
+    },
+    {
+      "aincraft": 77,
+      "mob": "Zombie-Schweini",
+      "type": "darkness",
+      "name": "Schwächung"
+    },
+    {
+      "aincraft": 80,
+      "mob": "Lohe",
+      "type": "fire",
+      "name": "Inferno Pfeil"
+    },
+    {
+      "aincraft": 84,
+      "mob": "Geladener Creeper",
+      "type": "explosion",
+      "name": "TnT"
+    },
+    {
+      "aincraft": 86,
+      "mob": "Endermite",
+      "type": "darkness",
+      "name": "Schwächende Reichweite"
+    },
+    {
+      "aincraft": 88,
+      "mob": "Großer Schleim",
+      "type": "poison",
+      "name": "Giftige Reichweite"
+    },
+    {
+      "aincraft": 92,
+      "mob": "Großer Magmaschleim",
+      "type": "fire",
+      "name": "Brennende Bosse"
+    },
+    {
+      "aincraft": 95,
+      "mob": "Riesiger Schleim",
+      "type": "poison",
+      "name": "Letzter Treffer"
+    }
+  ]
+}

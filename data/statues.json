@@ -1,0 +1,216 @@
+{
+  "statues": [
+    {
+      "aincraft": [1],
+      "icon_threshold": 2066
+    },
+    {
+      "aincraft": [2],
+      "icon_threshold": 2016
+    },
+    {
+      "aincraft": [3],
+      "icon_threshold": 2008
+    },
+    {
+      "aincraft": [4],
+      "icon_threshold": 2049
+    },
+    {
+      "aincraft": [5],
+      "icon_threshold": 2024
+    },
+    {
+      "aincraft": [6, 27],
+      "icon_threshold": 2064
+    },
+    {
+      "aincraft": [7, 28],
+      "icon_threshold": 2021
+    },
+    {
+      "aincraft": [8, 29],
+      "icon_threshold": 2061
+    },
+    {
+      "aincraft": [10, 31],
+      "icon_threshold": 2052
+    },
+    {
+      "aincraft": [11, 32],
+      "icon_threshold": 2048
+    },
+    {
+      "aincraft": [12, 30],
+      "icon_threshold": 2029
+    },
+    {
+      "aincraft": [13, 34],
+      "icon_threshold": -1
+    },
+    {
+      "aincraft": [14, 35],
+      "icon_threshold": 2046
+    },
+    {
+      "aincraft": [15],
+      "icon_threshold": 2023
+    },
+    {
+      "aincraft": [16, 38],
+      "icon_threshold": -1
+    },
+    {
+      "aincraft": [17, 46],
+      "icon_threshold": 2041
+    },
+    {
+      "aincraft": [18, 39],
+      "icon_threshold": -1
+    },
+    {
+      "aincraft": [19, 40],
+      "icon_threshold": 2015
+    },
+    {
+      "aincraft": [20, 45],
+      "icon_threshold": 2005
+    },
+    {
+      "aincraft": [21],
+      "icon_threshold": -1
+    },
+    {
+      "aincraft": [22, 42],
+      "icon_threshold": 2055
+    },
+    {
+      "aincraft": [23, 49],
+      "icon_threshold": 2031
+    },
+    {
+      "aincraft": [25, 47],
+      "icon_threshold": 2027
+    },
+    {
+      "aincraft": [26],
+      "icon_threshold": 2039
+    },
+    {
+      "aincraft": [36, 44],
+      "icon_threshold": 2030
+    },
+    {
+      "aincraft": [33, 43],
+      "icon_threshold": 2020
+    },
+    {
+      "aincraft": [50],
+      "icon_threshold": -1
+    },
+    {
+      "aincraft": [52],
+      "icon_threshold": 2009
+    },
+    {
+      "aincraft": [53],
+      "icon_threshold": 2007
+    },
+    {
+      "aincraft": [54],
+      "icon_threshold": 2073
+    },
+    {
+      "aincraft": [55],
+      "icon_threshold": 2045
+    },
+    {
+      "aincraft": [51],
+      "icon_threshold": 2050
+    },
+    {
+      "aincraft": [56],
+      "icon_threshold": 2026
+    },
+    {
+      "aincraft": [58],
+      "icon_threshold": 2014
+    },
+    {
+      "aincraft": [57],
+      "icon_threshold": 2069
+    },
+    {
+      "aincraft": [59],
+      "icon_threshold": 2051
+    },
+    {
+      "aincraft": [60],
+      "icon_threshold": 2010
+    },
+    {
+      "aincraft": [62],
+      "icon_threshold": 2043
+    },
+    {
+      "aincraft": [63],
+      "icon_threshold": 2073
+    },
+    {
+      "aincraft": [64],
+      "icon_threshold": 2025
+    },
+    {
+    "aincraft": [65],
+    "icon_threshold": 2063
+    },
+    {
+      "aincraft": [66],
+      "icon_threshold": 2065
+    },
+    {
+      "aincraft": [68],
+      "icon_threshold": 2033
+    },
+    {
+      "aincraft": [69],
+      "icon_threshold": 2058
+    },
+    {
+      "aincraft": [70],
+      "icon_threshold": 2067
+    },
+    {
+      "aincraft": [71],
+      "icon_threshold": 2017
+    },
+    {
+      "aincraft": [72],
+      "icon_threshold": 2034
+    },
+    {
+      "aincraft": [73],
+      "icon_threshold": 2006
+    },
+    {
+      "aincraft": [74],
+      "icon_threshold": -1
+    },
+    {
+      "aincraft": [75],
+      "icon_threshold": 2036
+    },
+    {
+      "aincraft": [76],
+      "icon_threshold": 2022
+    },
+    {
+      "aincraft": [77],
+      "icon_threshold": 2054
+    },
+    {
+      "aincraft": [78],
+      "icon_threshold": 2062
+    }
+  ]
+}

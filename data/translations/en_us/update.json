@@ -1,0 +1,19 @@
+{
+  "update.ccextras.whatsNew.title": "New in CCExtras %s",
+  "update.ccextras.whatsNew.close": "Continue",
+  "update.ccextras.title": "CCExtras update",
+  "update.ccextras.available": "Version %s is available (installed: %s)",
+  "update.ccextras.downloading": "Downloading … %s %%",
+  "update.ccextras.ready": "Downloaded. The update is installed when you quit Minecraft and is active after the next start.",
+  "update.ccextras.failed": "Error: %s",
+  "update.ccextras.download": "Download",
+  "update.ccextras.later": "Later",
+  "update.ccextras.quit": "Quit now",
+  "update.ccextras.browser": "Open in browser",
+  "update.ccextras.report": "Report bug / idea",
+  "update.ccextras.close": "Close",
+  "update.ccextras.toast.available": "Version %s is available - see the notice on the title or pause menu.",
+  "update.ccextras.toast.upToDate": "You have the latest version (%s).",
+  "update.ccextras.toast.failed": "Update check failed: %s",
+  "update.ccextras.toast.unavailable": "Update check not possible: no public release found in %s."
+}

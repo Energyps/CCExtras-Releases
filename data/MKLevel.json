@@ -1,0 +1,1196 @@
+[
+  {
+    "Level": 2,
+    "Essence": "config.ccextras.essence.Pferde_Tier_1",
+    "Amount": 3000,
+    "Wave": 701
+  },
+  {
+    "Level": 3,
+    "Essence": "config.ccextras.essence.Lohen_Tier_1",
+    "Amount": 4000,
+    "Wave": 385
+  },
+  {
+    "Level": 4,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_1",
+    "Amount": 5000,
+    "Wave": 827
+  },
+  {
+    "Level": 5,
+    "Essence": "config.ccextras.essence.Zombie_Tier_1",
+    "Amount": 6000,
+    "Wave": 526
+  },
+  {
+    "Level": 6,
+    "Essence": "config.ccextras.essence.Wolf_Tier_1",
+    "Amount": 7000,
+    "Wave": 608
+  },
+  {
+    "Level": 7,
+    "Essence": "config.ccextras.essence.Lohen_Tier_1",
+    "Amount": 8000,
+    "Wave": 385
+  },
+  {
+    "Level": 8,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_1",
+    "Amount": 9000,
+    "Wave": 827
+  },
+  {
+    "Level": 9,
+    "Essence": "config.ccextras.essence.Zombie_Tier_1",
+    "Amount": 10000,
+    "Wave": 526
+  },
+  {
+    "Level": 10,
+    "Essence": "config.ccextras.essence.Pferde_Tier_1",
+    "Amount": 11000,
+    "Wave": 701
+  },
+  {
+    "Level": 11,
+    "Essence": "config.ccextras.essence.Stray_Tier_1",
+    "Amount": 12000,
+    "Wave": 541
+  },
+  {
+    "Level": 12,
+    "Essence": "config.ccextras.essence.Ziegen_Tier_1",
+    "Amount": 13000,
+    "Wave": 884
+  },
+  {
+    "Level": 13,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_1",
+    "Amount": 14000,
+    "Wave": 827
+  },
+  {
+    "Level": 14,
+    "Essence": "config.ccextras.essence.Wolf_Tier_1",
+    "Amount": 15000,
+    "Wave": 608
+  },
+  {
+    "Level": 15,
+    "Essence": "config.ccextras.essence.Lohen_Tier_2",
+    "Amount": 16000,
+    "Wave": 1410
+  },
+  {
+    "Level": 16,
+    "Essence": "config.ccextras.essence.Bienen_Tier_1",
+    "Amount": 17000,
+    "Wave": 836
+  },
+  {
+    "Level": 17,
+    "Essence": "config.ccextras.essence.Wolf_Tier_2",
+    "Amount": 18000,
+    "Wave": 1112
+  },
+  {
+    "Level": 18,
+    "Essence": "config.ccextras.essence.Ziegen_Tier_1",
+    "Amount": 19000,
+    "Wave": 884
+  },
+  {
+    "Level": 19,
+    "Essence": "config.ccextras.essence.Piglin_Tier_1",
+    "Amount": 20000,
+    "Wave": 1034
+  },
+  {
+    "Level": 20,
+    "Essence": "config.ccextras.essence.Bienen_Tier_1",
+    "Amount": 21000,
+    "Wave": 836
+  },
+  {
+    "Level": 21,
+    "Essence": "config.ccextras.essence.Ziegen_Tier_2",
+    "Amount": 22000,
+    "Wave": 1191
+  },
+  {
+    "Level": 22,
+    "Essence": "config.ccextras.essence.Piglin_Tier_2",
+    "Amount": 23000,
+    "Wave": 1429
+  },
+  {
+    "Level": 23,
+    "Essence": "config.ccextras.essence.Hühner_Tier_2",
+    "Amount": 24000,
+    "Wave": 1262
+  },
+  {
+    "Level": 24,
+    "Essence": "config.ccextras.essence.Ziegen_Tier_2",
+    "Amount": 25000,
+    "Wave": 1191
+  },
+  {
+    "Level": 25,
+    "Essence": "config.ccextras.essence.Endermite_Tier_2",
+    "Amount": 26000,
+    "Wave": 1374
+  },
+  {
+    "Level": 26,
+    "Essence": "config.ccextras.essence.Wolf_Tier_2",
+    "Amount": 27000,
+    "Wave": 1112
+  },
+  {
+    "Level": 27,
+    "Essence": "config.ccextras.essence.Piglin_Tier_2",
+    "Amount": 28000,
+    "Wave": 1429
+  },
+  {
+    "Level": 28,
+    "Essence": "config.ccextras.essence.Hühner_Tier_2",
+    "Amount": 29000,
+    "Wave": 1262
+  },
+  {
+    "Level": 29,
+    "Essence": "config.ccextras.essence.Piglin_Tier_2",
+    "Amount": 30000,
+    "Wave": 1429
+  },
+  {
+    "Level": 30,
+    "Essence": "config.ccextras.essence.Endermite_Tier_2",
+    "Amount": 31000,
+    "Wave": 1374
+  },
+  {
+    "Level": 31,
+    "Essence": "config.ccextras.essence.Hühner_Tier_3",
+    "Amount": 32000,
+    "Wave": 2186
+  },
+  {
+    "Level": 32,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_3",
+    "Amount": 33000,
+    "Wave": 2148
+  },
+  {
+    "Level": 33,
+    "Essence": "config.ccextras.essence.Lohen_Tier_3",
+    "Amount": 34000,
+    "Wave": 1942
+  },
+  {
+    "Level": 34,
+    "Essence": "config.ccextras.essence.Piglin_Tier_3",
+    "Amount": 35000,
+    "Wave": 1925
+  },
+  {
+    "Level": 35,
+    "Essence": "config.ccextras.essence.Skelett_Tier_3",
+    "Amount": 36000,
+    "Wave": 1850
+  },
+  {
+    "Level": 36,
+    "Essence": "config.ccextras.essence.Piglin_Tier_3",
+    "Amount": 37000,
+    "Wave": 1925
+  },
+  {
+    "Level": 37,
+    "Essence": "config.ccextras.essence.Schneemann_Tier_2",
+    "Amount": 38000,
+    "Wave": 2365
+  },
+  {
+    "Level": 38,
+    "Essence": "config.ccextras.essence.Piglin_Tier_3",
+    "Amount": 39000,
+    "Wave": 1925
+  },
+  {
+    "Level": 39,
+    "Essence": "config.ccextras.essence.Piglin_Tier_3",
+    "Amount": 40000,
+    "Wave": 1925
+  },
+  {
+    "Level": 40,
+    "Essence": "config.ccextras.essence.Schneemann_Tier_2",
+    "Amount": 41000,
+    "Wave": 2365
+  },
+  {
+    "Level": 41,
+    "Essence": "config.ccextras.essence.Bienen_Tier_3",
+    "Amount": 42000,
+    "Wave": 2380
+  },
+  {
+    "Level": 42,
+    "Essence": "config.ccextras.essence.Wächter_Tier_3",
+    "Amount": 43000,
+    "Wave": 2664
+  },
+  {
+    "Level": 43,
+    "Essence": "config.ccextras.essence.Fuchs_Tier_2",
+    "Amount": 44000,
+    "Wave": 2460
+  },
+  {
+    "Level": 44,
+    "Essence": "config.ccextras.essence.Wolf_Tier_4",
+    "Amount": 45000,
+    "Wave": 2569
+  },
+  {
+    "Level": 45,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_4",
+    "Amount": 46000,
+    "Wave": 2393
+  },
+  {
+    "Level": 46,
+    "Essence": "config.ccextras.essence.Wächter_Tier_3",
+    "Amount": 47000,
+    "Wave": 2664
+  },
+  {
+    "Level": 47,
+    "Essence": "config.ccextras.essence.Lohen_Tier_4",
+    "Amount": 48000,
+    "Wave": 2706
+  },
+  {
+    "Level": 48,
+    "Essence": "config.ccextras.essence.Pferde_Tier_4",
+    "Amount": 49000,
+    "Wave": 2319
+  },
+  {
+    "Level": 49,
+    "Essence": "config.ccextras.essence.Creeper_Tier_3",
+    "Amount": 50000,
+    "Wave": 2854
+  },
+  {
+    "Level": 50,
+    "Essence": "config.ccextras.essence.Lohen_Tier_5",
+    "Amount": 51000,
+    "Wave": 3504
+  },
+  {
+    "Level": 51,
+    "Essence": "config.ccextras.essence.Zombifizierter_Piglin_Tier_3",
+    "Amount": 52000,
+    "Wave": 2836
+  },
+  {
+    "Level": 52,
+    "Essence": "config.ccextras.essence.Creeper_Tier_4",
+    "Amount": 53000,
+    "Wave": 3583
+  },
+  {
+    "Level": 53,
+    "Essence": "config.ccextras.essence.Hoglin_Tier_4",
+    "Amount": 54000,
+    "Wave": 3233
+  },
+  {
+    "Level": 54,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_5",
+    "Amount": 55000,
+    "Wave": 3405
+  },
+  {
+    "Level": 55,
+    "Essence": "config.ccextras.essence.Bienen_Tier_4",
+    "Amount": 56000,
+    "Wave": 3006
+  },
+  {
+    "Level": 56,
+    "Essence": "config.ccextras.essence.Frosch_Tier_3",
+    "Amount": 57000,
+    "Wave": 3506
+  },
+  {
+    "Level": 57,
+    "Essence": "config.ccextras.essence.Hühner_Tier_5",
+    "Amount": 58000,
+    "Wave": 3227
+  },
+  {
+    "Level": 58,
+    "Essence": "config.ccextras.essence.Vindicator_Tier_3",
+    "Amount": 59000,
+    "Wave": 3362
+  },
+  {
+    "Level": 59,
+    "Essence": "config.ccextras.essence.Wächter_Tier_4",
+    "Amount": 60000,
+    "Wave": 3422
+  },
+  {
+    "Level": 60,
+    "Essence": "config.ccextras.essence.Vindicator_Tier_3",
+    "Amount": 61000,
+    "Wave": 3362
+  },
+  {
+    "Level": 61,
+    "Essence": "config.ccextras.essence.Hexe_Tier_4",
+    "Amount": 62000,
+    "Wave": 3827
+  },
+  {
+    "Level": 62,
+    "Essence": "config.ccextras.essence.Schildkröten_Tier_5",
+    "Amount": 63000,
+    "Wave": 4078
+  },
+  {
+    "Level": 63,
+    "Essence": "config.ccextras.essence.Spinnen_Tier_5",
+    "Amount": 64000,
+    "Wave": 3868
+  },
+  {
+    "Level": 64,
+    "Essence": "config.ccextras.essence.Axolotl_Tier_5",
+    "Amount": 65000,
+    "Wave": 3488
+  },
+  {
+    "Level": 65,
+    "Essence": "config.ccextras.essence.Enderman_Tier_3",
+    "Amount": 66000,
+    "Wave": 3743
+  },
+  {
+    "Level": 66,
+    "Essence": "config.ccextras.essence.Lohen_Tier_6",
+    "Amount": 67000,
+    "Wave": 3730
+  },
+  {
+    "Level": 67,
+    "Essence": "config.ccextras.essence.Hoglin_Tier_5",
+    "Amount": 68000,
+    "Wave": 4191
+  },
+  {
+    "Level": 68,
+    "Essence": "config.ccextras.essence.Schneemann_Tier_5",
+    "Amount": 69000,
+    "Wave": 4396
+  },
+  {
+    "Level": 69,
+    "Essence": "config.ccextras.essence.Stray_Tier_6",
+    "Amount": 70000,
+    "Wave": 4030
+  },
+  {
+    "Level": 70,
+    "Essence": "config.ccextras.essence.Endermite_Tier_6",
+    "Amount": 71000,
+    "Wave": 4111
+  },
+  {
+    "Level": 71,
+    "Essence": "config.ccextras.essence.Piglin_Tier_6",
+    "Amount": 72000,
+    "Wave": 4544
+  },
+  {
+    "Level": 72,
+    "Essence": "config.ccextras.essence.Hühner_Tier_6",
+    "Amount": 73000,
+    "Wave": 4046
+  },
+  {
+    "Level": 73,
+    "Essence": "config.ccextras.essence.Zombie_Tier_7",
+    "Amount": 74000,
+    "Wave": 4262
+  },
+  {
+    "Level": 74,
+    "Essence": "config.ccextras.essence.Piglin_Tier_6",
+    "Amount": 75000,
+    "Wave": 4544
+  },
+  {
+    "Level": 75,
+    "Essence": "config.ccextras.essence.Wolf_Tier_7",
+    "Amount": 76000,
+    "Wave": 4376
+  },
+  {
+    "Level": 76,
+    "Essence": "config.ccextras.essence.Skelett_Tier_7",
+    "Amount": 77000,
+    "Wave": 4442
+  },
+  {
+    "Level": 77,
+    "Essence": "config.ccextras.essence.Endermite_Tier_6",
+    "Amount": 78000,
+    "Wave": 4111
+  },
+  {
+    "Level": 78,
+    "Essence": "config.ccextras.essence.Ziegen_Tier_7",
+    "Amount": 79000,
+    "Wave": 4562
+  },
+  {
+    "Level": 79,
+    "Essence": "config.ccextras.essence.Lohen_Tier_7",
+    "Amount": 80000,
+    "Wave": 4596
+  },
+  {
+    "Level": 80,
+    "Essence": "config.ccextras.essence.Stray_Tier_7",
+    "Amount": 81000,
+    "Wave": 4483
+  },
+  {
+    "Level": 81,
+    "Essence": "config.ccextras.essence.Piglin_Tier_7",
+    "Amount": 82000,
+    "Wave": 5142
+  },
+  {
+    "Level": 82,
+    "Essence": "config.ccextras.essence.Piglin_Tier_7",
+    "Amount": 83000,
+    "Wave": 5142
+  },
+  {
+    "Level": 83,
+    "Essence": "config.ccextras.essence.Zoglin_Tier_4",
+    "Amount": 84000,
+    "Wave": 4874
+  },
+  {
+    "Level": 84,
+    "Essence": "config.ccextras.essence.Pferde_Tier_8",
+    "Amount": 85000,
+    "Wave": 5292
+  },
+  {
+    "Level": 85,
+    "Essence": "config.ccextras.essence.Axolotl_Tier_7",
+    "Amount": 86000,
+    "Wave": 5188
+  },
+  {
+    "Level": 86,
+    "Essence": "config.ccextras.essence.Schneemann_Tier_6",
+    "Amount": 87000,
+    "Wave": 5043
+  },
+  {
+    "Level": 87,
+    "Essence": "config.ccextras.essence.Lohen_Tier_8",
+    "Amount": 88000,
+    "Wave": 5115
+  },
+  {
+    "Level": 88,
+    "Essence": "config.ccextras.essence.Ziegen_Tier_7",
+    "Amount": 89000,
+    "Wave": 4562
+  },
+  {
+    "Level": 89,
+    "Essence": "config.ccextras.essence.Spinnen_Tier_7",
+    "Amount": 90000,
+    "Wave": 4739
+  },
+  {
+    "Level": 90,
+    "Essence": "config.ccextras.essence.Axolotl_Tier_7",
+    "Amount": 91000,
+    "Wave": 5188
+  },
+  {
+    "Level": 91,
+    "Essence": "config.ccextras.essence.Piglin_Tier_8",
+    "Amount": 92000,
+    "Wave": 5332
+  },
+  {
+    "Level": 92,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_8",
+    "Amount": 93000,
+    "Wave": 5452
+  },
+  {
+    "Level": 93,
+    "Essence": "config.ccextras.essence.Spinnen_Tier_8",
+    "Amount": 94000,
+    "Wave": 5332
+  },
+  {
+    "Level": 94,
+    "Essence": "config.ccextras.essence.Wächter_Tier_7",
+    "Amount": 95000,
+    "Wave": 5524
+  },
+  {
+    "Level": 95,
+    "Essence": "config.ccextras.essence.Panda_Tier_5",
+    "Amount": 96000,
+    "Wave": 5607
+  },
+  {
+    "Level": 96,
+    "Essence": "config.ccextras.essence.Piglin_Tier_8",
+    "Amount": 97000,
+    "Wave": 5332
+  },
+  {
+    "Level": 97,
+    "Essence": "config.ccextras.essence.Hoglin_Tier_7",
+    "Amount": 98000,
+    "Wave": 5768
+  },
+  {
+    "Level": 98,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_9",
+    "Amount": 99000,
+    "Wave": 6386
+  },
+  {
+    "Level": 99,
+    "Essence": "config.ccextras.essence.Wächter_Tier_8",
+    "Amount": 100000,
+    "Wave": 5836
+  },
+  {
+    "Level": 100,
+    "Essence": "config.ccextras.essence.Piglin_Tier_8",
+    "Amount": 101000,
+    "Wave": 5332
+  },
+  {
+    "Level": 101,
+    "Essence": "config.ccextras.essence.Panda_Tier_6",
+    "Amount": 102000,
+    "Wave": 5657
+  },
+  {
+    "Level": 102,
+    "Essence": "config.ccextras.essence.Schildkröten_Tier_8",
+    "Amount": 103000,
+    "Wave": 5591
+  },
+  {
+    "Level": 103,
+    "Essence": "config.ccextras.essence.Piglin_Tier_9",
+    "Amount": 104000,
+    "Wave": 6233
+  },
+  {
+    "Level": 104,
+    "Essence": "config.ccextras.essence.Zombie_Tier_9",
+    "Amount": 105000,
+    "Wave": 6131
+  },
+  {
+    "Level": 105,
+    "Essence": "config.ccextras.essence.Zombie_Tier_9",
+    "Amount": 106000,
+    "Wave": 6131
+  },
+  {
+    "Level": 106,
+    "Essence": "config.ccextras.essence.Piglin_Tier_9",
+    "Amount": 107000,
+    "Wave": 6233
+  },
+  {
+    "Level": 107,
+    "Essence": "config.ccextras.essence.Skelett_Tier_9",
+    "Amount": 108000,
+    "Wave": 6464
+  },
+  {
+    "Level": 108,
+    "Essence": "config.ccextras.essence.Bienen_Tier_9",
+    "Amount": 109000,
+    "Wave": 6204
+  },
+  {
+    "Level": 109,
+    "Essence": "config.ccextras.essence.Polarbär_Tier_6",
+    "Amount": 110000,
+    "Wave": 6456
+  },
+  {
+    "Level": 110,
+    "Essence": "config.ccextras.essence.Ziegen_Tier_9",
+    "Amount": 111000,
+    "Wave": 6236
+  },
+  {
+    "Level": 111,
+    "Essence": "config.ccextras.essence.Piglin_Tier_9",
+    "Amount": 112000,
+    "Wave": 6233
+  },
+  {
+    "Level": 112,
+    "Essence": "config.ccextras.essence.Piglin_Tier_9",
+    "Amount": 113000,
+    "Wave": 6233
+  },
+  {
+    "Level": 113,
+    "Essence": "config.ccextras.essence.Pferde_Tier_10",
+    "Amount": 114000,
+    "Wave": 6658
+  },
+  {
+    "Level": 114,
+    "Essence": "config.ccextras.essence.Fuchs_Tier_8",
+    "Amount": 115000,
+    "Wave": 6721
+  },
+  {
+    "Level": 115,
+    "Essence": "config.ccextras.essence.Zoglin_Tier_7",
+    "Amount": 116000,
+    "Wave": 6856
+  },
+  {
+    "Level": 116,
+    "Essence": "config.ccextras.essence.Evoker_Tier_6",
+    "Amount": 117000,
+    "Wave": 6994
+  },
+  {
+    "Level": 117,
+    "Essence": "config.ccextras.essence.Creeper_Tier_9",
+    "Amount": 118000,
+    "Wave": 6895
+  },
+  {
+    "Level": 118,
+    "Essence": "config.ccextras.essence.Endermite_Tier_10",
+    "Amount": 119000,
+    "Wave": 7125
+  },
+  {
+    "Level": 119,
+    "Essence": "config.ccextras.essence.Axolotl_Tier_10",
+    "Amount": 120000,
+    "Wave": 7022
+  },
+  {
+    "Level": 120,
+    "Essence": "config.ccextras.essence.Husk_Tier_11",
+    "Amount": 121000,
+    "Wave": 7332
+  },
+  {
+    "Level": 121,
+    "Essence": "config.ccextras.essence.Zombifizierter_Piglin_Tier_9",
+    "Amount": 122000,
+    "Wave": 7293
+  },
+  {
+    "Level": 122,
+    "Essence": "config.ccextras.essence.Skelett_Tier_10",
+    "Amount": 123000,
+    "Wave": 7201
+  },
+  {
+    "Level": 123,
+    "Essence": "config.ccextras.essence.Frosch_Tier_9",
+    "Amount": 124000,
+    "Wave": 7301
+  },
+  {
+    "Level": 124,
+    "Essence": "config.ccextras.essence.Evoker_Tier_7",
+    "Amount": 125000,
+    "Wave": 7428
+  },
+  {
+    "Level": 125,
+    "Essence": "config.ccextras.essence.Wächter_Tier_10",
+    "Amount": 126000,
+    "Wave": 7382
+  },
+  {
+    "Level": 126,
+    "Essence": "config.ccextras.essence.Schildkröten_Tier_10",
+    "Amount": 127000,
+    "Wave": 7471
+  },
+  {
+    "Level": 127,
+    "Essence": "config.ccextras.essence.Bienen_Tier_11",
+    "Amount": 128000,
+    "Wave": 8973
+  },
+  {
+    "Level": 128,
+    "Essence": "config.ccextras.essence.Lohen_Tier_11",
+    "Amount": 129000,
+    "Wave": 7075
+  },
+  {
+    "Level": 129,
+    "Essence": "config.ccextras.essence.Piglin_Tier_11",
+    "Amount": 130000,
+    "Wave": 9889
+  },
+  {
+    "Level": 130,
+    "Essence": "config.ccextras.essence.Ertrunkener_Tier_8",
+    "Amount": 131000,
+    "Wave": 7482
+  },
+  {
+    "Level": 131,
+    "Essence": "config.ccextras.essence.Spinnen_Tier_11",
+    "Amount": 132000,
+    "Wave": 9335
+  },
+  {
+    "Level": 132,
+    "Essence": "config.ccextras.essence.Bienen_Tier_11",
+    "Amount": 133000,
+    "Wave": 8973
+  },
+  {
+    "Level": 133,
+    "Essence": "config.ccextras.essence.Pferde_Tier_12",
+    "Amount": 134000,
+    "Wave": 9994
+  },
+  {
+    "Level": 134,
+    "Essence": "config.ccextras.essence.Ocelot_Tier_12",
+    "Amount": 135000,
+    "Wave": 8379
+  },
+  {
+    "Level": 135,
+    "Essence": "config.ccextras.essence.Stray_Tier_12",
+    "Amount": 136000,
+    "Wave": 9111
+  },
+  {
+    "Level": 136,
+    "Essence": "config.ccextras.essence.Hühner_Tier_12",
+    "Amount": 137000,
+    "Wave": 9883
+  },
+  {
+    "Level": 137,
+    "Essence": "config.ccextras.essence.Axolotl_Tier_11",
+    "Amount": 138000,
+    "Wave": 8101
+  },
+  {
+    "Level": 138,
+    "Essence": "config.ccextras.essence.Schildkröten_Tier_11",
+    "Amount": 139000,
+    "Wave": 9598
+  },
+  {
+    "Level": 139,
+    "Essence": "config.ccextras.essence.Wolf_Tier_12",
+    "Amount": 140000,
+    "Wave": 9446
+  },
+  {
+    "Level": 140,
+    "Essence": "config.ccextras.essence.Wächter_Tier_11",
+    "Amount": 141000,
+    "Wave": 7870
+  },
+  {
+    "Level": 141,
+    "Essence": "config.ccextras.essence.Piglin_Tier_11",
+    "Amount": 142000,
+    "Wave": 9889
+  },
+  {
+    "Level": 142,
+    "Essence": "config.ccextras.essence.Evoker_Tier_8",
+    "Amount": 143000,
+    "Wave": 8114
+  },
+  {
+    "Level": 143,
+    "Essence": "config.ccextras.essence.Stray_Tier_12",
+    "Amount": 144000,
+    "Wave": 9111
+  },
+  {
+    "Level": 144,
+    "Essence": "config.ccextras.essence.Stray_Tier_12",
+    "Amount": 145000,
+    "Wave": 9111
+  },
+  {
+    "Level": 145,
+    "Essence": "config.ccextras.essence.Schneemann_Tier_10",
+    "Amount": 146000,
+    "Wave": 9645
+  },
+  {
+    "Level": 146,
+    "Essence": "config.ccextras.essence.Schneemann_Tier_10",
+    "Amount": 147000,
+    "Wave": 9645
+  },
+  {
+    "Level": 147,
+    "Essence": "config.ccextras.essence.Pferde_Tier_12",
+    "Amount": 148000,
+    "Wave": 9994
+  },
+  {
+    "Level": 148,
+    "Essence": "config.ccextras.essence.Ocelot_Tier_12",
+    "Amount": 149000,
+    "Wave": 8379
+  },
+  {
+    "Level": 149,
+    "Essence": "config.ccextras.essence.Ocelot_Tier_12",
+    "Amount": 150000,
+    "Wave": 8379
+  },
+  {
+    "Level": 150,
+    "Essence": "config.ccextras.essence.Piglin_Tier_11",
+    "Amount": 151000,
+    "Wave": 9889
+  },
+  {
+    "Level": 151,
+    "Essence": "config.ccextras.essence.Creeper_Tier_11",
+    "Amount": 152000,
+    "Wave": 8802
+  },
+  {
+    "Level": 152,
+    "Essence": "config.ccextras.essence.Vindicator_Tier_10",
+    "Amount": 153000,
+    "Wave": 9772
+  },
+  {
+    "Level": 153,
+    "Essence": "config.ccextras.essence.Fuchs_Tier_10",
+    "Amount": 154000,
+    "Wave": 9105
+  },
+  {
+    "Level": 154,
+    "Essence": "config.ccextras.essence.Endermite_Tier_11",
+    "Amount": 155000,
+    "Wave": 9529
+  },
+  {
+    "Level": 155,
+    "Essence": "config.ccextras.essence.Zombiepferde_Tier_8",
+    "Amount": 156000,
+    "Wave": 7555
+  },
+  {
+    "Level": 156,
+    "Essence": "config.ccextras.essence.Stray_Tier_12",
+    "Amount": 157000,
+    "Wave": 9111
+  },
+  {
+    "Level": 157,
+    "Essence": "config.ccextras.essence.Piglin_Tier_11",
+    "Amount": 158000,
+    "Wave": 9889
+  },
+  {
+    "Level": 158,
+    "Essence": "config.ccextras.essence.Piglin_Tier_11",
+    "Amount": 159000,
+    "Wave": 9889
+  },
+  {
+    "Level": 159,
+    "Essence": "config.ccextras.essence.Evoker_Tier_8",
+    "Amount": 160000,
+    "Wave": 8114
+  },
+  {
+    "Level": 160,
+    "Essence": "config.ccextras.essence.Ocelot_Tier_12",
+    "Amount": 161000,
+    "Wave": 8379
+  },
+  {
+    "Level": 161,
+    "Essence": "config.ccextras.essence.Vindicator_Tier_10",
+    "Amount": 162000,
+    "Wave": 9772
+  },
+  {
+    "Level": 162,
+    "Essence": "config.ccextras.essence.Piglin_Tier_11",
+    "Amount": 163000,
+    "Wave": 9889
+  },
+  {
+    "Level": 163,
+    "Essence": "config.ccextras.essence.Enderman_Tier_9",
+    "Amount": 164000,
+    "Wave": 8795
+  },
+  {
+    "Level": 164,
+    "Essence": "config.ccextras.essence.Skelett_Tier_12",
+    "Amount": 165000,
+    "Wave": 9784
+  },
+  {
+    "Level": 165,
+    "Essence": "config.ccextras.essence.Hühner_Tier_11",
+    "Amount": 166000,
+    "Wave": 7756
+  },
+  {
+    "Level": 166,
+    "Essence": "config.ccextras.essence.Piglin_Tier_11",
+    "Amount": 167000,
+    "Wave": 9889
+  },
+  {
+    "Level": 167,
+    "Essence": "config.ccextras.essence.Witherskelett_Tier_12",
+    "Amount": 168000,
+    "Wave": 9579
+  },
+  {
+    "Level": 168,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 169000,
+    "Wave": 10000
+  },
+  {
+    "Level": 169,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 170000,
+    "Wave": 10000
+  },
+  {
+    "Level": 170,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 171000,
+    "Wave": 10000
+  },
+  {
+    "Level": 171,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 172000,
+    "Wave": 10000
+  },
+  {
+    "Level": 172,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 173000,
+    "Wave": 10000
+  },
+  {
+    "Level": 173,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 174000,
+    "Wave": 10000
+  },
+  {
+    "Level": 174,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 175000,
+    "Wave": 10000
+  },
+  {
+    "Level": 175,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 176000,
+    "Wave": 10000
+  },
+  {
+    "Level": 176,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 177000,
+    "Wave": 10000
+  },
+  {
+    "Level": 177,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 178000,
+    "Wave": 10000
+  },
+  {
+    "Level": 178,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 179000,
+    "Wave": 10000
+  },
+  {
+    "Level": 179,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 180000,
+    "Wave": 10000
+  },
+  {
+    "Level": 180,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 181000,
+    "Wave": 10000
+  },
+  {
+    "Level": 181,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 182000,
+    "Wave": 10000
+  },
+  {
+    "Level": 182,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 183000,
+    "Wave": 10000
+  },
+  {
+    "Level": 183,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 184000,
+    "Wave": 10000
+  },
+  {
+    "Level": 184,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 185000,
+    "Wave": 10000
+  },
+  {
+    "Level": 185,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 186000,
+    "Wave": 10000
+  },
+  {
+    "Level": 186,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 187000,
+    "Wave": 10000
+  },
+  {
+    "Level": 187,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 188000,
+    "Wave": 10000
+  },
+  {
+    "Level": 188,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 189000,
+    "Wave": 10000
+  },
+  {
+    "Level": 189,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 190000,
+    "Wave": 10000
+  },
+  {
+    "Level": 190,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 191000,
+    "Wave": 10000
+  },
+  {
+    "Level": 191,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 192000,
+    "Wave": 10000
+  },
+  {
+    "Level": 192,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 193000,
+    "Wave": 10000
+  },
+  {
+    "Level": 193,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 194000,
+    "Wave": 10000
+  },
+  {
+    "Level": 194,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 195000,
+    "Wave": 10000
+  },
+  {
+    "Level": 195,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 196000,
+    "Wave": 10000
+  },
+  {
+    "Level": 196,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 197000,
+    "Wave": 10000
+  },
+  {
+    "Level": 197,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 198000,
+    "Wave": 10000
+  },
+  {
+    "Level": 198,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 199000,
+    "Wave": 10000
+  },
+  {
+    "Level": 199,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 200000,
+    "Wave": 10000
+  },
+  {
+    "Level": 200,
+    "Essence": "config.ccextras.essence.Wither_Tier_4",
+    "Amount": 201000,
+    "Wave": 10000
+  }
+]

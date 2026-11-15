@@ -1,0 +1,8 @@
+{
+  "config.ccextras.aincraft.rarity.common": "Common",
+  "config.ccextras.aincraft.rarity.epic": "Epic",
+  "config.ccextras.aincraft.rarity.legendary": "Legendary",
+  "config.ccextras.aincraft.rarity.rare": "Rare",
+  "config.ccextras.aincraft.rarity.uncommon": "Uncommon",
+  "config.ccextras.aincraft.rarity.shiny": "Shiny"
+}

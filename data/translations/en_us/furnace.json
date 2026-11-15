@@ -1,0 +1,10 @@
+{
+  "config.ccextras.furnace.material.iron_ingot": "Iron Ingot",
+  "config.ccextras.furnace.material.gold_ingot": "Gold Ingot",
+  "config.ccextras.furnace.material.copper_ingot": "Copper Ingot",
+  "config.ccextras.furnace.material.netherite_ingot": "Netherite Ingot",
+  "config.ccextras.furnace.material.raw_copper": "Raw Copper",
+  "config.ccextras.furnace.material.raw_iron": "Raw Iron",
+  "config.ccextras.furnace.material.raw_gold": "Raw Gold",
+  "config.ccextras.furnace.material.raw_netherite": "Ancient Debris"
+}

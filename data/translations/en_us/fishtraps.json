@@ -1,0 +1,10 @@
+{
+  "config.ccextras.items.fishtraps.jungle_wood": "Jungle Fish Trap",
+  "config.ccextras.items.fishtraps.spruce_wood": "Spruce Fish Trap",
+  "config.ccextras.items.fishtraps.bamboo_wood": "Bamboo Fish Trap",
+  "config.ccextras.items.fishtraps.mushroom_wood": "Mushroom Fish Trap",
+  "config.ccextras.items.fishtraps.dark_oak_wood": "Dark Oak Fish Trap",
+  "config.ccextras.items.fishtraps.mangrove_wood": "Mangrove Fish Trap",
+  "config.ccextras.items.fishtraps.crimson_wood": "Crimson Fish Trap",
+  "config.ccextras.items.fishtraps.warped_wood": "Warped Fish Trap"
+}

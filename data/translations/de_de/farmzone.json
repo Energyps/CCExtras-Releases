@@ -1,0 +1,20 @@
+{
+  "config.ccextras.farmzone.material.oak_wood": "Eichenholz",
+  "config.ccextras.farmzone.material.coal": "Kohle",
+  "config.ccextras.farmzone.material.copper_ingot": "Kupferbarren",
+  "config.ccextras.farmzone.material.jungle_wood": "Dschungelholz",
+  "config.ccextras.farmzone.material.spruce_wood": "Fichtenholz",
+  "config.ccextras.farmzone.material.bamboo": "Bambus",
+  "config.ccextras.farmzone.material.obsidian": "Obsidian",
+  "config.ccextras.farmzone.material.diamond": "Diamanten",
+  "config.ccextras.farmzone.material.sulfur": "Sulfur",
+  "config.ccextras.farmzone.material.quartz": "Quartz",
+  "config.ccextras.farmzone.material.mushroom_wood": "Pilzholz",
+  "config.ccextras.farmzone.material.dark_oak_wood": "Dunkles Eichenholz",
+  "config.ccextras.farmzone.material.mangrove_wood": "Mangrovenholz",
+  "config.ccextras.farmzone.material.crimson_wood": "Karmesinholz",
+  "config.ccextras.farmzone.material.warped_wood": "Wirrwarr Holz",
+  "config.ccextras.farmzone.material.echo_crystal": "Echokristall",
+  "tooltip.ccextras.location.pond": "Teich: %s (%s)",
+  "tooltip.ccextras.location.unlock": "Freigeschaltet mit: %s"
+}

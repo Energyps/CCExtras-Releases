@@ -1,0 +1,20 @@
+{
+  "config.ccextras.keys.removeBlueprintPin": "Aktuellen Bauplan Pin entfernen",
+  "config.ccextras.keys.setBlueprintPin": "Aktuellen Bauplan anpinnen",
+  "config.ccextras.keys.addBlueprintAmount": "Bauplan Anzahl hinzufügen",
+  "config.ccextras.keys.removeBlueprintAmount": "Bauplan Anzahl entfernen",
+  "config.ccextras.keys.nextBlueprint": "Nächster Bauplan",
+  "config.ccextras.keys.previousBlueprint": "Vorheriger Bauplan",
+  "config.ccextras.keys.nextBlueprintSearch": "Bauplan-Suche: nächster Eintrag",
+  "config.ccextras.keys.previousBlueprintSearch": "Bauplan-Suche: vorheriger Eintrag",
+  "config.ccextras.keys.addBlueprintSearchAmount": "Bauplan-Suche: Anzahl +1",
+  "config.ccextras.keys.removeBlueprintSearchAmount": "Bauplan-Suche: Anzahl -1",
+  "config.ccextras.keys.addBlueprintSearchAmountTen": "Bauplan-Suche: Anzahl +10",
+  "config.ccextras.keys.removeBlueprintSearchAmountTen": "Bauplan-Suche: Anzahl -10",
+  "config.ccextras.keys.removeBlueprintSearch": "Bauplan-Suche: Eintrag entfernen",
+  "config.ccextras.keys.toggleBlueprintOverall": "Blueprint-Gesamtkosten umschalten",
+  "config.ccextras.keys.scrollBlueprintOverallUp": "Blueprint-Gesamtkosten nach oben scrollen",
+  "config.ccextras.keys.scrollBlueprintOverallDown": "Blueprint-Gesamtkosten nach unten scrollen",
+  "config.ccextras.keys.toggleAincraftCoinsStopwatch": "Aincraft Coins Stoppuhr Start/Stop",
+  "config.ccextras.keys.resetAincraftCoinsStopwatch": "Aincraft Coins Stoppuhr zurücksetzen"
+}

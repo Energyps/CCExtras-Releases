@@ -1,0 +1,10 @@
+{
+  "config.ccextras.furnace.material.iron_ingot": "Eisenbarren",
+  "config.ccextras.furnace.material.gold_ingot": "Goldbarren",
+  "config.ccextras.furnace.material.copper_ingot": "Kupferbarren",
+  "config.ccextras.furnace.material.netherite_ingot": "Netherite Schrott",
+  "config.ccextras.furnace.material.raw_netherite": "Antiker Schutt",
+  "config.ccextras.furnace.material.raw_copper": "Rohes Kupfererz",
+  "config.ccextras.furnace.material.raw_iron": "Rohes Eisenerz",
+  "config.ccextras.furnace.material.raw_gold": "Rohes Gold"
+}

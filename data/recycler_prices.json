@@ -1,0 +1,2702 @@
+[
+  {
+    "Level": 1,
+    "Material": "Prachtvolles Schafshorn",
+    "Amount": 600,
+    "Coins": 1000000
+  },
+  {
+    "Level": 2,
+    "Material": "Prächtiges Lamahaar",
+    "Amount": 2275,
+    "Coins": 2000000
+  },
+  {
+    "Level": 3,
+    "Material": "Horn des Thor",
+    "Amount": 351,
+    "Coins": 3378414
+  },
+  {
+    "Level": 4,
+    "Material": "Verstärkte Pandakralle",
+    "Amount": 1773,
+    "Coins": 4948222
+  },
+  {
+    "Level": 5,
+    "Material": "Tinte",
+    "Amount": 2905,
+    "Coins": 6656854
+  },
+  {
+    "Level": 6,
+    "Material": "Hühnerkamm",
+    "Amount": 609,
+    "Coins": 8476744
+  },
+  {
+    "Level": 7,
+    "Material": "Goldene Pferdemähne",
+    "Amount": 611,
+    "Coins": 10390507
+  },
+  {
+    "Level": 8,
+    "Material": "Scharfer Ocelotzahn",
+    "Amount": 613,
+    "Coins": 12386036
+  },
+  {
+    "Level": 9,
+    "Material": "Klaue des Frostwolfes",
+    "Amount": 615,
+    "Coins": 14454343
+  },
+  {
+    "Level": 10,
+    "Material": "Prachtvoller Bienenfühler",
+    "Amount": 617,
+    "Coins": 16588457
+  },
+  {
+    "Level": 11,
+    "Material": "Göttliche Feder",
+    "Amount": 358,
+    "Coins": 18782794
+  },
+  {
+    "Level": 12,
+    "Material": "Eselschwanz",
+    "Amount": 2533,
+    "Coins": 21032763
+  },
+  {
+    "Level": 13,
+    "Material": "Steinhuf",
+    "Amount": 624,
+    "Coins": 23334517
+  },
+  {
+    "Level": 14,
+    "Material": "Prachtvoller Polarbärpelz",
+    "Amount": 2599,
+    "Coins": 25684776
+  },
+  {
+    "Level": 15,
+    "Material": "Ohr des Schreckens",
+    "Amount": 629,
+    "Coins": 28080710
+  },
+  {
+    "Level": 16,
+    "Material": "Kuhleder",
+    "Amount": 2667,
+    "Coins": 30519845
+  },
+  {
+    "Level": 17,
+    "Material": "Prachtvolles Ocelothaar",
+    "Amount": 3557,
+    "Coins": 33000000
+  },
+  {
+    "Level": 18,
+    "Material": "Prachtvolles Pandahaar",
+    "Amount": 3622,
+    "Coins": 35519234
+  },
+  {
+    "Level": 19,
+    "Material": "Giftiger Bienenstachel",
+    "Amount": 366,
+    "Coins": 38075809
+  },
+  {
+    "Level": 20,
+    "Material": "Regenbogenkristall",
+    "Amount": 367,
+    "Coins": 40668155
+  },
+  {
+    "Level": 21,
+    "Material": "Goldeselzahn",
+    "Amount": 368,
+    "Coins": 43294851
+  },
+  {
+    "Level": 22,
+    "Material": "Prachtvolle Schildkrötenklaue",
+    "Amount": 2892,
+    "Coins": 45954598
+  },
+  {
+    "Level": 23,
+    "Material": "Verstärkter Froschknochen",
+    "Amount": 1989,
+    "Coins": 48646209
+  },
+  {
+    "Level": 24,
+    "Material": "Edelsteinscherbe",
+    "Amount": 655,
+    "Coins": 51368590
+  },
+  {
+    "Level": 25,
+    "Material": "Prachtvoller Kamelschwanz",
+    "Amount": 2018,
+    "Coins": 54120732
+  },
+  {
+    "Level": 26,
+    "Material": "Ebisus Zahn",
+    "Amount": 662,
+    "Coins": 56901699
+  },
+  {
+    "Level": 27,
+    "Material": "Verstärkter Lederflicken",
+    "Amount": 3096,
+    "Coins": 59710622
+  },
+  {
+    "Level": 28,
+    "Material": "Donnernderhuf",
+    "Amount": 377,
+    "Coins": 62546691
+  },
+  {
+    "Level": 29,
+    "Material": "Scharfer Fuchszahn",
+    "Amount": 2077,
+    "Coins": 65409146
+  },
+  {
+    "Level": 30,
+    "Material": "Prächtige Froschhaut",
+    "Amount": 4488,
+    "Coins": 68297278
+  },
+  {
+    "Level": 31,
+    "Material": "Magische Essenz",
+    "Amount": 2108,
+    "Coins": 71210420
+  },
+  {
+    "Level": 32,
+    "Material": "Prachtvoller Kamelknochen",
+    "Amount": 682,
+    "Coins": 74147943
+  },
+  {
+    "Level": 33,
+    "Material": "Eisige Pranke",
+    "Amount": 384,
+    "Coins": 77109255
+  },
+  {
+    "Level": 34,
+    "Material": "Alte Schriftrolle",
+    "Amount": 3405,
+    "Coins": 80093797
+  },
+  {
+    "Level": 35,
+    "Material": "Glühender Waffensplitter",
+    "Amount": 692,
+    "Coins": 83101038
+  },
+  {
+    "Level": 36,
+    "Material": "Kuramas Schweif",
+    "Amount": 388,
+    "Coins": 86130475
+  },
+  {
+    "Level": 37,
+    "Material": "Perlmuttfaser",
+    "Amount": 2204,
+    "Coins": 89181631
+  },
+  {
+    "Level": 38,
+    "Material": "Prächtiges Pferdehaar",
+    "Amount": 5141,
+    "Coins": 92254051
+  },
+  {
+    "Level": 39,
+    "Material": "Prachtvolles Wolfshaar",
+    "Amount": 5226,
+    "Coins": 95347304
+  },
+  {
+    "Level": 40,
+    "Material": "Prächtiger Axolotl-Kiemen",
+    "Amount": 710,
+    "Coins": 98460977
+  },
+  {
+    "Level": 41,
+    "Material": "Magischer Rüstungssplitter",
+    "Amount": 2272,
+    "Coins": 101594674
+  },
+  {
+    "Level": 42,
+    "Material": "Prachtvoller Ziegenknochen",
+    "Amount": 2289,
+    "Coins": 104748021
+  },
+  {
+    "Level": 43,
+    "Material": "Herz der Tiefsee",
+    "Amount": 398,
+    "Coins": 107920656
+  },
+  {
+    "Level": 44,
+    "Material": "Prächtiges Eselhaar",
+    "Amount": 5664,
+    "Coins": 111112233
+  },
+  {
+    "Level": 45,
+    "Material": "Steinige Überreste",
+    "Amount": 5754,
+    "Coins": 114322421
+  },
+  {
+    "Level": 46,
+    "Material": "Ebisus Pranke",
+    "Amount": 403,
+    "Coins": 117550903
+  },
+  {
+    "Level": 47,
+    "Material": "Verkorkte Seele",
+    "Amount": 404,
+    "Coins": 120797372
+  },
+  {
+    "Level": 48,
+    "Material": "Prächtiges Ziegenfell",
+    "Amount": 4090,
+    "Coins": 124061533
+  },
+  {
+    "Level": 49,
+    "Material": "Faden",
+    "Amount": 6120,
+    "Coins": 127343105
+  },
+  {
+    "Level": 50,
+    "Material": "Geist des Ozeans",
+    "Amount": 409,
+    "Coins": 130641814
+  },
+  {
+    "Level": 51,
+    "Material": "Scharfer Polarbärenzahn",
+    "Amount": 753,
+    "Coins": 133957397
+  },
+  {
+    "Level": 52,
+    "Material": "Feuriger Rüstungssplitter",
+    "Amount": 2469,
+    "Coins": 137289601
+  },
+  {
+    "Level": 53,
+    "Material": "Huf des Osiris",
+    "Amount": 414,
+    "Coins": 140638180
+  },
+  {
+    "Level": 54,
+    "Material": "Scharfer Hasenzahn",
+    "Amount": 2507,
+    "Coins": 144002897
+  },
+  {
+    "Level": 55,
+    "Material": "Umher Streunende Seele",
+    "Amount": 417,
+    "Coins": 147383525
+  },
+  {
+    "Level": 56,
+    "Material": "Verwelkte Blume",
+    "Amount": 4515,
+    "Coins": 150779840
+  },
+  {
+    "Level": 57,
+    "Material": "Prachtvolles Fuchshaar",
+    "Amount": 6883,
+    "Coins": 154191629
+  },
+  {
+    "Level": 58,
+    "Material": "Verottetes Fleisch",
+    "Amount": 6981,
+    "Coins": 157618684
+  },
+  {
+    "Level": 59,
+    "Material": "Durchstochener Strohut",
+    "Amount": 7080,
+    "Coins": 161060803
+  },
+  {
+    "Level": 60,
+    "Material": "Schädelfragment",
+    "Amount": 4736,
+    "Coins": 164517792
+  },
+  {
+    "Level": 61,
+    "Material": "Prachtvoller Wolfspelz",
+    "Amount": 4793,
+    "Coins": 167989461
+  },
+  {
+    "Level": 62,
+    "Material": "Brennende Kartoffel",
+    "Amount": 4849,
+    "Coins": 171475626
+  },
+  {
+    "Level": 63,
+    "Material": "Verstärkte Pandakralle",
+    "Amount": 2682,
+    "Coins": 174976108
+  },
+  {
+    "Level": 64,
+    "Material": "Höllenzahn",
+    "Amount": 433,
+    "Coins": 178490735
+  },
+  {
+    "Level": 65,
+    "Material": "Prachtvoller Polarbärknochen",
+    "Amount": 2722,
+    "Coins": 182019336
+  },
+  {
+    "Level": 66,
+    "Material": "Seelenfaden",
+    "Amount": 817,
+    "Coins": 185561748
+  },
+  {
+    "Level": 67,
+    "Material": "Herz der Untoten",
+    "Amount": 822,
+    "Coins": 189117812
+  },
+  {
+    "Level": 68,
+    "Material": "Faule Kartoffel",
+    "Amount": 5194,
+    "Coins": 192687372
+  },
+  {
+    "Level": 69,
+    "Material": "Leinenstoff",
+    "Amount": 8099,
+    "Coins": 196270276
+  },
+  {
+    "Level": 70,
+    "Material": "Poseidons Zacken",
+    "Amount": 443,
+    "Coins": 199866378
+  },
+  {
+    "Level": 71,
+    "Material": "Regenbogenkristall",
+    "Amount": 445,
+    "Coins": 203475533
+  },
+  {
+    "Level": 72,
+    "Material": "Prächtige Panzerschuppe",
+    "Amount": 8416,
+    "Coins": 207097601
+  },
+  {
+    "Level": 73,
+    "Material": "Prachtvoller Bienenwachs",
+    "Amount": 2887,
+    "Coins": 210732445
+  },
+  {
+    "Level": 74,
+    "Material": "Verkokelte Überreste",
+    "Amount": 8629,
+    "Coins": 214379933
+  },
+  {
+    "Level": 75,
+    "Material": "Wässrige Überreste",
+    "Amount": 8737,
+    "Coins": 218039934
+  },
+  {
+    "Level": 76,
+    "Material": "Prächtiges Pandafell",
+    "Amount": 5671,
+    "Coins": 221712322
+  },
+  {
+    "Level": 77,
+    "Material": "Ohr des Schreckens",
+    "Amount": 867,
+    "Coins": 225396971
+  },
+  {
+    "Level": 78,
+    "Material": "Magische Felsspitze",
+    "Amount": 872,
+    "Coins": 229093761
+  },
+  {
+    "Level": 79,
+    "Material": "Prächtiges Froschauge",
+    "Amount": 877,
+    "Coins": 232802574
+  },
+  {
+    "Level": 80,
+    "Material": "Schleimball",
+    "Amount": 9282,
+    "Coins": 236523293
+  },
+  {
+    "Level": 81,
+    "Material": "Prächtiges Polarbärenhaar",
+    "Amount": 9392,
+    "Coins": 240255805
+  },
+  {
+    "Level": 82,
+    "Material": "Spinnenbeutel",
+    "Amount": 3081,
+    "Coins": 244000000
+  },
+  {
+    "Level": 83,
+    "Material": "Dunkle Runenrolle",
+    "Amount": 3102,
+    "Coins": 247755769
+  },
+  {
+    "Level": 84,
+    "Material": "Kwoloks Zunge",
+    "Amount": 469,
+    "Coins": 251523007
+  },
+  {
+    "Level": 85,
+    "Material": "Wässrige Karotte",
+    "Amount": 6229,
+    "Coins": 255301609
+  },
+  {
+    "Level": 86,
+    "Material": "Arkane Siegelrolle",
+    "Amount": 473,
+    "Coins": 259091474
+  },
+  {
+    "Level": 87,
+    "Material": "Spinnenauge",
+    "Amount": 6356,
+    "Coins": 262892502
+  },
+  {
+    "Level": 88,
+    "Material": "Geist Des Bodenreiches",
+    "Amount": 477,
+    "Coins": 266704595
+  },
+  {
+    "Level": 89,
+    "Material": "Verstärkter Froschknochen",
+    "Amount": 3236,
+    "Coins": 270527660
+  },
+  {
+    "Level": 90,
+    "Material": "Glimmernder Glibber",
+    "Amount": 6548,
+    "Coins": 274361600
+  },
+  {
+    "Level": 91,
+    "Material": "Geist des Leviathan",
+    "Amount": 483,
+    "Coins": 278206326
+  },
+  {
+    "Level": 92,
+    "Material": "Perlmuttfaser",
+    "Amount": 3304,
+    "Coins": 282061746
+  },
+  {
+    "Level": 93,
+    "Material": "Zauberkristall",
+    "Amount": 945,
+    "Coins": 285927773
+  },
+  {
+    "Level": 94,
+    "Material": "Prächtiges Axolotl-Bein",
+    "Amount": 6808,
+    "Coins": 289804320
+  },
+  {
+    "Level": 95,
+    "Material": "Drachenbanner",
+    "Amount": 491,
+    "Coins": 293691302
+  },
+  {
+    "Level": 96,
+    "Material": "Herz der Schwarzen Witwe",
+    "Amount": 493,
+    "Coins": 297588636
+  },
+  {
+    "Level": 97,
+    "Material": "Frostschattenkristall",
+    "Amount": 965,
+    "Coins": 301496239
+  },
+  {
+    "Level": 98,
+    "Material": "Prächtiger Bienenflügel",
+    "Amount": 7072,
+    "Coins": 305414032
+  },
+  {
+    "Level": 99,
+    "Material": "Schleimkern",
+    "Amount": 976,
+    "Coins": 309341936
+  },
+  {
+    "Level": 100,
+    "Material": "Umher Streuende Seele",
+    "Amount": 501,
+    "Coins": 313279872
+  },
+  {
+    "Level": 101,
+    "Material": "Frostiger Knochensplitter",
+    "Amount": 11697,
+    "Coins": 317227766
+  },
+  {
+    "Level": 102,
+    "Material": "Antike Seele",
+    "Amount": 505,
+    "Coins": 321185542
+  },
+  {
+    "Level": 103,
+    "Material": "Kampfplakette",
+    "Amount": 3560,
+    "Coins": 325153126
+  },
+  {
+    "Level": 104,
+    "Material": "Alte Schriftrolle",
+    "Amount": 7475,
+    "Coins": 329130448
+  },
+  {
+    "Level": 105,
+    "Material": "Eiskönigsphäre",
+    "Amount": 511,
+    "Coins": 333117434
+  },
+  {
+    "Level": 106,
+    "Material": "Geist des Feuers",
+    "Amount": 513,
+    "Coins": 337114017
+  },
+  {
+    "Level": 107,
+    "Material": "Pfeilspitze",
+    "Amount": 7679,
+    "Coins": 341120126
+  },
+  {
+    "Level": 108,
+    "Material": "Verwelkte Blume",
+    "Amount": 7748,
+    "Coins": 345135695
+  },
+  {
+    "Level": 109,
+    "Material": "Magische Waffenklinge",
+    "Amount": 1028,
+    "Coins": 349160658
+  },
+  {
+    "Level": 110,
+    "Material": "Geist des Ozeans",
+    "Amount": 522,
+    "Coins": 353194948
+  },
+  {
+    "Level": 111,
+    "Material": "Schleimiges Herz",
+    "Amount": 524,
+    "Coins": 357238502
+  },
+  {
+    "Level": 112,
+    "Material": "Zombie Überreste",
+    "Amount": 13037,
+    "Coins": 361291257
+  },
+  {
+    "Level": 113,
+    "Material": "Zerbrochener Axtgriff",
+    "Amount": 13161,
+    "Coins": 365353150
+  },
+  {
+    "Level": 114,
+    "Material": "Edelsteinscherbe",
+    "Amount": 1054,
+    "Coins": 369424120
+  },
+  {
+    "Level": 115,
+    "Material": "Wächterauge",
+    "Amount": 532,
+    "Coins": 373504106
+  },
+  {
+    "Level": 116,
+    "Material": "Raubtierkralle",
+    "Amount": 8305,
+    "Coins": 377593050
+  },
+  {
+    "Level": 117,
+    "Material": "Silberfischflosse",
+    "Amount": 537,
+    "Coins": 381690892
+  },
+  {
+    "Level": 118,
+    "Material": "Verkorkte Seele",
+    "Amount": 539,
+    "Coins": 385797576
+  },
+  {
+    "Level": 119,
+    "Material": "Nephthys Schleier",
+    "Amount": 541,
+    "Coins": 389913044
+  },
+  {
+    "Level": 120,
+    "Material": "Papyrusfragment",
+    "Amount": 3975,
+    "Coins": 394037240
+  },
+  {
+    "Level": 121,
+    "Material": "Spinnenzahn",
+    "Amount": 1092,
+    "Coins": 398170110
+  },
+  {
+    "Level": 122,
+    "Material": "Erdiger Apfel",
+    "Amount": 8731,
+    "Coins": 402311600
+  },
+  {
+    "Level": 123,
+    "Material": "Schleimiger Edelstein",
+    "Amount": 1103,
+    "Coins": 406461655
+  },
+  {
+    "Level": 124,
+    "Material": "Sprengpulver",
+    "Amount": 8875,
+    "Coins": 410620223
+  },
+  {
+    "Level": 125,
+    "Material": "Spinnenherz",
+    "Amount": 4101,
+    "Coins": 414787252
+  },
+  {
+    "Level": 126,
+    "Material": "Magischer Erdsplitter",
+    "Amount": 4126,
+    "Coins": 418962691
+  },
+  {
+    "Level": 127,
+    "Material": "Giftpfeilspitzen",
+    "Amount": 4152,
+    "Coins": 423146489
+  },
+  {
+    "Level": 128,
+    "Material": "Totemfragment",
+    "Amount": 15069,
+    "Coins": 427338597
+  },
+  {
+    "Level": 129,
+    "Material": "Klebriger Faden",
+    "Amount": 15199,
+    "Coins": 431538965
+  },
+  {
+    "Level": 130,
+    "Material": "Brüchige Schuppe",
+    "Amount": 15330,
+    "Coins": 435747545
+  },
+  {
+    "Level": 131,
+    "Material": "Giftiges Sekret",
+    "Amount": 567,
+    "Coins": 439964289
+  },
+  {
+    "Level": 132,
+    "Material": "Totem",
+    "Amount": 1154,
+    "Coins": 444189150
+  },
+  {
+    "Level": 133,
+    "Material": "Seelensphäre",
+    "Amount": 572,
+    "Coins": 448422082
+  },
+  {
+    "Level": 134,
+    "Material": "Schimmerndeschuppe",
+    "Amount": 9607,
+    "Coins": 452663038
+  },
+  {
+    "Level": 135,
+    "Material": "Seetang",
+    "Amount": 15988,
+    "Coins": 456911973
+  },
+  {
+    "Level": 136,
+    "Material": "Wächterflosse",
+    "Amount": 9755,
+    "Coins": 461168843
+  },
+  {
+    "Level": 137,
+    "Material": "Pilzige Kuhhaut",
+    "Amount": 16253,
+    "Coins": 465433604
+  },
+  {
+    "Level": 138,
+    "Material": "Meereskristall",
+    "Amount": 1188,
+    "Coins": 469706211
+  },
+  {
+    "Level": 139,
+    "Material": "Arkane Pilzsporen",
+    "Amount": 1194,
+    "Coins": 473986623
+  },
+  {
+    "Level": 140,
+    "Material": "Arkane Siegelrolle",
+    "Amount": 588,
+    "Coins": 478274796
+  },
+  {
+    "Level": 141,
+    "Material": "Kriegshorn",
+    "Amount": 1205,
+    "Coins": 482570688
+  },
+  {
+    "Level": 142,
+    "Material": "Wehrsekret",
+    "Amount": 592,
+    "Coins": 486874258
+  },
+  {
+    "Level": 143,
+    "Material": "Totemrahmen",
+    "Amount": 10281,
+    "Coins": 491185466
+  },
+  {
+    "Level": 144,
+    "Material": "Sehnige Hufröhre",
+    "Amount": 4596,
+    "Coins": 495504271
+  },
+  {
+    "Level": 145,
+    "Material": "Leinenstoff",
+    "Amount": 17328,
+    "Coins": 499830633
+  },
+  {
+    "Level": 146,
+    "Material": "Muschelfragment",
+    "Amount": 10510,
+    "Coins": 504164512
+  },
+  {
+    "Level": 147,
+    "Material": "Schleimball",
+    "Amount": 17600,
+    "Coins": 508505870
+  },
+  {
+    "Level": 148,
+    "Material": "Explosionskristall",
+    "Amount": 1246,
+    "Coins": 512854668
+  },
+  {
+    "Level": 149,
+    "Material": "Geisterschattenperle",
+    "Amount": 1252,
+    "Coins": 517210869
+  },
+  {
+    "Level": 150,
+    "Material": "Creeperstaub",
+    "Amount": 18011,
+    "Coins": 521574434
+  },
+  {
+    "Level": 151,
+    "Material": "Rostiger Hufnagel",
+    "Amount": 18148,
+    "Coins": 525945327
+  },
+  {
+    "Level": 152,
+    "Material": "Knochenhuf",
+    "Amount": 18286,
+    "Coins": 530323511
+  },
+  {
+    "Level": 153,
+    "Material": "Sattledecke",
+    "Amount": 4838,
+    "Coins": 534708949
+  },
+  {
+    "Level": 154,
+    "Material": "Juwel des Osiris",
+    "Amount": 1282,
+    "Coins": 539101606
+  },
+  {
+    "Level": 155,
+    "Material": "Kriegsfahne",
+    "Amount": 4893,
+    "Coins": 543501447
+  },
+  {
+    "Level": 156,
+    "Material": "Giftzahn",
+    "Amount": 1294,
+    "Coins": 547908436
+  },
+  {
+    "Level": 157,
+    "Material": "Kleine Schleimperle",
+    "Amount": 4948,
+    "Coins": 552322540
+  },
+  {
+    "Level": 158,
+    "Material": "Glühender Schleimtropfen",
+    "Amount": 4975,
+    "Coins": 556743722
+  },
+  {
+    "Level": 159,
+    "Material": "Arkane Hühnerzügel",
+    "Amount": 632,
+    "Coins": 561171951
+  },
+  {
+    "Level": 160,
+    "Material": "Kampfplakette",
+    "Amount": 5031,
+    "Coins": 565607191
+  },
+  {
+    "Level": 161,
+    "Material": "Großes Zahnrad",
+    "Amount": 11675,
+    "Coins": 570049411
+  },
+  {
+    "Level": 162,
+    "Material": "Dunkle Runenrolle",
+    "Amount": 5086,
+    "Coins": 574498578
+  },
+  {
+    "Level": 163,
+    "Material": "Schleimiges Herz",
+    "Amount": 642,
+    "Coins": 578954658
+  },
+  {
+    "Level": 164,
+    "Material": "Silberfischhaut",
+    "Amount": 5142,
+    "Coins": 583417620
+  },
+  {
+    "Level": 165,
+    "Material": "Knochensplitter",
+    "Amount": 20106,
+    "Coins": 587887433
+  },
+  {
+    "Level": 166,
+    "Material": "Armbrustbolzen",
+    "Amount": 20249,
+    "Coins": 592364065
+  },
+  {
+    "Level": 167,
+    "Material": "Knochenkette",
+    "Amount": 1361,
+    "Coins": 596847484
+  },
+  {
+    "Level": 168,
+    "Material": "Zerfetzte Hornspitze",
+    "Amount": 12233,
+    "Coins": 601337661
+  },
+  {
+    "Level": 169,
+    "Material": "Blitzessenz",
+    "Amount": 657,
+    "Coins": 605834565
+  },
+  {
+    "Level": 170,
+    "Material": "Besenstiel",
+    "Amount": 20820,
+    "Coins": 610338166
+  },
+  {
+    "Level": 171,
+    "Material": "Zauberkristall",
+    "Amount": 1385,
+    "Coins": 614848433
+  },
+  {
+    "Level": 172,
+    "Material": "Wächterauge",
+    "Amount": 664,
+    "Coins": 619365339
+  },
+  {
+    "Level": 173,
+    "Material": "Spinnenbein",
+    "Amount": 12636,
+    "Coins": 623888853
+  },
+  {
+    "Level": 174,
+    "Material": "Leuchtender Knochensplitter",
+    "Amount": 5424,
+    "Coins": 628418946
+  },
+  {
+    "Level": 175,
+    "Material": "Grünes Spinnenauge",
+    "Amount": 12798,
+    "Coins": 632955591
+  },
+  {
+    "Level": 176,
+    "Material": "Eiserne Hufkappe",
+    "Amount": 1417,
+    "Coins": 637498758
+  },
+  {
+    "Level": 177,
+    "Material": "Eisenplatte",
+    "Amount": 5510,
+    "Coins": 642048421
+  },
+  {
+    "Level": 178,
+    "Material": "Goldnugget",
+    "Amount": 679,
+    "Coins": 646604551
+  },
+  {
+    "Level": 179,
+    "Material": "Silberfischgräte",
+    "Amount": 1435,
+    "Coins": 651167120
+  },
+  {
+    "Level": 180,
+    "Material": "Magmafragment",
+    "Amount": 22270,
+    "Coins": 655736102
+  },
+  {
+    "Level": 181,
+    "Material": "Schneebrocken",
+    "Amount": 22416,
+    "Coins": 660311470
+  },
+  {
+    "Level": 182,
+    "Material": "Frostschattenkristall",
+    "Amount": 1454,
+    "Coins": 664893197
+  },
+  {
+    "Level": 183,
+    "Material": "Glibbrige Haut",
+    "Amount": 13454,
+    "Coins": 669481257
+  },
+  {
+    "Level": 184,
+    "Material": "Klebriger Schleimball",
+    "Amount": 22858,
+    "Coins": 674075623
+  },
+  {
+    "Level": 185,
+    "Material": "Piglinhauer",
+    "Amount": 5741,
+    "Coins": 678676271
+  },
+  {
+    "Level": 186,
+    "Material": "Sprengpulver",
+    "Amount": 13703,
+    "Coins": 683283173
+  },
+  {
+    "Level": 187,
+    "Material": "Kräftiger Spinnenfaden",
+    "Amount": 23301,
+    "Coins": 687896305
+  },
+  {
+    "Level": 188,
+    "Material": "Ravagerhuf",
+    "Amount": 5828,
+    "Coins": 692515642
+  },
+  {
+    "Level": 189,
+    "Material": "Striderhaut",
+    "Amount": 23599,
+    "Coins": 697141158
+  },
+  {
+    "Level": 190,
+    "Material": "Snifferschuppe",
+    "Amount": 1505,
+    "Coins": 701772830
+  },
+  {
+    "Level": 191,
+    "Material": "Moosiger Pelz",
+    "Amount": 23897,
+    "Coins": 706410632
+  },
+  {
+    "Level": 192,
+    "Material": "Verwesende Rippe",
+    "Amount": 5946,
+    "Coins": 711054541
+  },
+  {
+    "Level": 193,
+    "Material": "Brüchige Schuppe",
+    "Amount": 24197,
+    "Coins": 715704532
+  },
+  {
+    "Level": 194,
+    "Material": "Pilzige Kuhhaut",
+    "Amount": 24347,
+    "Coins": 720360581
+  },
+  {
+    "Level": 195,
+    "Material": "Schleimkristall",
+    "Amount": 722,
+    "Coins": 725022666
+  },
+  {
+    "Level": 196,
+    "Material": "Wächterstachel",
+    "Amount": 6064,
+    "Coins": 729690763
+  },
+  {
+    "Level": 197,
+    "Material": "Wächterflosse",
+    "Amount": 14627,
+    "Coins": 734364848
+  },
+  {
+    "Level": 198,
+    "Material": "Schleimiger Edelstein",
+    "Amount": 1557,
+    "Coins": 739044899
+  },
+  {
+    "Level": 199,
+    "Material": "Versengte Schleimhaut",
+    "Amount": 14797,
+    "Coins": 743730892
+  },
+  {
+    "Level": 200,
+    "Material": "Goldene Gürtelschnalle",
+    "Amount": 735,
+    "Coins": 748422806
+  },
+  {
+    "Level": 201,
+    "Material": "Lohenrute",
+    "Amount": 14967,
+    "Coins": 753120619
+  },
+  {
+    "Level": 202,
+    "Material": "Spinnenherz",
+    "Amount": 6244,
+    "Coins": 757824307
+  },
+  {
+    "Level": 203,
+    "Material": "Fetziger Ravagerpelz",
+    "Amount": 25710,
+    "Coins": 762533849
+  },
+  {
+    "Level": 204,
+    "Material": "Glutkiemen",
+    "Amount": 1597,
+    "Coins": 767249223
+  },
+  {
+    "Level": 205,
+    "Material": "Zoglinhauer",
+    "Amount": 748,
+    "Coins": 771970409
+  },
+  {
+    "Level": 206,
+    "Material": "Lohenauge",
+    "Amount": 1610,
+    "Coins": 776697383
+  },
+  {
+    "Level": 207,
+    "Material": "Rostiger Hufnagel",
+    "Amount": 26323,
+    "Coins": 781430126
+  },
+  {
+    "Level": 208,
+    "Material": "Kräftiges Ravagerhorn",
+    "Amount": 756,
+    "Coins": 786168616
+  },
+  {
+    "Level": 209,
+    "Material": "Verrottete Haut",
+    "Amount": 26631,
+    "Coins": 790912832
+  },
+  {
+    "Level": 210,
+    "Material": "Snifferborste",
+    "Amount": 15742,
+    "Coins": 795662753
+  },
+  {
+    "Level": 211,
+    "Material": "Karottenstück",
+    "Amount": 1643,
+    "Coins": 800418360
+  },
+  {
+    "Level": 212,
+    "Material": "Mächtiger Hauer",
+    "Amount": 6547,
+    "Coins": 805179632
+  },
+  {
+    "Level": 213,
+    "Material": "Magmaharz",
+    "Amount": 6577,
+    "Coins": 809946548
+  },
+  {
+    "Level": 214,
+    "Material": "Meereskristall",
+    "Amount": 1663,
+    "Coins": 814719089
+  },
+  {
+    "Level": 215,
+    "Material": "Großer Zahn",
+    "Amount": 16177,
+    "Coins": 819497235
+  },
+  {
+    "Level": 216,
+    "Material": "Magmakugel",
+    "Amount": 16265,
+    "Coins": 824280966
+  },
+  {
+    "Level": 217,
+    "Material": "Leuchtende Schuppe",
+    "Amount": 27873,
+    "Coins": 829070263
+  },
+  {
+    "Level": 218,
+    "Material": "Pilzknochenfragmente",
+    "Amount": 6731,
+    "Coins": 833865106
+  },
+  {
+    "Level": 219,
+    "Material": "Eisenherz",
+    "Amount": 785,
+    "Coins": 838665477
+  },
+  {
+    "Level": 220,
+    "Material": "Zerfetzte Hornspitze",
+    "Amount": 16616,
+    "Coins": 843471356
+  },
+  {
+    "Level": 221,
+    "Material": "Snifferhuf",
+    "Amount": 6824,
+    "Coins": 848282724
+  },
+  {
+    "Level": 222,
+    "Material": "Piglinhuf",
+    "Amount": 16793,
+    "Coins": 853099562
+  },
+  {
+    "Level": 223,
+    "Material": "Zoglinhaut",
+    "Amount": 28816,
+    "Coins": 857921853
+  },
+  {
+    "Level": 224,
+    "Material": "Leuchtender Tentakel",
+    "Amount": 16970,
+    "Coins": 862749577
+  },
+  {
+    "Level": 225,
+    "Material": "Strahlendes Pilzhorn",
+    "Amount": 801,
+    "Coins": 867582716
+  },
+  {
+    "Level": 226,
+    "Material": "Antikerkern",
+    "Amount": 804,
+    "Coins": 872421253
+  },
+  {
+    "Level": 227,
+    "Material": "Erloschene Rute",
+    "Amount": 29449,
+    "Coins": 877265169
+  },
+  {
+    "Level": 228,
+    "Material": "Geladener Creeperkopf",
+    "Amount": 1758,
+    "Coins": 882114446
+  },
+  {
+    "Level": 229,
+    "Material": "Gerupfte Feder",
+    "Amount": 17416,
+    "Coins": 886969066
+  },
+  {
+    "Level": 230,
+    "Material": "Zoglinklaue",
+    "Amount": 17505,
+    "Coins": 891829013
+  },
+  {
+    "Level": 231,
+    "Material": "Glänzender Schnabel",
+    "Amount": 817,
+    "Coins": 896694268
+  },
+  {
+    "Level": 232,
+    "Material": "Knochenkette",
+    "Amount": 1786,
+    "Coins": 901564815
+  },
+  {
+    "Level": 233,
+    "Material": "Magmaessenz",
+    "Amount": 823,
+    "Coins": 906440635
+  },
+  {
+    "Level": 234,
+    "Material": "Eiszapfen",
+    "Amount": 7231,
+    "Coins": 911321712
+  },
+  {
+    "Level": 235,
+    "Material": "Leuchtende Haut",
+    "Amount": 1806,
+    "Coins": 916208030
+  },
+  {
+    "Level": 236,
+    "Material": "Vex Klinge",
+    "Amount": 7294,
+    "Coins": 921099570
+  },
+  {
+    "Level": 237,
+    "Material": "Knochenlanze",
+    "Amount": 18135,
+    "Coins": 925996317
+  },
+  {
+    "Level": 238,
+    "Material": "Striderhuf",
+    "Amount": 18226,
+    "Coins": 930898255
+  },
+  {
+    "Level": 239,
+    "Material": "Ghasttentakel",
+    "Amount": 7389,
+    "Coins": 935805365
+  },
+  {
+    "Level": 240,
+    "Material": "Magmafragment",
+    "Amount": 31533,
+    "Coins": 940717633
+  },
+  {
+    "Level": 241,
+    "Material": "Piglinhauer",
+    "Amount": 7453,
+    "Coins": 945635042
+  },
+  {
+    "Level": 242,
+    "Material": "Magmaherz",
+    "Amount": 848,
+    "Coins": 950557576
+  },
+  {
+    "Level": 243,
+    "Material": "Endermiteauge",
+    "Amount": 7517,
+    "Coins": 955485219
+  },
+  {
+    "Level": 244,
+    "Material": "Sattledecke",
+    "Amount": 7549,
+    "Coins": 960417955
+  },
+  {
+    "Level": 245,
+    "Material": "Gluthaar",
+    "Amount": 856,
+    "Coins": 965355769
+  },
+  {
+    "Level": 246,
+    "Material": "Ghastträne",
+    "Amount": 18955,
+    "Coins": 970298645
+  },
+  {
+    "Level": 247,
+    "Material": "Kristall der Dunkelheit",
+    "Amount": 862,
+    "Coins": 975246566
+  },
+  {
+    "Level": 248,
+    "Material": "Leuchtender Knochensplitter",
+    "Amount": 7678,
+    "Coins": 980199519
+  },
+  {
+    "Level": 249,
+    "Material": "Fauler Knochen",
+    "Amount": 1904,
+    "Coins": 985157488
+  },
+  {
+    "Level": 250,
+    "Material": "Mächtiges Zündpulver",
+    "Amount": 7742,
+    "Coins": 990120457
+  },
+  {
+    "Level": 251,
+    "Material": "Schleimblock",
+    "Amount": 1919,
+    "Coins": 995088411
+  },
+  {
+    "Level": 252,
+    "Material": "Eisenklumpen",
+    "Amount": 33493,
+    "Coins": 1000061336
+  },
+  {
+    "Level": 253,
+    "Material": "Goldener Armreif",
+    "Amount": 1933,
+    "Coins": 1005039216
+  },
+  {
+    "Level": 254,
+    "Material": "Phantomkralle",
+    "Amount": 1940,
+    "Coins": 1010022037
+  },
+  {
+    "Level": 255,
+    "Material": "Schalenstück",
+    "Amount": 33988,
+    "Coins": 1015009785
+  },
+  {
+    "Level": 256,
+    "Material": "Snifferschuppe",
+    "Amount": 1954,
+    "Coins": 1020002444
+  },
+  {
+    "Level": 257,
+    "Material": "Lohenrute",
+    "Amount": 19971,
+    "Coins": 1025000000
+  },
+  {
+    "Level": 258,
+    "Material": "Endermiteseele",
+    "Amount": 1969,
+    "Coins": 1030002439
+  },
+  {
+    "Level": 259,
+    "Material": "Luftkristall",
+    "Amount": 896,
+    "Coins": 1035009747
+  },
+  {
+    "Level": 260,
+    "Material": "Goldnugget",
+    "Amount": 898,
+    "Coins": 1040021909
+  },
+  {
+    "Level": 261,
+    "Material": "Magmasekret",
+    "Amount": 1990,
+    "Coins": 1045038911
+  },
+  {
+    "Level": 262,
+    "Material": "Vex Seele",
+    "Amount": 904,
+    "Coins": 1050060740
+  },
+  {
+    "Level": 263,
+    "Material": "Enderman Seele",
+    "Amount": 907,
+    "Coins": 1055087381
+  },
+  {
+    "Level": 264,
+    "Material": "Striderhaut",
+    "Amount": 35486,
+    "Coins": 1060118821
+  },
+  {
+    "Level": 265,
+    "Material": "Ghastkern",
+    "Amount": 913,
+    "Coins": 1065155046
+  },
+  {
+    "Level": 266,
+    "Material": "Glibberblitz",
+    "Amount": 916,
+    "Coins": 1070196042
+  },
+  {
+    "Level": 267,
+    "Material": "Magmakristall",
+    "Amount": 918,
+    "Coins": 1075241796
+  },
+  {
+    "Level": 268,
+    "Material": "Bröckliger Huf",
+    "Amount": 21003,
+    "Coins": 1080292295
+  },
+  {
+    "Level": 269,
+    "Material": "Geladene Haut",
+    "Amount": 36325,
+    "Coins": 1085347525
+  },
+  {
+    "Level": 270,
+    "Material": "Hoglinhuf",
+    "Amount": 2055,
+    "Coins": 1090407473
+  },
+  {
+    "Level": 271,
+    "Material": "Zerfetzter Sattelgurt",
+    "Amount": 36663,
+    "Coins": 1095472125
+  },
+  {
+    "Level": 272,
+    "Material": "Großer Zahn",
+    "Amount": 21381,
+    "Coins": 1100541470
+  },
+  {
+    "Level": 273,
+    "Material": "Phantomflügel",
+    "Amount": 8498,
+    "Coins": 1105615493
+  },
+  {
+    "Level": 274,
+    "Material": "Enderman Haut",
+    "Amount": 37171,
+    "Coins": 1110694181
+  },
+  {
+    "Level": 275,
+    "Material": "Riesiger Schleimball",
+    "Amount": 21667,
+    "Coins": 1115777523
+  },
+  {
+    "Level": 276,
+    "Material": "Flammenkristall",
+    "Amount": 944,
+    "Coins": 1120865505
+  },
+  {
+    "Level": 277,
+    "Material": "Hoglinzahn",
+    "Amount": 8632,
+    "Coins": 1125958114
+  },
+  {
+    "Level": 278,
+    "Material": "Sattelschnalle",
+    "Amount": 21953,
+    "Coins": 1131055339
+  },
+  {
+    "Level": 279,
+    "Material": "Zoglinknochen",
+    "Amount": 8699,
+    "Coins": 1136157165
+  },
+  {
+    "Level": 280,
+    "Material": "Leuchtende Schuppe",
+    "Amount": 38192,
+    "Coins": 1141263582
+  },
+  {
+    "Level": 281,
+    "Material": "Hoglinhaut",
+    "Amount": 38363,
+    "Coins": 1146374577
+  },
+  {
+    "Level": 282,
+    "Material": "Kristall der Dunkelheit",
+    "Amount": 962,
+    "Coins": 1151490137
+  },
+  {
+    "Level": 283,
+    "Material": "Erloschene Rute",
+    "Amount": 38706,
+    "Coins": 1156610250
+  },
+  {
+    "Level": 284,
+    "Material": "Shulkerauge",
+    "Amount": 8868,
+    "Coins": 1161734905
+  },
+  {
+    "Level": 285,
+    "Material": "Enderman Arm",
+    "Amount": 22626,
+    "Coins": 1166864088
+  },
+  {
+    "Level": 286,
+    "Material": "Schleimiges Herz",
+    "Amount": 974,
+    "Coins": 1171997789
+  },
+  {
+    "Level": 287,
+    "Material": "Zoglinhauer",
+    "Amount": 977,
+    "Coins": 1177135995
+  },
+  {
+    "Level": 288,
+    "Material": "Schleimige Haut",
+    "Amount": 39566,
+    "Coins": 1182278694
+  },
+  {
+    "Level": 289,
+    "Material": "Elder Stachel",
+    "Amount": 23013,
+    "Coins": 1187425875
+  },
+  {
+    "Level": 290,
+    "Material": "Elder Schuppe",
+    "Amount": 39911,
+    "Coins": 1192577526
+  },
+  {
+    "Level": 291,
+    "Material": "Geladenes Auge",
+    "Amount": 23207,
+    "Coins": 1197733635
+  },
+  {
+    "Level": 292,
+    "Material": "Aegis des Reiters",
+    "Amount": 991,
+    "Coins": 1202894191
+  },
+  {
+    "Level": 293,
+    "Material": "Zoglinhaut",
+    "Amount": 40431,
+    "Coins": 1208059183
+  },
+  {
+    "Level": 294,
+    "Material": "Glänzender Schnabel",
+    "Amount": 997,
+    "Coins": 1213228598
+  },
+  {
+    "Level": 295,
+    "Material": "Ghasttentakel",
+    "Amount": 9243,
+    "Coins": 1218402426
+  },
+  {
+    "Level": 296,
+    "Material": "Dunkles Knochenfragment",
+    "Amount": 40953,
+    "Coins": 1223580656
+  },
+  {
+    "Level": 297,
+    "Material": "Riesige Magmareste",
+    "Amount": 41127,
+    "Coins": 1228763276
+  },
+  {
+    "Level": 298,
+    "Material": "Magmaharz",
+    "Amount": 9346,
+    "Coins": 1233950275
+  },
+  {
+    "Level": 299,
+    "Material": "Magmakern",
+    "Amount": 2270,
+    "Coins": 1239141641
+  },
+  {
+    "Level": 300,
+    "Material": "Riesige Schleimperle",
+    "Amount": 9415,
+    "Coins": 1244337365
+  },
+  {
+    "Level": 301,
+    "Material": "Witheressenz",
+    "Amount": 2285,
+    "Coins": 1249537435
+  },
+  {
+    "Level": 302,
+    "Material": "Leuchtende Haut",
+    "Amount": 2293,
+    "Coins": 1254741840
+  },
+  {
+    "Level": 303,
+    "Material": "Glibberkristall",
+    "Amount": 2300,
+    "Coins": 1259950570
+  },
+  {
+    "Level": 304,
+    "Material": "Phantomhaut",
+    "Amount": 42354,
+    "Coins": 1265163613
+  },
+  {
+    "Level": 305,
+    "Material": "Shulkerkopf",
+    "Amount": 2315,
+    "Coins": 1270380959
+  },
+  {
+    "Level": 306,
+    "Material": "Elder Floße",
+    "Amount": 9622,
+    "Coins": 1275602597
+  },
+  {
+    "Level": 307,
+    "Material": "Vex Klinge",
+    "Amount": 9657,
+    "Coins": 1280828518
+  },
+  {
+    "Level": 308,
+    "Material": "Verblichene Zügel",
+    "Amount": 9692,
+    "Coins": 1286058709
+  },
+  {
+    "Level": 309,
+    "Material": "Kristall des Todes",
+    "Amount": 1042,
+    "Coins": 1291293162
+  },
+  {
+    "Level": 310,
+    "Material": "Mächtiges Zündpulver",
+    "Amount": 9762,
+    "Coins": 1296531865
+  },
+  {
+    "Level": 311,
+    "Material": "Riesige Magmaessenz",
+    "Amount": 1048,
+    "Coins": 1301774808
+  },
+  {
+    "Level": 312,
+    "Material": "Ghastträne",
+    "Amount": 25274,
+    "Coins": 1307021981
+  },
+  {
+    "Level": 313,
+    "Material": "Schleimschuppe",
+    "Amount": 25374,
+    "Coins": 1312273373
+  },
+  {
+    "Level": 314,
+    "Material": "Riesige Schleimhaut",
+    "Amount": 44122,
+    "Coins": 1317528975
+  },
+  {
+    "Level": 315,
+    "Material": "Schleimblock",
+    "Amount": 2392,
+    "Coins": 1322788777
+  },
+  {
+    "Level": 316,
+    "Material": "Riesenknochen",
+    "Amount": 25674,
+    "Coins": 1328052768
+  },
+  {
+    "Level": 317,
+    "Material": "Lohenrute",
+    "Amount": 25774,
+    "Coins": 1333320939
+  },
+  {
+    "Level": 318,
+    "Material": "Endermiteschuppe",
+    "Amount": 25874,
+    "Coins": 1338593279
+  },
+  {
+    "Level": 319,
+    "Material": "Ghastgewebe",
+    "Amount": 45014,
+    "Coins": 1343869778
+  },
+  {
+    "Level": 320,
+    "Material": "Vex Seele",
+    "Amount": 1076,
+    "Coins": 1349150428
+  },
+  {
+    "Level": 321,
+    "Material": "Witherskelettschädel",
+    "Amount": 2438,
+    "Coins": 1354435217
+  },
+  {
+    "Level": 322,
+    "Material": "Wardenrippe",
+    "Amount": 2446,
+    "Coins": 1359724137
+  },
+  {
+    "Level": 323,
+    "Material": "Riesiges Magmasekret",
+    "Amount": 2453,
+    "Coins": 1365017178
+  },
+  {
+    "Level": 324,
+    "Material": "Glitzernde Tinte",
+    "Amount": 10254,
+    "Coins": 1370314329
+  },
+  {
+    "Level": 325,
+    "Material": "Hoglinhuf",
+    "Amount": 2469,
+    "Coins": 1375615583
+  },
+  {
+    "Level": 326,
+    "Material": "Riesenhaut",
+    "Amount": 46271,
+    "Coins": 1380920928
+  },
+  {
+    "Level": 327,
+    "Material": "Flammenkristall",
+    "Amount": 1097,
+    "Coins": 1386230356
+  },
+  {
+    "Level": 328,
+    "Material": "Kristall der Dunkelheit",
+    "Amount": 1100,
+    "Coins": 1391543857
+  },
+  {
+    "Level": 329,
+    "Material": "Magmaschleimperle",
+    "Amount": 10431,
+    "Coins": 1396861422
+  },
+  {
+    "Level": 330,
+    "Material": "Magmaschleimhaut",
+    "Amount": 27086,
+    "Coins": 1402183042
+  },
+  {
+    "Level": 331,
+    "Material": "Witherkopf",
+    "Amount": 10503,
+    "Coins": 1407508706
+  },
+  {
+    "Level": 332,
+    "Material": "Donnerkristall",
+    "Amount": 1113,
+    "Coins": 1412838407
+  },
+  {
+    "Level": 333,
+    "Material": "Shulkerschale",
+    "Amount": 27391,
+    "Coins": 1418172136
+  },
+  {
+    "Level": 334,
+    "Material": "Herz des Titanen",
+    "Amount": 1119,
+    "Coins": 1423509881
+  },
+  {
+    "Level": 335,
+    "Material": "Magmaherz",
+    "Amount": 1122,
+    "Coins": 1428851636
+  },
+  {
+    "Level": 336,
+    "Material": "Glibberblitz",
+    "Amount": 1125,
+    "Coins": 1434197391
+  },
+  {
+    "Level": 337,
+    "Material": "Zerfetzter Sattelgurt",
+    "Amount": 48265,
+    "Coins": 1439547136
+  },
+  {
+    "Level": 338,
+    "Material": "Riesenkopf",
+    "Amount": 2571,
+    "Coins": 1444900863
+  },
+  {
+    "Level": 339,
+    "Material": "Ghastauge",
+    "Amount": 2578,
+    "Coins": 1450258564
+  },
+  {
+    "Level": 340,
+    "Material": "Hoglinhaut",
+    "Amount": 48813,
+    "Coins": 1455620229
+  },
+  {
+    "Level": 341,
+    "Material": "Arkanes Sattelleder",
+    "Amount": 2594,
+    "Coins": 1460985849
+  },
+  {
+    "Level": 342,
+    "Material": "Glühende Asche",
+    "Amount": 10898,
+    "Coins": 1466355416
+  },
+  {
+    "Level": 343,
+    "Material": "Vex Haut",
+    "Amount": 49363,
+    "Coins": 1471728921
+  },
+  {
+    "Level": 344,
+    "Material": "Enderman Arm",
+    "Amount": 28518,
+    "Coins": 1477106355
+  },
+  {
+    "Level": 345,
+    "Material": "Elder Herz",
+    "Amount": 1153,
+    "Coins": 1482487711
+  },
+  {
+    "Level": 346,
+    "Material": "Leuchtender Tentakel",
+    "Amount": 28725,
+    "Coins": 1487872978
+  },
+  {
+    "Level": 347,
+    "Material": "Hoglinhauer",
+    "Amount": 1160,
+    "Coins": 1493262150
+  },
+  {
+    "Level": 348,
+    "Material": "Riesenklaue",
+    "Amount": 11115,
+    "Coins": 1498655216
+  },
+  {
+    "Level": 349,
+    "Material": "Magmaharz",
+    "Amount": 11151,
+    "Coins": 1504052170
+  },
+  {
+    "Level": 350,
+    "Material": "Schleimige Haut",
+    "Amount": 50651,
+    "Coins": 1509453002
+  },
+  {
+    "Level": 351,
+    "Material": "Sattelschnalle",
+    "Amount": 29243,
+    "Coins": 1514857704
+  },
+  {
+    "Level": 352,
+    "Material": "Erloschene Rute",
+    "Amount": 51021,
+    "Coins": 1520266269
+  },
+  {
+    "Level": 353,
+    "Material": "Endermiteauge",
+    "Amount": 11297,
+    "Coins": 1525678687
+  },
+  {
+    "Level": 354,
+    "Material": "Dunkler Knochen",
+    "Amount": 29555,
+    "Coins": 1531094950
+  },
+  {
+    "Level": 355,
+    "Material": "Wardenpanzer",
+    "Amount": 51577,
+    "Coins": 1536515050
+  },
+  {
+    "Level": 356,
+    "Material": "Phantomschuppe",
+    "Amount": 29763,
+    "Coins": 1541938980
+  },
+  {
+    "Level": 357,
+    "Material": "Enderman Seele",
+    "Amount": 1191,
+    "Coins": 1547366731
+  },
+  {
+    "Level": 358,
+    "Material": "Riesiger Magmatropfen",
+    "Amount": 29972,
+    "Coins": 1552798294
+  },
+  {
+    "Level": 359,
+    "Material": "Geladene Haut",
+    "Amount": 52322,
+    "Coins": 1558233663
+  },
+  {
+    "Level": 360,
+    "Material": "Luftkristall",
+    "Amount": 1201,
+    "Coins": 1563672828
+  },
+  {
+    "Level": 361,
+    "Material": "Elder Stachel",
+    "Amount": 30286,
+    "Coins": 1569115783
+  },
+  {
+    "Level": 362,
+    "Material": "Ghastkern",
+    "Amount": 1207,
+    "Coins": 1574562519
+  },
+  {
+    "Level": 363,
+    "Material": "Hoglinborste",
+    "Amount": 30496,
+    "Coins": 1580013028
+  },
+  {
+    "Level": 364,
+    "Material": "Riesige Schleimperle",
+    "Amount": 11701,
+    "Coins": 1585467302
+  },
+  {
+    "Level": 365,
+    "Material": "Magmatröpfchen",
+    "Amount": 53443,
+    "Coins": 1590925334
+  },
+  {
+    "Level": 366,
+    "Material": "Vex Klinge",
+    "Amount": 11775,
+    "Coins": 1596387116
+  },
+  {
+    "Level": 367,
+    "Material": "Verblichene Zügel",
+    "Amount": 11812,
+    "Coins": 1601852641
+  },
+  {
+    "Level": 368,
+    "Material": "Wardenklaue",
+    "Amount": 31022,
+    "Coins": 1607321900
+  },
+  {
+    "Level": 369,
+    "Material": "Phantomkralle",
+    "Amount": 2818,
+    "Coins": 1612794885
+  },
+  {
+    "Level": 370,
+    "Material": "Magmaschleimreste",
+    "Amount": 54383,
+    "Coins": 1618271591
+  },
+  {
+    "Level": 371,
+    "Material": "Riesige Magmaessenz",
+    "Amount": 1236,
+    "Coins": 1623752008
+  },
+  {
+    "Level": 372,
+    "Material": "Geladenes Auge",
+    "Amount": 31445,
+    "Coins": 1629236129
+  },
+  {
+    "Level": 373,
+    "Material": "Shulkerkopf",
+    "Amount": 2851,
+    "Coins": 1634723947
+  },
+  {
+    "Level": 374,
+    "Material": "Elder Auge",
+    "Amount": 2859,
+    "Coins": 1640215454
+  },
+  {
+    "Level": 375,
+    "Material": "Ghasttentakel",
+    "Amount": 12109,
+    "Coins": 1645710643
+  },
+  {
+    "Level": 376,
+    "Material": "Schleimblock",
+    "Amount": 2875,
+    "Coins": 1651209506
+  },
+  {
+    "Level": 377,
+    "Material": "Schleimiges Herz",
+    "Amount": 1256,
+    "Coins": 1656712037
+  },
+  {
+    "Level": 378,
+    "Material": "Flammenkristall",
+    "Amount": 1259,
+    "Coins": 1662218228
+  },
+  {
+    "Level": 379,
+    "Material": "Vex Flügel",
+    "Amount": 32189,
+    "Coins": 1667728071
+  },
+  {
+    "Level": 380,
+    "Material": "Kristall der Dunkelheit",
+    "Amount": 1265,
+    "Coins": 1673241559
+  },
+  {
+    "Level": 381,
+    "Material": "Wardenrippe",
+    "Amount": 2916,
+    "Coins": 1678758686
+  },
+  {
+    "Level": 382,
+    "Material": "Endermitehaut",
+    "Amount": 56656,
+    "Coins": 1684279443
+  },
+  {
+    "Level": 383,
+    "Material": "Magmakern",
+    "Amount": 2933,
+    "Coins": 1689803824
+  },
+  {
+    "Level": 384,
+    "Material": "Verdorrte Witherhaut",
+    "Amount": 32724,
+    "Coins": 1695331821
+  },
+  {
+    "Level": 385,
+    "Material": "Geladener Creeperkopf",
+    "Amount": 2949,
+    "Coins": 1700863429
+  },
+  {
+    "Level": 386,
+    "Material": "Enderman Haut",
+    "Amount": 57420,
+    "Coins": 1706398638
+  },
+  {
+    "Level": 387,
+    "Material": "Elder Floße",
+    "Amount": 12559,
+    "Coins": 1711937443
+  },
+  {
+    "Level": 388,
+    "Material": "Leuchtende Schuppe",
+    "Amount": 57803,
+    "Coins": 1717479837
+  },
+  {
+    "Level": 389,
+    "Material": "Hoglinhuf",
+    "Amount": 2982,
+    "Coins": 1723025812
+  },
+  {
+    "Level": 390,
+    "Material": "Riesenhaut",
+    "Amount": 58186,
+    "Coins": 1728575362
+  },
+  {
+    "Level": 391,
+    "Material": "Magmasekret",
+    "Amount": 2999,
+    "Coins": 1734128479
+  },
+  {
+    "Level": 392,
+    "Material": "Schleimschuppe",
+    "Amount": 33584,
+    "Coins": 1739685158
+  },
+  {
+    "Level": 393,
+    "Material": "Arkanes Sattelleder",
+    "Amount": 3015,
+    "Coins": 1745245390
+  },
+  {
+    "Level": 394,
+    "Material": "Wardenherz",
+    "Amount": 1311,
+    "Coins": 1750809169
+  },
+  {
+    "Level": 395,
+    "Material": "Endermiteschuppe",
+    "Amount": 33908,
+    "Coins": 1756376489
+  },
+  {
+    "Level": 396,
+    "Material": "Magmakristall",
+    "Amount": 1318,
+    "Coins": 1761947343
+  },
+  {
+    "Level": 397,
+    "Material": "Witherstaubpartikel",
+    "Amount": 59534,
+    "Coins": 1767521723
+  },
+  {
+    "Level": 398,
+    "Material": "Mächtiges Zündpulver",
+    "Amount": 12976,
+    "Coins": 1773099624
+  },
+  {
+    "Level": 399,
+    "Material": "Enderman Arm",
+    "Amount": 34342,
+    "Coins": 1778681039
+  },
+  {
+    "Level": 400,
+    "Material": "Elder Schuppe",
+    "Amount": 60114,
+    "Coins": 1784265960
+  },
+  {
+    "Level": 401,
+    "Material": "Ghastauge",
+    "Amount": 3082,
+    "Coins": 1789854382
+  },
+  {
+    "Level": 402,
+    "Material": "Hoglinzahn",
+    "Amount": 13128,
+    "Coins": 1795446298
+  },
+  {
+    "Level": 403,
+    "Material": "Glibberkristall",
+    "Amount": 3099,
+    "Coins": 1801041701
+  },
+  {
+    "Level": 404,
+    "Material": "Magmakugel",
+    "Amount": 34886,
+    "Coins": 1806640585
+  },
+  {
+    "Level": 405,
+    "Material": "Vex Seele",
+    "Amount": 1348,
+    "Coins": 1812242943
+  },
+  {
+    "Level": 406,
+    "Material": "Sattelschnalle",
+    "Amount": 35104,
+    "Coins": 1817848769
+  },
+  {
+    "Level": 407,
+    "Material": "Erloschene Rute",
+    "Amount": 61473,
+    "Coins": 1823458057
+  },
+  {
+    "Level": 408,
+    "Material": "Endermiteseele",
+    "Amount": 3141,
+    "Coins": 1829070799
+  },
+  {
+    "Level": 409,
+    "Material": "Dunkler Knochen",
+    "Amount": 35432,
+    "Coins": 1834686991
+  },
+  {
+    "Level": 410,
+    "Material": "Witheressenz",
+    "Amount": 3158,
+    "Coins": 1840306624
+  },
+  {
+    "Level": 411,
+    "Material": "Phantomhaut",
+    "Amount": 62253,
+    "Coins": 1845929694
+  },
+  {
+    "Level": 412,
+    "Material": "Enderman Auge",
+    "Amount": 3174,
+    "Coins": 1851556194
+  },
+  {
+    "Level": 413,
+    "Material": "Riesige Magmareste",
+    "Amount": 62645,
+    "Coins": 1857186117
+  },
+  {
+    "Level": 414,
+    "Material": "Glitzernde Tinte",
+    "Amount": 13589,
+    "Coins": 1862819457
+  },
+  {
+    "Level": 415,
+    "Material": "Schalenstück",
+    "Amount": 63037,
+    "Coins": 1868456208
+  },
+  {
+    "Level": 416,
+    "Material": "Riesenklaue",
+    "Amount": 13667,
+    "Coins": 1874096364
+  },
+  {
+    "Level": 417,
+    "Material": "Magmaherz",
+    "Amount": 1388,
+    "Coins": 1879739919
+  },
+  {
+    "Level": 418,
+    "Material": "Schleimperle",
+    "Amount": 13744,
+    "Coins": 1885386867
+  },
+  {
+    "Level": 419,
+    "Material": "Riesige Schleimhaut",
+    "Amount": 63822,
+    "Coins": 1891037200
+  },
+  {
+    "Level": 420,
+    "Material": "Glühende Asche",
+    "Amount": 13822,
+    "Coins": 1896690915
+  },
+  {
+    "Level": 421,
+    "Material": "Vex Haut",
+    "Amount": 64216,
+    "Coins": 1902348003
+  },
+  {
+    "Level": 422,
+    "Material": "Witherskelettschädel",
+    "Amount": 3259,
+    "Coins": 1908008460
+  },
+  {
+    "Level": 423,
+    "Material": "Wardenpanzer",
+    "Amount": 64611,
+    "Coins": 1913672280
+  },
+  {
+    "Level": 424,
+    "Material": "Phantomflügel",
+    "Amount": 13977,
+    "Coins": 1919339455
+  },
+  {
+    "Level": 425,
+    "Material": "Magmaschleimreste",
+    "Amount": 65006,
+    "Coins": 1925009981
+  },
+  {
+    "Level": 426,
+    "Material": "Riesiger Magmakern",
+    "Amount": 14055,
+    "Coins": 1930683852
+  },
+  {
+    "Level": 427,
+    "Material": "Glänzender Schnabel",
+    "Amount": 1421,
+    "Coins": 1936361061
+  },
+  {
+    "Level": 428,
+    "Material": "Shulkerauge",
+    "Amount": 14133,
+    "Coins": 1942041603
+  },
+  {
+    "Level": 429,
+    "Material": "Herz des Titanen",
+    "Amount": 1428,
+    "Coins": 1947725471
+  },
+  {
+    "Level": 430,
+    "Material": "Ghastträne",
+    "Amount": 37753,
+    "Coins": 1953412661
+  },
+  {
+    "Level": 431,
+    "Material": "Glibberblitz",
+    "Amount": 1435,
+    "Coins": 1959103165
+  },
+  {
+    "Level": 432,
+    "Material": "Riesige Schleimperle",
+    "Amount": 14290,
+    "Coins": 1964796979
+  },
+  {
+    "Level": 433,
+    "Material": "Flammenkristall",
+    "Amount": 1442,
+    "Coins": 1970494097
+  },
+  {
+    "Level": 434,
+    "Material": "Vex Klinge",
+    "Amount": 14368,
+    "Coins": 1976194513
+  },
+  {
+    "Level": 435,
+    "Material": "Zerfetzter Sattelgurt",
+    "Amount": 66992,
+    "Coins": 1981898221
+  },
+  {
+    "Level": 436,
+    "Material": "Wardenhorn",
+    "Amount": 14447,
+    "Coins": 1987605215
+  },
+  {
+    "Level": 437,
+    "Material": "Nachtkristall",
+    "Amount": 1455,
+    "Coins": 1993315490
+  },
+  {
+    "Level": 438,
+    "Material": "Magmaschleimperle",
+    "Amount": 14525,
+    "Coins": 1999029040
+  },
+  {
+    "Level": 439,
+    "Material": "Riesige Magmaessenz",
+    "Amount": 1462,
+    "Coins": 2004745860
+  },
+  {
+    "Level": 440,
+    "Material": "Geladenes Auge",
+    "Amount": 38872,
+    "Coins": 2010465944
+  },
+  {
+    "Level": 441,
+    "Material": "Luftkristall",
+    "Amount": 1469,
+    "Coins": 2016189286
+  },
+  {
+    "Level": 442,
+    "Material": "Elder Floße",
+    "Amount": 14683,
+    "Coins": 2021915881
+  },
+  {
+    "Level": 443,
+    "Material": "Ghastkern",
+    "Amount": 1476,
+    "Coins": 2027645724
+  },
+  {
+    "Level": 444,
+    "Material": "Hoglinborste",
+    "Amount": 39322,
+    "Coins": 2033378808
+  },
+  {
+    "Level": 445,
+    "Material": "Riesenhaut",
+    "Amount": 68993,
+    "Coins": 2039115128
+  },
+  {
+    "Level": 446,
+    "Material": "Magmaharz",
+    "Amount": 14841,
+    "Coins": 2044854680
+  },
+  {
+    "Level": 447,
+    "Material": "Schleimige Haut",
+    "Amount": 69395,
+    "Coins": 2050597456
+  },
+  {
+    "Level": 448,
+    "Material": "Arkanes Sattelleder",
+    "Amount": 3483,
+    "Coins": 2056343453
+  },
+  {
+    "Level": 449,
+    "Material": "Wardenherz",
+    "Amount": 1497,
+    "Coins": 2062092664
+  },
+  {
+    "Level": 450,
+    "Material": "Endermiteschuppe",
+    "Amount": 40000,
+    "Coins": 2067845084
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "floor": {
+    "mobKey": "config.ccextras.aincraft.stage%s",
+    "materials": [
+      {
+        "translationKey": "config.ccextras.aincraft.floor%s.material1",
+        "rarityKey": "config.ccextras.aincraft.rarity.common"
+      },
+      {
+        "translationKey": "config.ccextras.aincraft.floor%s.material2",
+        "rarityKey": "config.ccextras.aincraft.rarity.uncommon"
+      },
+      {
+        "translationKey": "config.ccextras.aincraft.floor%s.material3",
+        "rarityKey": "config.ccextras.aincraft.rarity.rare"
+      },
+      {
+        "translationKey": "config.ccextras.aincraft.floor%s.material4",
+        "rarityKey": "config.ccextras.aincraft.rarity.epic"
+      },
+      {
+        "translationKey": "config.ccextras.aincraft.floor%s.material5",
+        "rarityKey": "config.ccextras.aincraft.rarity.legendary"
+      }
+    ]
+  }
+}
