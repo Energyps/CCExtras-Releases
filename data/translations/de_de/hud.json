@@ -82,6 +82,7 @@
   "hud.ccextras.blueprintSearch.sample1": "Axt des Lehrlings",
   "hud.ccextras.blueprintSearch.sample2": "Ruhmreicher Kopfschutz",
   "hud.ccextras.blueprintSearch.location": "Ebene %s",
+  "hud.ccextras.blueprintSearch.locationChance": "Ebene %s · %s",
   "hud.ccextras.blueprintSearch.locationUnknown": "Fundort unbekannt",
   "hud.ccextras.blueprintSearch.found": "Gefunden",
   "hud.ccextras.blueprint.materials": "Materialien",

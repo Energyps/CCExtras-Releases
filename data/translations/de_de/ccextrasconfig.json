@@ -748,7 +748,7 @@
   "settings.ccextras.blueprintUncraftableHighlight": "Nicht herstellbare markieren",
   "settings.ccextras.blueprintUncraftableHighlight.desc": "Baupläne, für die Materialien fehlen, werden im Schmied rot markiert.",
   "settings.ccextras.blueprintStageInTooltip": "Ebene im Bauplan-Tooltip",
-  "settings.ccextras.blueprintStageInTooltip.desc": "Hängt in jedem Inventar die Aincraft-Ebene, auf der der Bauplan fällt, als [E 12] an den Namen.",
+  "settings.ccextras.blueprintStageInTooltip.desc": "Hängt in jedem Inventar die Aincraft-Ebene, auf der der Bauplan fällt, als [E 12] an den Namen, mit bekannter Dropchance aus dem Mob-Lexikon als [E 12 · 0,45 %].",
   "settings.ccextras.blueprintInfoInChat": "Bauplan-Infos im Chat",
   "settings.ccextras.blueprintInfoInChat.desc": "Beim Hover über einen Bauplan im Chat auch Ebene und Aspekt zeigen.",
   "settings.ccextras.fabrikLevel": "Fabriklevel-Tracker",

@@ -748,7 +748,7 @@
   "settings.ccextras.blueprintUncraftableHighlight": "Mark uncraftable",
   "settings.ccextras.blueprintUncraftableHighlight.desc": "Blueprints with missing materials get a red mark at the smith.",
   "settings.ccextras.blueprintStageInTooltip": "Floor in blueprint tooltip",
-  "settings.ccextras.blueprintStageInTooltip.desc": "Adds the Aincraft floor the blueprint drops on as [E 12] to its name in every inventory.",
+  "settings.ccextras.blueprintStageInTooltip.desc": "Adds the Aincraft floor the blueprint drops on as [E 12] to its name in every inventory, with the drop chance from the mob lexicon when known: [E 12 · 0.45%].",
   "settings.ccextras.blueprintInfoInChat": "Blueprint info in chat",
   "settings.ccextras.blueprintInfoInChat.desc": "Also shows floor and aspect when hovering a blueprint in chat.",
   "settings.ccextras.fabrikLevel": "Factory level tracker",

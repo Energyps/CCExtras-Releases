@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "modVersion": "1.9.2-beta.09",
+  "modVersion": "1.9.2-beta.15",
   "files": {
     "neciitems.json": {
       "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
@@ -51,8 +51,12 @@
       "size": 30023
     },
     "aincraft_info.json": {
-      "sha256": "4bf1d8f6ef8bdd707f68687fd8e657c377ca71f4780159d7621ee3857c064030",
-      "size": 16501
+      "sha256": "db6a90647365369ea46cdee6df66b49c913281fe20cc1d40166e239ec7aa7b23",
+      "size": 16509
+    },
+    "aincraft_floors.json": {
+      "sha256": "5cb13be80df5eccfc5b572d61745646801ee269b0fe809d1c205b8c5ab11037d",
+      "size": 113383
     },
     "sword_rotation.json": {
       "sha256": "6d54f88652b7c42ba85cab07dbc97a417d67e4c897fd8185c072af1ced530d8e",
@@ -67,8 +71,8 @@
       "size": 6695
     },
     "translations/de_de/aincraftstages.json": {
-      "sha256": "6b3f9d4cd5b6749d1411056463a309ce8a26baa9d0e5a55a90db790c48cb8ab9",
-      "size": 5267
+      "sha256": "5d99a6856873f00529047dd89072220ade24d7bb7080d5fe3de05a043b222c2a",
+      "size": 5325
     },
     "translations/de_de/anvil.json": {
       "sha256": "e6a92223fd391c2b8d8eaaacf008c5d47e996f169c25ac392858bda0a8b3d282",
@@ -79,8 +83,8 @@
       "size": 164693
     },
     "translations/de_de/ccextrasconfig.json": {
-      "sha256": "e02de7d1df94c96eecb06f95a8f299e25c73834318bb906990f0490d7ef10ef5",
-      "size": 71828
+      "sha256": "3f1b16ed9537e3ce63de388706ac7eef5888ed5cc9cbb2b60bf6258583168dda",
+      "size": 71895
     },
     "translations/de_de/charms.json": {
       "sha256": "ab0687d909e9e383fbaf6798e42c7d57a417fbbfd36fcde8a251215b1611e14a",
@@ -115,8 +119,8 @@
       "size": 1485
     },
     "translations/de_de/hud.json": {
-      "sha256": "a9684f24fa0376825d5c0658c21e171a3b9fb4d75de9dd557b483cdcecce83d4",
-      "size": 12327
+      "sha256": "3f0ac7fef60e9d6eea3e39aba3090ae1242630367e8f0c8467e67d30e1f7cee0",
+      "size": 12394
     },
     "translations/de_de/materials.json": {
       "sha256": "873d448d8681cc18cc4b8768471d1592f063cbd052c824ab0597bc9ab5524b04",
@@ -155,8 +159,8 @@
       "size": 6053
     },
     "translations/en_us/aincraftstages.json": {
-      "sha256": "f760ac1ce828e0f8f4d6d0aabdfc21e0c515a98d9496ef152cab9ff1ecb55dc0",
-      "size": 5164
+      "sha256": "0adbefcc7e5825dae3616163410e944d3b083a7a6d25b910f1d5a5a361438c60",
+      "size": 5222
     },
     "translations/en_us/anvil.json": {
       "sha256": "641dac81e57c4c0ef5d5e59dd7079f3294f9eb9d4eecb222e3cfc802eb393203",
@@ -167,8 +171,8 @@
       "size": 160535
     },
     "translations/en_us/ccextrasconfig.json": {
-      "sha256": "0438c62ac180fb77362fb150cd60a62f49f4c190729cb994bd1eacfaccb4ea53",
-      "size": 67803
+      "sha256": "ba88d9e177cb7fb9eccdf343f358ad48eb6e4715d4f061cc9447e304cf5db273",
+      "size": 67874
     },
     "translations/en_us/charms.json": {
       "sha256": "9832c14a775f9e57ace283f70cb2e68fbc4c844fac47315473b8823fe484e5ad",
@@ -203,8 +207,8 @@
       "size": 1444
     },
     "translations/en_us/hud.json": {
-      "sha256": "080d79274048c2a73564197200621a28ee85a66d6825afb6050fc9be9be9b3d9",
-      "size": 11975
+      "sha256": "cb3c1fc2bb394cc2b2a95275cbbb6675225c6c4ed2af45167328b238ee82711a",
+      "size": 12042
     },
     "translations/en_us/materials.json": {
       "sha256": "bbdf2acbd75cbe223d20eddf3c9ed1afdbdcb7fc36e0a39b24815219569512b2",

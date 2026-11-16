@@ -432,7 +432,7 @@
     {
       "name": "Fabelhafte",
       "effect": "Schmelz Effizienz (Additiv)",
-      "aincraft": [12]
+      "aincraft": [12, 30]
     },
     {
       "name": "Muschel",
@@ -457,7 +457,7 @@
     {
       "name": "Gesundheits",
       "effect": "Vitalität (Additiv)",
-      "aincraft": [17]
+      "aincraft": [17, 46]
     },
     {
       "name": "Essenz",

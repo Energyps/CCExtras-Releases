@@ -82,6 +82,7 @@
   "hud.ccextras.blueprintSearch.sample1": "Axe Of The Apprentice",
   "hud.ccextras.blueprintSearch.sample2": "Glorious Headgear",
   "hud.ccextras.blueprintSearch.location": "Floor %s",
+  "hud.ccextras.blueprintSearch.locationChance": "Floor %s · %s",
   "hud.ccextras.blueprintSearch.locationUnknown": "Location unknown",
   "hud.ccextras.blueprintSearch.found": "Found",
   "hud.ccextras.blueprint.materials": "Materials",

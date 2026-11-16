@@ -1,5 +1,6 @@
 {
   "config.ccextras.aincraft.stage": "[E %s]",
+  "config.ccextras.aincraft.stageChance": "[E %s · %s]",
   "config.ccextras.aincraft.stageLabel": "Stage %s",
   "config.ccextras.aincraft.stage1": "Baby Rabbit",
   "config.ccextras.aincraft.stage2": "Baby Chicken",
