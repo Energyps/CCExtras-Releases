@@ -1,0 +1,14 @@
+{
+  "entries": [
+    { "item": "Reißzahn des Drachen", "notes": [ { "hand": "offhand", "until": 4 }, { "hand": "main", "until": 4 } ] },
+    { "item": "Witwengruß", "notes": [ { "hand": "offhand", "until": 16 }, { "hand": "main", "until": 7 } ] },
+    { "item": "Mondklinge", "anvil": { "material": "config.ccextras.anvil.material.cloth", "level": 5 }, "notes": [ { "hand": "main", "until": 10 } ] },
+    { "item": "Flammenfuror", "anvil": { "material": "config.ccextras.anvil.material.brick", "level": 10 }, "notes": [ { "hand": "main", "until": 16 } ] },
+    { "item": "Blitzzorn", "anvil": { "material": "config.ccextras.anvil.material.brick", "level": 10 }, "notes": [ { "hand": "offhand", "until": 45 }, { "hand": "main", "until": 21 } ] },
+    { "item": "Drachenzorn", "anvil": { "material": "config.ccextras.anvil.material.chain_link", "level": 15 }, "notes": [ { "hand": "main", "until": 38 } ] },
+    { "item": "Weltenfresser", "anvil": { "material": "config.ccextras.anvil.material.clamp", "level": 30 }, "notes": [ { "hand": "main", "until": 51 } ] },
+    { "item": "Klinge des Lehrmeisters", "anvil": { "material": "config.ccextras.anvil.material.clamp", "level": 30 }, "notes": [ { "hand": "offhand", "until": 73 } ] },
+    { "item": "Angus Dunkler Hass", "anvil": { "material": "config.ccextras.anvil.material.cloth", "level": 5 }, "notes": [ { "hand": "main" } ] },
+    { "item": "Vampirsäbel", "anvil": { "material": "config.ccextras.anvil.material.leather", "level": 20 }, "notes": [ { "hand": "offhand" } ] }
+  ]
+}

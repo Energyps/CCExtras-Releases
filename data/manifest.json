@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "modVersion": "1.9.1",
+  "modVersion": "1.9.2-beta.09",
   "files": {
     "neciitems.json": {
-      "sha256": "d61070d477ab13609e08fc5c71a4155b2914797ed31a2c532b8da41a6d3e3235",
-      "size": 3613624
+      "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
+      "size": 3613372
     },
     "Essence.json": {
       "sha256": "3eea4927d42855812576e1bc813f90d744e3363c1d3d89203f76ff6230e2d39e",
@@ -53,6 +53,14 @@
     "aincraft_info.json": {
       "sha256": "4bf1d8f6ef8bdd707f68687fd8e657c377ca71f4780159d7621ee3857c064030",
       "size": 16501
+    },
+    "sword_rotation.json": {
+      "sha256": "6d54f88652b7c42ba85cab07dbc97a417d67e4c897fd8185c072af1ced530d8e",
+      "size": 1536
+    },
+    "security/developers.json": {
+      "sha256": "135c2fa203ac4e1aac095ca1f8492e8dae77db1b4f70cf5fd1340f19b2c55340",
+      "size": 290
     },
     "translations/de_de/aincraftinfo.json": {
       "sha256": "1f33c90ecb25c7ef9c1f85af2739c5555869ce9a205609b17e6f8beabeab89b7",
@@ -115,8 +123,12 @@
       "size": 33525
     },
     "translations/de_de/neci.json": {
-      "sha256": "72b0d04fe92203f05fa0671b06b3ed0bd32e30688f79ed0c2681bb9b875aa4d4",
-      "size": 8355
+      "sha256": "8f170c83834e518e2485c4caa6c883e594516612af631ba81cbc19b5b0726cb7",
+      "size": 8738
+    },
+    "translations/de_de/online.json": {
+      "sha256": "6aff36e42704af02960dbdd49ea81ad821af03f3779147b5e7cbce958a2a0930",
+      "size": 7466
     },
     "translations/de_de/rarity.json": {
       "sha256": "a13703b086f11c757c1fc36120e27166c6d08cc2d32f9e290a5c89176b2eb4c7",
@@ -199,8 +211,12 @@
       "size": 32882
     },
     "translations/en_us/neci.json": {
-      "sha256": "0ee30711909c10d228f1c18fc8e01cfac6a0e7cf2be753656444f7ff2ad10fbf",
-      "size": 8163
+      "sha256": "ab05d3e576bcdae3ef42e5756988cd77759eeb085c76c351aaf7a626e8a1727d",
+      "size": 8551
+    },
+    "translations/en_us/online.json": {
+      "sha256": "9ac302d6429293d55a6b8dd0710ef9591e534e11f91a02298fafccb917a824eb",
+      "size": 7045
     },
     "translations/en_us/rarity.json": {
       "sha256": "b97fed1223ea79e2019f48aaa1cace4808f96b83c2eaca60c77f7b95e85156a1",

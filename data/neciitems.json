@@ -18636,8 +18636,7 @@
       "tags": [
         "bauplan",
         "epic",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Dämonengeschmiedet"
     },
@@ -19898,8 +19897,7 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Lavageschmiedet"
     },
@@ -20375,7 +20373,8 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert"
+        "schwert",
+        "schwert_rotation"
       ],
       "forgingCondition": "Dämonengeschmiedet"
     },
@@ -35898,8 +35897,7 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Sternengeschmiedet"
     },
@@ -38215,8 +38213,7 @@
       "tags": [
         "bauplan",
         "epic",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Sternengeschmiedet"
     },
@@ -69539,8 +69536,7 @@
       "tags": [
         "bauplan",
         "uncommon",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Lavageschmiedet"
     },
@@ -72945,8 +72941,7 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ]
     },
     {
@@ -81199,8 +81194,7 @@
       "tags": [
         "bauplan",
         "epic",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Dämonengeschmiedet"
     },
@@ -87967,8 +87961,7 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Lavageschmiedet"
     },
@@ -97300,8 +97293,7 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Lavageschmiedet"
     },
@@ -115800,8 +115792,7 @@
       "tags": [
         "bauplan",
         "epic",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Sternengeschmiedet"
     },
@@ -134011,7 +134002,8 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert"
+        "schwert",
+        "schwert_rotation"
       ],
       "forgingCondition": "Sternengeschmiedet"
     },
@@ -139127,7 +139119,8 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert"
+        "schwert",
+        "schwert_rotation"
       ],
       "forgingCondition": "Titangeschmiedet"
     },
@@ -142066,8 +142059,7 @@
         "bauplan",
         "legendary",
         "aspekt",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Blitzgeschmiedet"
     },
@@ -147162,8 +147154,7 @@
       "tags": [
         "bauplan",
         "epic",
-        "schwert",
-        "schwert_rotation"
+        "schwert"
       ],
       "forgingCondition": "Drachengeschmiedet"
     },
