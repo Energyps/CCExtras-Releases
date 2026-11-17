@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "modVersion": "1.9.2-beta.36",
+  "modVersion": "1.9.2-beta.47",
   "files": {
     "neciitems.json": {
       "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
@@ -63,8 +63,8 @@
       "size": 16509
     },
     "aincraft_floors.json": {
-      "sha256": "5cb13be80df5eccfc5b572d61745646801ee269b0fe809d1c205b8c5ab11037d",
-      "size": 113383
+      "sha256": "6ddeae352c4b53b05aa0ba35d3704efa2461ac0c363defbb34d9d7af6c4822ae",
+      "size": 301595
     },
     "sword_rotation.json": {
       "sha256": "6d54f88652b7c42ba85cab07dbc97a417d67e4c897fd8185c072af1ced530d8e",
@@ -99,16 +99,16 @@
       "size": 164693
     },
     "translations/de_de/ccextrasconfig.json": {
-      "sha256": "77798a92c0f3e088ea86236154bafbb465e33c277a77a1a8f76d175edba448d0",
-      "size": 72398
+      "sha256": "9c30e62b4dac08576e82c957be40b60b8fa030ccf5815e33b8d0b0a32779eafc",
+      "size": 73210
     },
     "translations/de_de/charms.json": {
       "sha256": "ab0687d909e9e383fbaf6798e42c7d57a417fbbfd36fcde8a251215b1611e14a",
       "size": 9792
     },
     "translations/de_de/debug.json": {
-      "sha256": "e3d18df333b60f77725658a82f58054fb30118c954ac8354252b37d6fd4081a0",
-      "size": 13456
+      "sha256": "67b4ff22a332d0724fc1cb9ed6def124ba311511deb7b854c78e7bc17def4ca5",
+      "size": 13817
     },
     "translations/de_de/essences.json": {
       "sha256": "7fffd8f64e4adc32119af8b1f51b19d1d058b048a4a6734adb3fa0c663a7849e",
@@ -191,16 +191,16 @@
       "size": 160535
     },
     "translations/en_us/ccextrasconfig.json": {
-      "sha256": "fa1b93d61f77b98a8458afd63bc85f8db3740471baff3bbad261498706fd0edf",
-      "size": 68336
+      "sha256": "8756720d2d7170563789669eabf8903e677ba9db6add4d8675d6f15450701f9c",
+      "size": 69125
     },
     "translations/en_us/charms.json": {
       "sha256": "9832c14a775f9e57ace283f70cb2e68fbc4c844fac47315473b8823fe484e5ad",
       "size": 9484
     },
     "translations/en_us/debug.json": {
-      "sha256": "cdd86fbfde3e3a96369d1da2df72e2ad7282e5b1972487e93e04930bbc2b9beb",
-      "size": 12902
+      "sha256": "ea50ac2967c0e7480ac9caffc92b890a68fe52690c7603f6551b4022fda52c6b",
+      "size": 13256
     },
     "translations/en_us/essences.json": {
       "sha256": "e8ff7f2ea96c5842d14baab657b7bf955acb8ae6b37971fd67712d395b7ae5d2",
