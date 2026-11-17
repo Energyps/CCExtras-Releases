@@ -353,6 +353,8 @@
   "settings.ccextras.debugScreenInspector.desc": "Panel in every inventory: raw screen name (resource pack glyphs as \\uXXXX), plain text, JSON, class, menu type, hovered item and all resource pack matches - scrollable. Left click copies raw, right click escaped; hovering a match shows its graphic.",
   "settings.ccextras.debugMobLexiconInspector": "Mob lexicon inspector",
   "settings.ccextras.debugMobLexiconInspector.desc": "Panel in the mob lexicon: mob, Aincraft stage, coins, card and statue with chance, the stage's blueprints with rarity, and the rune blueprint at 1500 kills. \"Start scan\" clicks every mob item with short pauses and turns pages until the last one; can be cancelled. Copy per stage, everything, runes only (also as runes.json) or blueprints only (also as JSON).",
+  "settings.ccextras.debugCollectionInspector": "Collection inspector",
+  "settings.ccextras.debugCollectionInspector.desc": "Panel in every inventory: enter the name of the open collection and press \"Read\". Reads slots 10–16 (name tags with CustomModelData 3 or 4), turns the page once via slot 23 and reads the second page. Captures name, progress, x/y and rewards per level. Several collections are collected and can be copied together as text or JSON.",
   "settings.ccextras.debugRawFont": "Raw text in vanilla font",
   "settings.ccextras.debugRawFont.desc": "Draws raw text with the vanilla unifont so the server resource pack font cannot change it.",
   "settings.ccextras.debugTooltipInspector": "Tooltip inspector",

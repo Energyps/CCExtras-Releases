@@ -353,6 +353,8 @@
   "settings.ccextras.debugScreenInspector.desc": "Panel in jedem Inventar: Screen-Name roh (Resourcepack-Zeichen als \\uXXXX), Klartext, JSON, Klasse, Menü-Typ, gehovertes Item und alle Resourcepack-Treffer - scrollbar. Linksklick kopiert roh, Rechtsklick ausgeschrieben; beim Hovern über einen Treffer erscheint die Grafik.",
   "settings.ccextras.debugMobLexiconInspector": "Mob-Lexikon-Inspektor",
   "settings.ccextras.debugMobLexiconInspector.desc": "Panel im Mob-Lexikon: Mob, Aincraft-Ebene, Coins, Karte und Statue mit Chance, die Baupläne der Ebene mit Seltenheit sowie der Runenbauplan bei 1500 Kills. „Scan starten“ klickt jedes Mob-Item mit kleinen Pausen an und blättert bis zur letzten Seite; abbrechbar. Kopieren pro Ebene, komplett, nur Runen (auch als runes.json) oder nur Baupläne (auch als JSON).",
+  "settings.ccextras.debugCollectionInspector": "Collection-Inspektor",
+  "settings.ccextras.debugCollectionInspector.desc": "Panel in jedem Inventar: Namen der offenen Collection eintragen und „Einlesen“ drücken. Liest die Slots 10–16 (Namensschilder mit CustomModelData 3 oder 4), blättert über Slot 23 einmal um und liest die zweite Seite. Erfasst je Stufe Name, Fortschritt, x/y und Belohnungen. Mehrere Collections werden gesammelt und lassen sich gemeinsam als Text oder JSON kopieren.",
   "settings.ccextras.debugRawFont": "Rohtext in Vanilla-Schrift",
   "settings.ccextras.debugRawFont.desc": "Zeichnet Rohtexte mit der Vanilla-Unifont, damit die Schrift des Server-Resourcepacks sie nicht verändert.",
   "settings.ccextras.debugTooltipInspector": "Tooltip-Inspektor",

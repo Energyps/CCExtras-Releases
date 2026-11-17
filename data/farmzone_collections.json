@@ -1,0 +1,393 @@
+{
+  "_info": "Stufen und Belohnungen der Farmzone- und Angel-Collections (Collection-Inspektor-Export, eingepflegt mit .github/scripts/merge_collections.py). Angel-Collections (type angeln) werden beim Season-Reset nicht zurückgesetzt.",
+  "collections": {
+    "Dschungelholz": {
+      "type": "farmzone",
+      "seasonal": true,
+      "levels": [
+        {
+          "level": "I",
+          "required": 50,
+          "rewards": []
+        },
+        {
+          "level": "II",
+          "required": 100,
+          "rewards": []
+        },
+        {
+          "level": "III",
+          "required": 250,
+          "rewards": [
+            "Angel Bauplan [Fischreuse]: Dschungelholz Fischreuse [Bauplan]"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 1000,
+          "rewards": [
+            "Fichtenwald [Lizenz]"
+          ]
+        },
+        {
+          "level": "V",
+          "required": 2500,
+          "rewards": [
+            "Holzhacker [Bauplan #2]"
+          ]
+        },
+        {
+          "level": "VI",
+          "required": 5000,
+          "rewards": [
+            "Angel Bauplan [Komponente]: Ranken-Rute [Bauplan]",
+            "Angel Bauplan [Komponente]: Ranken-Schnur [Bauplan]",
+            "Angel Bauplan [Komponente]: Ranken-Rolle [Bauplan]",
+            "Angel Bauplan [Komponente]: Ranken-Haken [Bauplan]",
+            "Angel Bauplan [Komponente]: Ranken-Köder [Bauplan]",
+            "Angel Bauplan [Komponente]: Ranken-Pose [Bauplan]",
+            "Angel Bauplan [Komponente]: Ranken-Gewicht [Bauplan]",
+            "Angel Bauplan [Komponente]: Ranken-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "VII",
+          "required": 10000,
+          "rewards": [
+            "Vitalitätskern [Bauplan]"
+          ]
+        },
+        {
+          "level": "VIII",
+          "required": 25000,
+          "rewards": []
+        },
+        {
+          "level": "IX",
+          "required": 50000,
+          "rewards": []
+        },
+        {
+          "level": "X",
+          "required": 100000,
+          "rewards": [
+            "Schaltet die Maschine Dschungel-Säge zum Kauf frei"
+          ]
+        }
+      ]
+    },
+    "Eichenholz": {
+      "type": "farmzone",
+      "seasonal": true,
+      "levels": [
+        {
+          "level": "I",
+          "required": 50,
+          "rewards": [
+            "Modultasche [Bauplan #1]"
+          ]
+        },
+        {
+          "level": "II",
+          "required": 100,
+          "rewards": [
+            "Holzhacker [Bauplan #1]"
+          ]
+        },
+        {
+          "level": "III",
+          "required": 250,
+          "rewards": [
+            "Axtverstärker [Bauplan]"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 1000,
+          "rewards": [
+            "Angel Bauplan [Komponente]: Eichenschatten Rute [Bauplan]",
+            "Angel Bauplan [Komponente]: Eichenschatten-Schnur [Bauplan]",
+            "Angel Bauplan [Komponente]: Eichenschatten-Rolle [Bauplan]",
+            "Angel Bauplan [Komponente]: Eichenschatten-Haken [Bauplan]",
+            "Angel Bauplan [Komponente]: Eichenschatten-Köder [Bauplan]",
+            "Angel Bauplan [Komponente]: Eichenschatten-Pose [Bauplan]",
+            "Angel Bauplan [Komponente]: Eichenschatten-Gewicht [Bauplan]",
+            "Angel Bauplan [Komponente]: Eichenschatten-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "V",
+          "required": 2500,
+          "rewards": []
+        },
+        {
+          "level": "VI",
+          "required": 5000,
+          "rewards": []
+        },
+        {
+          "level": "VII",
+          "required": 10000,
+          "rewards": []
+        },
+        {
+          "level": "VIII",
+          "required": 25000,
+          "rewards": []
+        },
+        {
+          "level": "IX",
+          "required": 50000,
+          "rewards": []
+        },
+        {
+          "level": "X",
+          "required": 100000,
+          "rewards": [
+            "Schaltet die Maschine Eichen-Säge zum Kauf frei"
+          ]
+        }
+      ]
+    },
+    "Kohle": {
+      "type": "farmzone",
+      "seasonal": true,
+      "levels": [
+        {
+          "level": "I",
+          "required": 50,
+          "rewards": [
+            "Spitzhackenverstärker [Bauplan]"
+          ]
+        },
+        {
+          "level": "II",
+          "required": 100,
+          "rewards": [
+            "Erzbrecher [Bauplan #1]"
+          ]
+        },
+        {
+          "level": "III",
+          "required": 250,
+          "rewards": [
+            "Kupfermine [Lizenz]"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 1000,
+          "rewards": [
+            "Autoschmelzer [Bauplan #1]"
+          ]
+        },
+        {
+          "level": "V",
+          "required": 2500,
+          "rewards": []
+        },
+        {
+          "level": "VI",
+          "required": 5000,
+          "rewards": [
+            "Angel Bauplan [Komponente]: Schwarznaht-Rute [Bauplan]",
+            "Angel Bauplan [Komponente]: Schwarznaht-Schnur [Bauplan]",
+            "Angel Bauplan [Komponente]: Schwarznaht-Rolle [Bauplan]",
+            "Angel Bauplan [Komponente]: Schwarznaht-Haken [Bauplan]",
+            "Angel Bauplan [Komponente]: Schwarznaht-Köder [Bauplan]",
+            "Angel Bauplan [Komponente]: Schwarznaht-Pose [Bauplan]",
+            "Angel Bauplan [Komponente]: Schwarznaht-Gewicht [Bauplan]",
+            "Angel Bauplan [Komponente]: Schwarznaht-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "VII",
+          "required": 10000,
+          "rewards": []
+        },
+        {
+          "level": "VIII",
+          "required": 25000,
+          "rewards": []
+        },
+        {
+          "level": "IX",
+          "required": 50000,
+          "rewards": []
+        },
+        {
+          "level": "X",
+          "required": 100000,
+          "rewards": [
+            "Schaltet die Maschine Kohle-Bohrer zum Kauf frei"
+          ]
+        }
+      ]
+    },
+    "Kupfer": {
+      "type": "farmzone",
+      "seasonal": true,
+      "levels": [
+        {
+          "level": "I",
+          "required": 50,
+          "rewards": []
+        },
+        {
+          "level": "II",
+          "required": 100,
+          "rewards": [
+            "Erzbrecher [Bauplan #2]"
+          ]
+        },
+        {
+          "level": "III",
+          "required": 250,
+          "rewards": [
+            "Strand [Lizenz]"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 1000,
+          "rewards": [
+            "Modultasche [Bauplan #2]"
+          ]
+        },
+        {
+          "level": "V",
+          "required": 2500,
+          "rewards": [
+            "Angel Bauplan [Komponente]: Kupferlinien-Rute [Bauplan]",
+            "Angel Bauplan [Komponente]: Kupferlinien-Schnur [Bauplan]",
+            "Angel Bauplan [Komponente]: Kupferlinien-Rolle [Bauplan]",
+            "Angel Bauplan [Komponente]: Kupferlinien-Haken [Bauplan]",
+            "Angel Bauplan [Komponente]: Kupferlinien-Köder [Bauplan]",
+            "Angel Bauplan [Komponente]: Kupferlinien-Pose [Bauplan]",
+            "Angel Bauplan [Komponente]: Kupferlinien-Gewicht [Bauplan]",
+            "Angel Bauplan [Komponente]: Kupferlinien-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "VI",
+          "required": 5000,
+          "rewards": [
+            "Kupfermagnet [Bauplan]"
+          ]
+        },
+        {
+          "level": "VII",
+          "required": 10000,
+          "rewards": []
+        },
+        {
+          "level": "VIII",
+          "required": 25000,
+          "rewards": []
+        },
+        {
+          "level": "IX",
+          "required": 50000,
+          "rewards": []
+        },
+        {
+          "level": "X",
+          "required": 100000,
+          "rewards": [
+            "Schaltet die Maschine Kupfer-Bohrer zum Kauf frei"
+          ]
+        }
+      ],
+      "itemName": "Rohes Kupfererz"
+    },
+    "Smaragdsee": {
+      "type": "angeln",
+      "seasonal": false,
+      "levels": [
+        {
+          "level": "I",
+          "required": 10,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Angel Bauplan [Komponente]: Seegrund Rute [Bauplan]"
+          ]
+        },
+        {
+          "level": "II",
+          "required": 20,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Angel Bauplan [Komponente]: Seegrund-Schnur [Bauplan]"
+          ]
+        },
+        {
+          "level": "III",
+          "required": 50,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Angel Bauplan [Komponente]: Seegrund-Rolle [Bauplan]"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 100,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Angel Bauplan [Komponente]: Seegrund-Haken [Bauplan]"
+          ]
+        },
+        {
+          "level": "V",
+          "required": 250,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Angel Bauplan [Komponente]: Seegrund-Pose [Bauplan]"
+          ]
+        },
+        {
+          "level": "VI",
+          "required": 500,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Modifier: Fischverarbeitungsertrag +2%",
+            "Angel Bauplan [Komponente]: Seegrund-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "VII",
+          "required": 1000,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Modifier: Fischverarbeitungsertrag +2%",
+            "Angel Bauplan [Komponente]: Seegrund-Gewicht [Bauplan]"
+          ]
+        },
+        {
+          "level": "VIII",
+          "required": 2500,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Modifier: Fischverarbeitungsertrag +2%",
+            "Angel Bauplan [Komponente]: Seegrund-Köder [Bauplan]"
+          ]
+        },
+        {
+          "level": "IX",
+          "required": 5000,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Modifier: Fischverarbeitungsertrag +2%"
+          ]
+        },
+        {
+          "level": "X",
+          "required": 10000,
+          "rewards": [
+            "Modifier: Vitalität +2%",
+            "Modifier: Fischverarbeitungsertrag +2%"
+          ]
+        }
+      ]
+    }
+  }
+}
