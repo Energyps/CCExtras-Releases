@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "modVersion": "1.9.2-beta.33",
+  "modVersion": "1.9.2-beta.34",
   "files": {
     "neciitems.json": {
       "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
@@ -55,8 +55,8 @@
       "size": 30023
     },
     "farmzone_collections.json": {
-      "sha256": "2f42d66e9f090ab716c6d6b9df370f331c6e4eea68fd15138416bfdaafb5019c",
-      "size": 10417
+      "sha256": "8a06ce596dc9971f8d8825ffecd7bc5893bd4c15187c29983a2eef6fd005f4a9",
+      "size": 14225
     },
     "aincraft_info.json": {
       "sha256": "db6a90647365369ea46cdee6df66b49c913281fe20cc1d40166e239ec7aa7b23",

@@ -1,6 +1,79 @@
 {
   "_info": "Stufen und Belohnungen der Farmzone- und Angel-Collections (Collection-Inspektor-Export, eingepflegt mit .github/scripts/merge_collections.py). Angel-Collections (type angeln) werden beim Season-Reset nicht zurückgesetzt.",
   "collections": {
+    "Bambus": {
+      "type": "farmzone",
+      "seasonal": true,
+      "levels": [
+        {
+          "level": "I",
+          "required": 50,
+          "rewards": []
+        },
+        {
+          "level": "II",
+          "required": 100,
+          "rewards": []
+        },
+        {
+          "level": "III",
+          "required": 250,
+          "rewards": [
+            "Angel Bauplan [Fischreuse]: Bambusholz Fischreuse [Bauplan]"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 1000,
+          "rewards": []
+        },
+        {
+          "level": "V",
+          "required": 2500,
+          "rewards": [
+            "Eisenmine [Lizenz]"
+          ]
+        },
+        {
+          "level": "VI",
+          "required": 5000,
+          "rewards": [
+            "Holzhacker [Bauplan #4]"
+          ]
+        },
+        {
+          "level": "VII",
+          "required": 10000,
+          "rewards": []
+        },
+        {
+          "level": "VIII",
+          "required": 25000,
+          "rewards": [
+            "Angel Bauplan [Komponente]: Rohr-Rute [Bauplan]",
+            "Angel Bauplan [Komponente]: Rohr-Schnur [Bauplan]",
+            "Angel Bauplan [Komponente]: Rohr-Rolle [Bauplan]",
+            "Angel Bauplan [Komponente]: Rohr-Haken [Bauplan]",
+            "Angel Bauplan [Komponente]: Rohr-Köder [Bauplan]",
+            "Angel Bauplan [Komponente]: Rohr-Pose [Bauplan]",
+            "Angel Bauplan [Komponente]: Rohr-Gewicht [Bauplan]",
+            "Angel Bauplan [Komponente]: Rohr-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "IX",
+          "required": 50000,
+          "rewards": []
+        },
+        {
+          "level": "X",
+          "required": 100000,
+          "rewards": [
+            "Schaltet die Maschine Bambus-Säge zum Kauf frei"
+          ]
+        }
+      ]
+    },
     "Dschungelholz": {
       "type": "farmzone",
       "seasonal": true,
@@ -145,6 +218,81 @@
           "required": 100000,
           "rewards": [
             "Schaltet die Maschine Eichen-Säge zum Kauf frei"
+          ]
+        }
+      ]
+    },
+    "Fichtenholz": {
+      "type": "farmzone",
+      "seasonal": true,
+      "levels": [
+        {
+          "level": "I",
+          "required": 50,
+          "rewards": []
+        },
+        {
+          "level": "II",
+          "required": 100,
+          "rewards": []
+        },
+        {
+          "level": "III",
+          "required": 250,
+          "rewards": [
+            "Angel Bauplan [Fischreuse]: Fichtenholz Fischreuse"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 1000,
+          "rewards": [
+            "Bambuswald [Lizenz]"
+          ]
+        },
+        {
+          "level": "V",
+          "required": 2500,
+          "rewards": [
+            "Holzhacker [Bauplan #3]"
+          ]
+        },
+        {
+          "level": "VI",
+          "required": 5000,
+          "rewards": [
+            "Angel Bauplan [Komponente]: Frostkiefer-Rute [Bauplan]",
+            "Angel Bauplan [Komponente]: Frostkiefer-Leine [Bauplan]",
+            "Angel Bauplan [Komponente]: Frostpine-Rolle [Bauplan]",
+            "Angel Bauplan [Komponente]: Frostkiefer-Haken [Bauplan]",
+            "Angel Bauplan [Komponente]: Frostpine-Köder [Bauplan]",
+            "Angel Bauplan [Komponente]: Frostkiefer-Pose [Bauplan]",
+            "Angel Bauplan [Komponente]: Frostpine-Gewicht [Bauplan]",
+            "Angel Bauplan [Komponente]: Frostpine-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "VII",
+          "required": 10000,
+          "rewards": [
+            "Stärkekern [Bauplan]"
+          ]
+        },
+        {
+          "level": "VIII",
+          "required": 25000,
+          "rewards": []
+        },
+        {
+          "level": "IX",
+          "required": 50000,
+          "rewards": []
+        },
+        {
+          "level": "X",
+          "required": 100000,
+          "rewards": [
+            "Schaltet die Maschine Fichten-Säge zum Kauf frei"
           ]
         }
       ]
