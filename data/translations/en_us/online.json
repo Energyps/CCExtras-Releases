@@ -93,8 +93,17 @@
   "settings.ccextras.online.chat.desc": "Chat for all CCExtras users with direct messages. With the CCExtras chat design as tabs above the chat, otherwise with [CCX] in the normal chat (write with /ccx chat).",
   "settings.ccextras.online.hoverProfile": "Profile preview in chat",
   "settings.ccextras.online.hoverProfile.desc": "Hovering a name in the CCExtras chat, or the icon in the server chat, shows a short profile.",
+  "settings.ccextras.online.wardrobeBags": "Wardrobe: open bags automatically",
+  "settings.ccextras.online.wardrobeBags.desc": "When you open a wardrobe equipment set with right-click, CCExtras opens the tool and module bag automatically so tools and modules also reach your online profile. Your own click stops it.",
   "settings.ccextras.online.web": "Log in on the website",
   "settings.ccextras.online.web.button": "Open link",
   "settings.ccextras.online.web.desc": "Opens a one-time login link (like /ccx web) so you can set your visibility and read direct messages on the website.",
-  "settings.ccextras.debug.system.online": "Online features"
+  "settings.ccextras.debug.system.online": "Online features",
+  "online.ccextras.season.text": "Season %s was started on the CCExtras website. Do you want to do the season reset now?",
+  "online.ccextras.season.details": "Resets everything CCExtras collected while playing (pinned blueprints, blueprint search, materials and essences from bags, highest wave, rune blueprints, best values). Your settings, overlays, keys and NECI favourites stay. Your profile of the old season stays visible on the website in the season archive.",
+  "online.ccextras.season.yes": "Do season reset",
+  "online.ccextras.season.no": "Decline",
+  "online.ccextras.season.done": "Season reset done: CCExtras is now in season %s.",
+  "online.ccextras.season.declined": "Season reset declined. The message appears again the next time you start Minecraft.",
+  "online.ccextras.season.none": "There is no season reset from the website pending."
 }

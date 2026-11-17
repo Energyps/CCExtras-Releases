@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "modVersion": "1.9.2-beta.15",
+  "modVersion": "1.9.2-beta.31",
   "files": {
     "neciitems.json": {
       "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
@@ -13,6 +13,10 @@
     "MKLevel.json": {
       "sha256": "11c916d49f689b9223a7b08338ea37dffc6e446c2c66297c5104096bc330b5b6",
       "size": 24326
+    },
+    "MKXP.json": {
+      "sha256": "f480f1da8dc34d004ef1d965d0ec28b81410c0dc58253792029ed86bcb3af633",
+      "size": 11905
     },
     "Aspekte.json": {
       "sha256": "ebfbb0be2c786b23b4b49463ce007707fbd77de96c18895ee86e2da63e99e88f",
@@ -91,8 +95,8 @@
       "size": 9792
     },
     "translations/de_de/debug.json": {
-      "sha256": "df36d6c7772c1efffff43bfee1437112ff8e0154f91a7c7b71b1e667fa6dc79b",
-      "size": 9367
+      "sha256": "1ca3eb259814f699c49841495134212cc84df2d34c2d3dd7b0b636b331114f95",
+      "size": 11834
     },
     "translations/de_de/essences.json": {
       "sha256": "7fffd8f64e4adc32119af8b1f51b19d1d058b048a4a6734adb3fa0c663a7849e",
@@ -119,8 +123,8 @@
       "size": 1485
     },
     "translations/de_de/hud.json": {
-      "sha256": "3f0ac7fef60e9d6eea3e39aba3090ae1242630367e8f0c8467e67d30e1f7cee0",
-      "size": 12394
+      "sha256": "cf1519f33813a2d81cb6387769a04b65024cb150b82ff9f50b98c93135ac9f8b",
+      "size": 12449
     },
     "translations/de_de/materials.json": {
       "sha256": "873d448d8681cc18cc4b8768471d1592f063cbd052c824ab0597bc9ab5524b04",
@@ -131,8 +135,8 @@
       "size": 8738
     },
     "translations/de_de/online.json": {
-      "sha256": "6aff36e42704af02960dbdd49ea81ad821af03f3779147b5e7cbce958a2a0930",
-      "size": 7466
+      "sha256": "57a11e064d14b98910de999dc615c6a8aedb4b44f2adff9f8d46dceab514b709",
+      "size": 8731
     },
     "translations/de_de/rarity.json": {
       "sha256": "a13703b086f11c757c1fc36120e27166c6d08cc2d32f9e290a5c89176b2eb4c7",
@@ -179,8 +183,8 @@
       "size": 9484
     },
     "translations/en_us/debug.json": {
-      "sha256": "5e3127905acce454d1d09f1f7e2a1428586a71d5ac18faa9241767c7595157a3",
-      "size": 9038
+      "sha256": "9237f54d77161f446592fc195698dd097b06cdedcc4b1d1a19a67d3a5e630ace",
+      "size": 11394
     },
     "translations/en_us/essences.json": {
       "sha256": "e8ff7f2ea96c5842d14baab657b7bf955acb8ae6b37971fd67712d395b7ae5d2",
@@ -207,8 +211,8 @@
       "size": 1444
     },
     "translations/en_us/hud.json": {
-      "sha256": "cb3c1fc2bb394cc2b2a95275cbbb6675225c6c4ed2af45167328b238ee82711a",
-      "size": 12042
+      "sha256": "dbf05fa85bf73a1116706665d82dc807231b5563155069e35c54ad14b197b10b",
+      "size": 12096
     },
     "translations/en_us/materials.json": {
       "sha256": "bbdf2acbd75cbe223d20eddf3c9ed1afdbdcb7fc36e0a39b24815219569512b2",
@@ -219,8 +223,8 @@
       "size": 8551
     },
     "translations/en_us/online.json": {
-      "sha256": "9ac302d6429293d55a6b8dd0710ef9591e534e11f91a02298fafccb917a824eb",
-      "size": 7045
+      "sha256": "5047ceb14f1ac2cf14b0f619d372af8e9684c58ef4c63ca3881de404bd80aa9b",
+      "size": 8222
     },
     "translations/en_us/rarity.json": {
       "sha256": "b97fed1223ea79e2019f48aaa1cace4808f96b83c2eaca60c77f7b95e85156a1",

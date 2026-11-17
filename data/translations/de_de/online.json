@@ -93,8 +93,17 @@
   "settings.ccextras.online.chat.desc": "Eigener Chat aller CCExtras-Nutzer mit Direktnachrichten. Mit dem CCExtras-Chat-Design als eigene Tabs über dem Chat, sonst mit [CCX] im normalen Chat (schreiben mit /ccx chat).",
   "settings.ccextras.online.hoverProfile": "Kurzprofil im Chat",
   "settings.ccextras.online.hoverProfile.desc": "Beim Überfahren eines Namens im CCExtras-Chat bzw. des Symbols im Server-Chat erscheint das Kurzprofil.",
+  "settings.ccextras.online.wardrobeBags": "Wardrobe: Taschen automatisch aufklappen",
+  "settings.ccextras.online.wardrobeBags.desc": "Öffnest du ein Ausrüstungsset der Wardrobe per Rechtsklick, klappt CCExtras Werkzeug- und Modultasche automatisch auf, damit auch Werkzeuge und Module ins Online-Profil kommen. Ein eigener Klick bricht ab.",
   "settings.ccextras.online.web": "Auf der Webseite anmelden",
   "settings.ccextras.online.web.button": "Link öffnen",
   "settings.ccextras.online.web.desc": "Öffnet einen einmaligen Anmelde-Link (wie /ccx web), damit du auf der Webseite deine Sichtbarkeit einstellen und Direktnachrichten lesen kannst.",
-  "settings.ccextras.debug.system.online": "Online-Funktionen"
+  "settings.ccextras.debug.system.online": "Online-Funktionen",
+  "online.ccextras.season.text": "Auf der CCExtras-Webseite wurde Season %s gestartet. Möchtest du den Season-Reset jetzt durchführen?",
+  "online.ccextras.season.details": "Setzt alles zurück, was CCExtras beim Spielen gesammelt hat (angepinnte Baupläne, Bauplan-Suche, Materialien und Essenzen aus Taschen, höchste Welle, Runenbaupläne, Bestwerte). Deine Einstellungen, Overlays, Tasten und NECI-Favoriten bleiben. Dein Profil der alten Season bleibt auf der Webseite im Season-Archiv sichtbar.",
+  "online.ccextras.season.yes": "Season-Reset durchführen",
+  "online.ccextras.season.no": "Ablehnen",
+  "online.ccextras.season.done": "Season-Reset durchgeführt: CCExtras ist jetzt in Season %s.",
+  "online.ccextras.season.declined": "Season-Reset abgelehnt. Die Meldung erscheint beim nächsten Start von Minecraft wieder.",
+  "online.ccextras.season.none": "Es steht kein Season-Reset von der Webseite an."
 }
