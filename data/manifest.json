@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "modVersion": "1.9.2-beta.34",
+  "modVersion": "1.9.2-beta.35",
   "files": {
     "neciitems.json": {
       "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
@@ -69,6 +69,10 @@
     "sword_rotation.json": {
       "sha256": "6d54f88652b7c42ba85cab07dbc97a417d67e4c897fd8185c072af1ced530d8e",
       "size": 1536
+    },
+    "fish_species.json": {
+      "sha256": "23a3419986e6535968931c70a8b49de02ecdae67a2807a2910ebdeaebcdb83e3",
+      "size": 41528
     },
     "security/developers.json": {
       "sha256": "135c2fa203ac4e1aac095ca1f8492e8dae77db1b4f70cf5fd1340f19b2c55340",

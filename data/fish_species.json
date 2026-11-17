@@ -1,0 +1,1405 @@
+{
+ "schema": 1,
+ "fische": [
+  {
+   "de": "Grünrücken-Flunder",
+   "en": "Greenback Flounder",
+   "see": "Smaragdsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_greenback_flounder"
+  },
+  {
+   "de": "Zwerg-Stör",
+   "en": "Dwarf Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_dwarf_sturgeon"
+  },
+  {
+   "de": "Grüner Stör",
+   "en": "Green Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_green_sturgeon"
+  },
+  {
+   "de": "Eisenflanken-Stör",
+   "en": "Iron Flank Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_iron_flank_sturgeon"
+  },
+  {
+   "de": "Grünschild-Stör",
+   "en": "Verdant Scute Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_verdant_scute_sturgeon"
+  },
+  {
+   "de": "Moosflecken-Flunder",
+   "en": "Mosspatch Flounder",
+   "see": "Smaragdsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_mosspatch_flounder"
+  },
+  {
+   "de": "Farnaderig",
+   "en": "Fern-Veined",
+   "see": "Smaragdsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_fern-veined"
+  },
+  {
+   "de": "Uralter Schilf-Stör",
+   "en": "Ancient Reed Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_ancient_reed_sturgeon"
+  },
+  {
+   "de": "Quarzsporn-Stör",
+   "en": "Quartz Spurred Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_quartz_spurred_sturgeon"
+  },
+  {
+   "de": "Jadekrusten-Flunder",
+   "en": "Jade Crust Flounder",
+   "see": "Smaragdsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_jade_crust_flounder"
+  },
+  {
+   "de": "Geodenrücken-Stör",
+   "en": "Geode-Back Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_geode-back_sturgeon"
+  },
+  {
+   "de": "Waldherz-Stör",
+   "en": "Forest Heart Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_forest_heart_sturgeon"
+  },
+  {
+   "de": "Naturmonarch-Stör",
+   "en": "Nature Monarch Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_nature_monarch_sturgeon"
+  },
+  {
+   "de": "Edelsteinkern-Stör",
+   "en": "Gem-Core Sturgeon",
+   "see": "Smaragdsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_gem-core_sturgeon"
+  },
+  {
+   "de": "Malachitmantel-Flunder",
+   "en": "Malachite Mantled Flounder",
+   "see": "Smaragdsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/emerald_lake/icon_malachite_mantled_flounder"
+  },
+  {
+   "de": "Korallen-Wels",
+   "en": "Coral Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_coral_catfish"
+  },
+  {
+   "de": "Fels-Krabbe",
+   "en": "Rock Crab",
+   "see": "Perlenbucht",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_rock_crab"
+  },
+  {
+   "de": "Silberwels",
+   "en": "Silver Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_silver_catfish"
+  },
+  {
+   "de": "Perlschuppen-Wels",
+   "en": "Pearlscale Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_pearlscale_catfish"
+  },
+  {
+   "de": "Rosenmantel-Wels",
+   "en": "Rosemantle Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_rosemantle_catfish"
+  },
+  {
+   "de": "Seepocken-Krabbe",
+   "en": "Barnacle Crab",
+   "see": "Perlenbucht",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_barnacle_crab"
+  },
+  {
+   "de": "Austernschalen-Krabbe",
+   "en": "Oystershell Crab",
+   "see": "Perlenbucht",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_oystershell_crab"
+  },
+  {
+   "de": "Schillernder Wels",
+   "en": "Iridescent Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_iridescent_catfish"
+  },
+  {
+   "de": "Schalenkiefer-Wels",
+   "en": "Shelljaw Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_shelljaw_catfish"
+  },
+  {
+   "de": "Abalone-Wels",
+   "en": "Abalone Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_abalone_catfish"
+  },
+  {
+   "de": "Perlenpanzer-Krabbe",
+   "en": "Pearly Shell Crab",
+   "see": "Perlenbucht",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_pearly_shell_crab"
+  },
+  {
+   "de": "Mondperlen-Wels",
+   "en": "Moonpearl Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_moonpearl_catfish"
+  },
+  {
+   "de": "Prismatischer Gezeiten-Wels",
+   "en": "Prismatic Tide Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_prismatic_tide_catfish"
+  },
+  {
+   "de": "Tiefperlmutt-Wels",
+   "en": "Deep Nacre Catfish",
+   "see": "Perlenbucht",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_deep_nacre_catfish"
+  },
+  {
+   "de": "Gezeitenthron-Krabbe",
+   "en": "Tidal Throne Crab",
+   "see": "Perlenbucht",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/pearl_bay/icon_tidal_throne_crab"
+  },
+  {
+   "de": "Seeengel",
+   "en": "Sea Angel",
+   "see": "Nebelsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_sea_angel"
+  },
+  {
+   "de": "Blasser Lachs",
+   "en": "Pale Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_pale_salmon"
+  },
+  {
+   "de": "Geisterflossen-Lachs",
+   "en": "Ghostfin Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_ghostfin_salmon"
+  },
+  {
+   "de": "Nebelflossen-Lachs",
+   "en": "Mistfin Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_mistfin_salmon"
+  },
+  {
+   "de": "Halo-Kern-Seeengel",
+   "en": "Halo Core Sea Angel",
+   "see": "Nebelsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_halo_core_sea_angel"
+  },
+  {
+   "de": "Ascheschuppen-Lachs",
+   "en": "Ashscale Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_ashscale_salmon"
+  },
+  {
+   "de": "Verblassungsmal-Lachs",
+   "en": "Fademark Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_fademark_salmon"
+  },
+  {
+   "de": "Hohlschuppen-Lachs",
+   "en": "Hollowscale Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_hollowscale_salmon"
+  },
+  {
+   "de": "Prismatischer Schleier-Seeengel",
+   "en": "Prismatic Veil Sea Angel",
+   "see": "Nebelsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_prismatic_veil_sea_angel"
+  },
+  {
+   "de": "Geister-Lachs",
+   "en": "Wraith Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_wraith_salmon"
+  },
+  {
+   "de": "Seaphflossen-Seeengel",
+   "en": "Seraph Fin Sea Angel",
+   "see": "Nebelsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_seraph_fin_sea_angel"
+  },
+  {
+   "de": "Schleierläufer-Lachs",
+   "en": "Veilrunner Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_veilrunner_salmon"
+  },
+  {
+   "de": "Dampfpirscher-Lachs",
+   "en": "Vapor Stalk Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_vapor_stalk_salmon"
+  },
+  {
+   "de": "Cherubischer Geister-Seeengel",
+   "en": "Cherubic Spirit Sea Angel",
+   "see": "Nebelsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_cherubic_spirit_sea_angel"
+  },
+  {
+   "de": "Ewiger Nebel-Lachs",
+   "en": "Eternal Mist Salmon",
+   "see": "Nebelsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/misty_lake/icon_eternal_mist_salmon"
+  },
+  {
+   "de": "Schwarzwangen-Zungenfisch",
+   "en": "Blackcheek Toungefish",
+   "see": "Nachtschattensee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_blackcheek_toungefish"
+  },
+  {
+   "de": "Dunkler Tilapia",
+   "en": "Dark Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_dark_tilapia"
+  },
+  {
+   "de": "Schwarzkinn-Tilapia",
+   "en": "Blackchin Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_blackchin_tilapia"
+  },
+  {
+   "de": "Zobelschuppen-Tilapia",
+   "en": "Sable Scale Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_sable_scale_tilapia"
+  },
+  {
+   "de": "Schattenkinn-Tilapia",
+   "en": "Shadowchin Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_shadowchin_tilapia"
+  },
+  {
+   "de": "Schattenwangen-Zungenfisch",
+   "en": "Shadowcheek Toungefish",
+   "see": "Nachtschattensee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_shadowcheek_toungefish"
+  },
+  {
+   "de": "Tintendurchtränkter Tilapia",
+   "en": "Ink Soaked Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_ink_soaked_tilapia"
+  },
+  {
+   "de": "Düsterschleier-Zungenfisch",
+   "en": "Gloomveil Toungefish",
+   "see": "Nachtschattensee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_gloomveil_toungefish"
+  },
+  {
+   "de": "Dämmermantel-Tilapia",
+   "en": "Duskmantle Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_duskmantle_tilapia"
+  },
+  {
+   "de": "Nachtgebundener Zungenfisch",
+   "en": "Nightbound Toungefish",
+   "see": "Nachtschattensee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_nightbound_toungefish"
+  },
+  {
+   "de": "Nachtschatten-Tilapia",
+   "en": "Nightshade Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_nightshade_tilapia"
+  },
+  {
+   "de": "Abgrundplatten-Tilapia",
+   "en": "Abyssal Plate Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_abyssal_plate_tilapia"
+  },
+  {
+   "de": "Leerkronen-Tilapia",
+   "en": "Voidcrown Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_voidcrown_tilapia"
+  },
+  {
+   "de": "Erebus-Erben-Tilapia",
+   "en": "Erebus Heir Tilapia",
+   "see": "Nachtschattensee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_erebus_heir_tilapia"
+  },
+  {
+   "de": "Leerengeist-Zungenfisch",
+   "en": "Void Specter Toungefish",
+   "see": "Nachtschattensee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/nightshade_lake/icon_void_specter_toungefish"
+  },
+  {
+   "de": "Gestreifte Meeräsche",
+   "en": "Striped Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_striped_mullet"
+  },
+  {
+   "de": "Blaugefleckter Krötenfisch",
+   "en": "Bluespotted Toadfish",
+   "see": "Wurzelbucht",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_bluespotted_toadfish"
+  },
+  {
+   "de": "Flachkopf-Graue Meeräsche",
+   "en": "Flathead Grey Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_flathead_grey_mullet"
+  },
+  {
+   "de": "Neonpustel-Krötenfisch",
+   "en": "Neon Pustule Toadfish",
+   "see": "Wurzelbucht",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_neon_pustule_toadfish"
+  },
+  {
+   "de": "Bandverzierte Meeräsche",
+   "en": "Ribbon Laced Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_ribbon_laced_mullet"
+  },
+  {
+   "de": "Bretplatten-Meeräsche",
+   "en": "Broadplate Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_broadplate_mullet"
+  },
+  {
+   "de": "Hammerstirn-Meeräsche",
+   "en": "Hammer Brow Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_hammer_brow_mullet"
+  },
+  {
+   "de": "Zyanidsporen-Krötenfisch",
+   "en": "Cyanide Spore Toadfish",
+   "see": "Wurzelbucht",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_cyanide_spore_toadfish"
+  },
+  {
+   "de": "Gitterschuppen-Meeräsche",
+   "en": "Gridscale Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_gridscale_mullet"
+  },
+  {
+   "de": "Kobaltkrusten-Krötenfisch",
+   "en": "Cobalt Crust Toadfish",
+   "see": "Wurzelbucht",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_cobalt_crust_toadfish"
+  },
+  {
+   "de": "Ambosskopf-Meeräsche",
+   "en": "Anvil Headed Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_anvil_headed_mullet"
+  },
+  {
+   "de": "Graphitbalken-Meeräsche",
+   "en": "Graphite Barred Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_graphite_barred_mullet"
+  },
+  {
+   "de": "Basaltgrat-Behemoth-Meeräsche",
+   "en": "Basalt Crag Behemoth Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_basalt_crag_behemoth_mullet"
+  },
+  {
+   "de": "Monochrom Vektor-Meeräsche",
+   "en": "Monochrome Vector Mullet",
+   "see": "Wurzelbucht",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_monochrome_vector_mullet"
+  },
+  {
+   "de": "Saphirseuche-Goliath-Krötenfisch",
+   "en": "Sapphire Blight Goliath Toadfish",
+   "see": "Wurzelbucht",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/root_bay/icon_sapphire_blight_goliath_toadfish"
+  },
+  {
+   "de": "Gelber Oktopus",
+   "en": "Yellow Octopus",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_yellow_octopus"
+  },
+  {
+   "de": "Gelbflossen-Thunfisch",
+   "en": "Yellowfin Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_yellowfin_tuna"
+  },
+  {
+   "de": "Großaugen-Thunfisch",
+   "en": "Bigeye Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_bigeye_tuna"
+  },
+  {
+   "de": "Schwefelwolken-Oktopus",
+   "en": "Sulfur Cloud Octopus",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_sulfur_cloud_octopus"
+  },
+  {
+   "de": "Bernsteinlinsen-Thunfisch",
+   "en": "Amber Lens Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_amber_lens_tuna"
+  },
+  {
+   "de": "Blitzflossen-Thunfisch",
+   "en": "Flash Fin Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_flash_fin_tuna"
+  },
+  {
+   "de": "Schwefelstreifen-Thunfisch",
+   "en": "Sulfur Streak Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_sulfur_streak_tuna"
+  },
+  {
+   "de": "Thermalsicht-Thunfisch",
+   "en": "Thermal Vision Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_thermal_vision_tuna"
+  },
+  {
+   "de": "Vitriolhaut-Oktopus",
+   "en": "Vitriol Skin Octopus",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_vitriol_skin_octopus"
+  },
+  {
+   "de": "Brennender-Blick-Thunfisch",
+   "en": "Burning Gaze Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_burning_gaze_tuna"
+  },
+  {
+   "de": "Säuredrüsen-Oktopus",
+   "en": "Acid Gland Octopus",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_acid_gland_octopus"
+  },
+  {
+   "de": "Vergoldeter Legierungs-Thunfisch",
+   "en": "Gilded Alloy Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_gilded_alloy_tuna"
+  },
+  {
+   "de": "Sonneneruptions-Thunfisch",
+   "en": "Solar Flare Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_solar_flare_tuna"
+  },
+  {
+   "de": "Magmablick-Thunfisch",
+   "en": "Magma Stare Tuna",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_magma_stare_tuna"
+  },
+  {
+   "de": "Schwefelzorn-Oktopus",
+   "en": "Brimstone Wrath Octopus",
+   "see": "Schwefeldampfsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/sulfur_steam_lake/icon_brimstone_wrath_octopus"
+  },
+  {
+   "de": "Spitzschnauzen-Meerbrasse",
+   "en": "Sharpsnout Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_sharpsnout_seabream"
+  },
+  {
+   "de": "Dorniger Rochen",
+   "en": "Thorny Skate",
+   "see": "Sporenweiher",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_thorny_skate"
+  },
+  {
+   "de": "Sattel-Meeerbrasse",
+   "en": "Saddled Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_saddled_seabream"
+  },
+  {
+   "de": "Stachelrücken-Rochen",
+   "en": "Spiked Back Skate",
+   "see": "Sporenweiher",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_spiked_back_skate"
+  },
+  {
+   "de": "Klingenkanten-Meerbrasse",
+   "en": "Point Edge Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_point_edge_seabream"
+  },
+  {
+   "de": "Manschetten-Meeerbrasse",
+   "en": "Cuff Marked Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_cuff_marked_seabream"
+  },
+  {
+   "de": "Lanzettflossen-Meerbrasse",
+   "en": "Lancet Fin Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_lancet_fin_seabream"
+  },
+  {
+   "de": "Rasierkanten-Rochen",
+   "en": "Razor Rim Skate",
+   "see": "Sporenweiher",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_razor_rim_skate"
+  },
+  {
+   "de": "Schwarzgeschirr-Meeerbrasse",
+   "en": "Black Harness Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_black_harness_seabream"
+  },
+  {
+   "de": "Eggenplatten-Rochen",
+   "en": "Harrow Plate Skate",
+   "see": "Sporenweiher",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_harrow_plate_skate"
+  },
+  {
+   "de": "Basaltreiter-Meerbrasse",
+   "en": "Basalt Rider Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_basalt_rider_seabream"
+  },
+  {
+   "de": "Stahlschnabel-Meeerbrasse",
+   "en": "Steel Beak Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_steel_beak_seabream"
+  },
+  {
+   "de": "Spitzenherrscher-Meeerbrasse",
+   "en": "Spire Sovereign Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_spire_sovereign_seabream"
+  },
+  {
+   "de": "Obsidiangefesselter Monarch-Meerbrasse",
+   "en": "Obsidian Shackled Monarch Seabream",
+   "see": "Sporenweiher",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_obsidian_shackled_monarch_seabream"
+  },
+  {
+   "de": "Eisendistel-Juggernaut-Rochen",
+   "en": "Iron Thistle Juggernaut Skate",
+   "see": "Sporenweiher",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/spore_pond/icon_iron_thistle_juggernaut_skate"
+  },
+  {
+   "de": "Gelbschwanz-Schnapper",
+   "en": "Yellowtail Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_yellowtail_snapper"
+  },
+  {
+   "de": "Goldener Kugelfisch",
+   "en": "Golden Pufferfish",
+   "see": "Goldsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_golden_pufferfish"
+  },
+  {
+   "de": "Goldener Schnapper",
+   "en": "Golden Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_golden_snapper"
+  },
+  {
+   "de": "Gliterschwanz-Schnapper",
+   "en": "Glinting Tail Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_glinting_tail_snapper"
+  },
+  {
+   "de": "Vergoldeter Stachel-Kugelfisch",
+   "en": "Gilded Spike Pufferfishs",
+   "see": "Goldsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_gilded_spike_pufferfishs"
+  },
+  {
+   "de": "Goldflossen-Schnapper",
+   "en": "Gilded Fin Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_gilded_fin_snapper"
+  },
+  {
+   "de": "Karat-Schuppen-Schnapper",
+   "en": "Karat Scale Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_karat_scale_snapper"
+  },
+  {
+   "de": "Flammenschwanz-Schnapper",
+   "en": "Blazetail Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_blazetail_snapper"
+  },
+  {
+   "de": "Schwerer Aurum-Kugelfisch",
+   "en": "Heavy Aurum Pufferfish",
+   "see": "Goldsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_heavy_aurum_pufferfish"
+  },
+  {
+   "de": "Sonnenfeuer-Schnapper",
+   "en": "Sunfire Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_sunfire_snapper"
+  },
+  {
+   "de": "Giftplatten-Kugelfisch",
+   "en": "Heavy Venom Plate Pufferfish",
+   "see": "Goldsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_heavy_venom_plate_pufferfish"
+  },
+  {
+   "de": "Juwelenpanzer-Schnapper",
+   "en": "Jewel Plated Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_jewel_plated_snapper"
+  },
+  {
+   "de": "Aurelischer Herrscher-Kugelfisch",
+   "en": "Aurelian Sovereign Puffer",
+   "see": "Goldsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_aurelian_sovereign_puffer"
+  },
+  {
+   "de": "Apollonischer Zenit-Schnapper",
+   "en": "Apollonian Zenith Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_apollonian_zenith_snapper"
+  },
+  {
+   "de": "König-Midas-Schnapper",
+   "en": "King Midas Snapper",
+   "see": "Goldsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/gold_lake/icon_king_midas_snapper"
+  },
+  {
+   "de": "Schwarzer Sumpfaal",
+   "en": "Black Swamp Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_black_swamp_eel"
+  },
+  {
+   "de": "Schwarzer Heilbutt",
+   "en": "Black Halibut",
+   "see": "Rußwasserteich",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_black_halibut"
+  },
+  {
+   "de": "Rußiger Aal",
+   "en": "Sooty Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_sooty_eel"
+  },
+  {
+   "de": "Torfgefärbter Aal",
+   "en": "Peat Stained Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_peat_stained_eel"
+  },
+  {
+   "de": "Aschbauch-Heiltbutt",
+   "en": "Ashbelly Halibut",
+   "see": "Rußwasserteich",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_ashbelly_halibut"
+  },
+  {
+   "de": "Schwelhaut-Aal",
+   "en": "Smolder Skin Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_smolder_skin_eel"
+  },
+  {
+   "de": "Rußplatten-Heilbutt",
+   "en": "Sootplated Halibut",
+   "see": "Rußwasserteich",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_sootplated_halibut"
+  },
+  {
+   "de": "Aschewolken-Aal",
+   "en": "Ash Cloud Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_ash_cloud_eel"
+  },
+  {
+   "de": "Sumpfgas-Aal",
+   "en": "Fen Gas Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_fen_gas_eel"
+  },
+  {
+   "de": "Glutsturm-Aal",
+   "en": "Embersquall Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_embersquall_eel"
+  },
+  {
+   "de": "Moorgeist-Aal",
+   "en": "Mire Wraith Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_mire_wraith_eel"
+  },
+  {
+   "de": "Kohleschuppen-Heilbutt",
+   "en": "Charscale Halibut",
+   "see": "Rußwasserteich",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_charscale_halibut"
+  },
+  {
+   "de": "Tartarus-Moor-Aal",
+   "en": "Tartarus Bog Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_tartarus_bog_eel"
+  },
+  {
+   "de": "Obsidian-Tiefen-Heilbutt",
+   "en": "Obsidian Deep Halibut",
+   "see": "Rußwasserteich",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_obsidian_deep_halibut"
+  },
+  {
+   "de": "Abrund-Fallout-Aal",
+   "en": "Abyssal Fallout Eel",
+   "see": "Rußwasserteich",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/sootwater_pond/icon_abyssal_fallout_eel"
+  },
+  {
+   "de": "Goldfisch",
+   "en": "Goldfish",
+   "see": "Erzschimmer See",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_goldfish"
+  },
+  {
+   "de": "Smaragd-Krabbe",
+   "en": "Emerald Crab",
+   "see": "Erzschimmer See",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_emerald_crab"
+  },
+  {
+   "de": "Silberkarpfen",
+   "en": "Silver Carp",
+   "see": "Erzschimmer See",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_silver_carp"
+  },
+  {
+   "de": "Beryllpanzer-Krabbe",
+   "en": "Beryl Shell Crab",
+   "see": "Erzschimmer See",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_beryl_shell_crab"
+  },
+  {
+   "de": "Bartflossen-Goldfisch",
+   "en": "Whisker Fin Goldfish",
+   "see": "Erzschimmer See",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_whisker_fin_goldfish"
+  },
+  {
+   "de": "Eisenglas-Karpfen",
+   "en": "Ironglaze Carp",
+   "see": "Erzschimmer See",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_ironglaze_carp"
+  },
+  {
+   "de": "Malachitader-Krabbe",
+   "en": "Malachite Veined Crab",
+   "see": "Erzschimmer See",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_malachite_veined_crab"
+  },
+  {
+   "de": "Imperiale Nephrit-Krabbe",
+   "en": "Imperial Nephrite Crab",
+   "see": "Erzschimmer See",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_imperial_nephrite_crab"
+  },
+  {
+   "de": "Bollwerkschuppen-Karpfen",
+   "en": "Bulwark Scale Carp",
+   "see": "Erzschimmer See",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_bulwark_scale_carp"
+  },
+  {
+   "de": "Großgehörnter Goldfisch",
+   "en": "Great Horned Gold Fish",
+   "see": "Erzschimmer See",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_great_horned_gold_fish"
+  },
+  {
+   "de": "Jadeweisen-Krabbe",
+   "en": "Jade Sage Crab",
+   "see": "Erzschimmer See",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_jade_sage_crab"
+  },
+  {
+   "de": "Aurum-Drachenherrscher",
+   "en": "Aurum Dragon-Sovereign",
+   "see": "Erzschimmer See",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_aurum_dragon-sovereign"
+  },
+  {
+   "de": "Silberwächter-Karpfen",
+   "en": "Argent Guardian Carp",
+   "see": "Erzschimmer See",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_argent_guardian_carp"
+  },
+  {
+   "de": "Glutgefleckter Kabeljau",
+   "en": "Emberspotted Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_emberspotted_cod"
+  },
+  {
+   "de": "Blutwasser Kabeljau",
+   "en": "Crimson Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_crimson_cod"
+  },
+  {
+   "de": "Blutbauch-Kammqualle",
+   "en": "Blood-Belly Comb Jellyfish",
+   "see": "Blutwasser See",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_blood-belly_comb_jellyfish"
+  },
+  {
+   "de": "Tiefblut-Qualle",
+   "en": "Deepblood Jellyfish",
+   "see": "Blutwasser See",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_deepblood_jellyfish"
+  },
+  {
+   "de": "Flammenspur-Kabeljau",
+   "en": "Flaremark Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_flaremark_cod"
+  },
+  {
+   "de": "Tiefblut-Kabeljau",
+   "en": "Deepblood Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_deepblood_cod"
+  },
+  {
+   "de": "Versengter Streifen-Kabeljau",
+   "en": "Singed Streak Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_singed_streak_cod"
+  },
+  {
+   "de": "Adernnarben-Kabeljau",
+   "en": "Veinscar Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_veinscar_cod"
+  },
+  {
+   "de": "Pulsierende Purpur-Qualle",
+   "en": "Pulsing Crimson Jellyfish",
+   "see": "Blutwasser See",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_pulsing_crimson_jellyfish"
+  },
+  {
+   "de": "Blutmond-Qualle",
+   "en": "Pulsing Bloddmoon Jellyfish",
+   "see": "Blutwasser See",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_pulsing_bloddmoon_jellyfish"
+  },
+  {
+   "de": "Blutrunen-Kabeljau",
+   "en": "Bloodrune Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_bloodrune_cod"
+  },
+  {
+   "de": "Glutadern-Kabeljau",
+   "en": "Embervein Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_embervein_cod"
+  },
+  {
+   "de": "Scharlach-Behemoth-Kabeljau",
+   "en": "Scarlet Behemoth Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_scarlet_behemoth_cod"
+  },
+  {
+   "de": "Glutmal-Koloss-Kabeljau",
+   "en": "Cinder Marked Collossal Cod",
+   "see": "Blutwasser See",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_cinder_marked_collossal_cod"
+  },
+  {
+   "de": "Blutrote Gezeiten-Qualle",
+   "en": "Sanguine Tide Jellyfish",
+   "see": "Blutwasser See",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/crimson_lake/icon_sanguine_tide_jellyfish"
+  },
+  {
+   "de": "Feuer-und-Eis-Schlangenkopf",
+   "en": "Fire And Ice Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_fire_and_ice_snakehead"
+  },
+  {
+   "de": "Gefleckter Schlangenkopf",
+   "en": "Blotched Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_blotched_snakehead"
+  },
+  {
+   "de": "Feuerroter Oktopus",
+   "en": "Fiery Red Octopus",
+   "see": "Infernoweiher",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_fiery_red_octopus"
+  },
+  {
+   "de": "Trübfleck-Schlangenkopf",
+   "en": "Murk-Stained Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_murk-stained_snakehead"
+  },
+  {
+   "de": "Glut-Oktopus",
+   "en": "Embered Octopus",
+   "see": "Infernoweiher",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_embered_octopus"
+  },
+  {
+   "de": "Nebelschleier-Schlangenkopf",
+   "en": "Mist Veil Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_mist_veil_snakehead"
+  },
+  {
+   "de": "Flammenmantel-Oktopus",
+   "en": "Blazemantle Octopus",
+   "see": "Infernoweiher",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_blazemantle_octopus"
+  },
+  {
+   "de": "Ölschimmer-Schlangenkopf",
+   "en": "Oilslick Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_oilslick_snakehead"
+  },
+  {
+   "de": "Dampfdunst-Schlangenkopf",
+   "en": "Steam Haze Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_steam_haze_snakehead"
+  },
+  {
+   "de": "Glutverhüllter Oktopus",
+   "en": "Cindercloaked Octopus",
+   "see": "Infernoweiher",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_cindercloaked_octopus"
+  },
+  {
+   "de": "Frostflammen-Schlangenkopf",
+   "en": "Frost Flare Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_frost_flare_snakehead"
+  },
+  {
+   "de": "Magmaadern-Schlangenkopf",
+   "en": "Magma Veined Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_magma_veined_snakehead"
+  },
+  {
+   "de": "Infernoverhüllter Oktopus",
+   "en": "Inferno Shrouded Octopus",
+   "see": "Infernoweiher",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_inferno_shrouded_octopus"
+  },
+  {
+   "de": "Obsidianfeuer-Schlangenkopf",
+   "en": "Obsidian Fire Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_obsidian_fire_snakehead"
+  },
+  {
+   "de": "Thundra-Inferno-Schlangenkopf",
+   "en": "Thundra Inferno Snakehead",
+   "see": "Infernoweiher",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/inferno_pond/icon_thundra_inferno_snakehead"
+  },
+  {
+   "de": "Maskierter Kaninchenfisch",
+   "en": "Masked Spinefoot",
+   "see": "Lavaquellsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_masked_spinefoot"
+  },
+  {
+   "de": "Schwarzspitzen-Hai",
+   "en": "Blacktip Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_blacktip_shark"
+  },
+  {
+   "de": "Sternfleck-Kaninchenfisch",
+   "en": "Stellate Rabbitfish",
+   "see": "Lavaquellsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_stellate_rabbitfish"
+  },
+  {
+   "de": "Weißspitzen-Hai",
+   "en": "Whitetip Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Gewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_whitetip_shark"
+  },
+  {
+   "de": "Glutflecken Kaninchenfisch",
+   "en": "Ember Spotted Rabbitfish",
+   "see": "Lavaquellsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_ember_spotted_rabbitfish"
+  },
+  {
+   "de": "Schattengezeichneter Hai",
+   "en": "Shadow Marked Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_shadow_marked_shark"
+  },
+  {
+   "de": "Silbergezeichneter Hai",
+   "en": "Silver Marked Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_silver_marked_shark"
+  },
+  {
+   "de": "Versengter Masken-Kaninchenfisch",
+   "en": "Scorchmasked Spinefoot",
+   "see": "Lavaquellsee",
+   "seltenheit": "Ungewöhnlich",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_scorchmasked_spinefoot"
+  },
+  {
+   "de": "Magmapunkt-Kaninchenfisch",
+   "en": "Magma Punctate Rabbitfish",
+   "see": "Lavaquellsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_magma_punctate_rabbitfish"
+  },
+  {
+   "de": "Leuchtmasken-Kaninchenfisch",
+   "en": "Glowmasked Spinefoot",
+   "see": "Lavaquellsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_glowmasked_spinefoot"
+  },
+  {
+   "de": "Obsidianflossen-Hai",
+   "en": "Obsidian Fin Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_obsidian_fin_shark"
+  },
+  {
+   "de": "Perlflossen-Hai",
+   "en": "Pearl Fin Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Selten",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_pearl_fin_shark"
+  },
+  {
+   "de": "Sternenflare-Kaninchenfisch",
+   "en": "Star Flare Rabbitfish",
+   "see": "Lavaquellsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_star_flare_rabbitfish"
+  },
+  {
+   "de": "Lavamasken-Kaninchenfisch",
+   "en": "Lavamasked Spinefoot",
+   "see": "Lavaquellsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_lavamasked_spinefoot"
+  },
+  {
+   "de": "Sonnenwenden-Jägerhai",
+   "en": "Solstice Hunter Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_solstice_hunter_shark"
+  },
+  {
+   "de": "Finsternisjäger-Hai",
+   "en": "Eclipse Hunter Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Episch",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_eclipse_hunter_shark"
+  },
+  {
+   "de": "Äther-Spitzenhai",
+   "en": "Ether Apex Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_ether_apex_shark"
+  },
+  {
+   "de": "Galaktischer Eruptions-Kaninchenfisch",
+   "en": "Galactic Eruption Rabbitfish",
+   "see": "Lavaquellsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_galactic_eruption_rabbitfish"
+  },
+  {
+   "de": "Leeren-Spitzenhai",
+   "en": "Void Apex Shark",
+   "see": "Lavaquellsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_void_apex_shark"
+  },
+  {
+   "de": "Volkanorakel-Kaninchenfisch",
+   "en": "Volcanic Oracle Spinefoot",
+   "see": "Lavaquellsee",
+   "seltenheit": "Legendär",
+   "icon": "custom/icons/fishing/fish/lava_spring_lake/icon_volcanic_oracle_spinefoot"
+  },
+  {
+   "de": null,
+   "en": "Gilded-Drake Carp",
+   "see": "Erzschimmer See",
+   "seltenheit": null,
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_gilded-drake_carp"
+  },
+  {
+   "de": null,
+   "en": "Heavy Sterling Carp",
+   "see": "Erzschimmer See",
+   "seltenheit": null,
+   "icon": "custom/icons/fishing/fish/ore_shimmer_lake/icon_heavy_sterling_carp"
+  }
+ ]
+}
