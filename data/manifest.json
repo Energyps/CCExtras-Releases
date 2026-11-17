@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "modVersion": "1.9.2-beta.35",
+  "modVersion": "1.9.2-beta.36",
   "files": {
     "neciitems.json": {
       "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
@@ -19,8 +19,8 @@
       "size": 11905
     },
     "Aspekte.json": {
-      "sha256": "ebfbb0be2c786b23b4b49463ce007707fbd77de96c18895ee86e2da63e99e88f",
-      "size": 73855
+      "sha256": "b91648cf6dc4930f68b32b7ddda96b04a3a1e74cda807799206a1ceb2efe6960",
+      "size": 73920
     },
     "runes.json": {
       "sha256": "63939c69c8783505bcfe9116912482989e1869ffe65f2d65d02f3aeaf97ff95a",
@@ -90,6 +90,10 @@
       "sha256": "e6a92223fd391c2b8d8eaaacf008c5d47e996f169c25ac392858bda0a8b3d282",
       "size": 872
     },
+    "translations/de_de/aspects.json": {
+      "sha256": "c68eed52b3ee777cd89c645cafcd5fe8ba8ced95baa82e17c4c4617e67d5c5ec",
+      "size": 13155
+    },
     "translations/de_de/blueprints.json": {
       "sha256": "56a78d84b073371713810b1509cd7eecafa9c2d74334d66dd7ac554d8dfeca8b",
       "size": 164693
@@ -139,8 +143,8 @@
       "size": 33525
     },
     "translations/de_de/neci.json": {
-      "sha256": "8f170c83834e518e2485c4caa6c883e594516612af631ba81cbc19b5b0726cb7",
-      "size": 8738
+      "sha256": "6fd971ff3563ee91c7396b8d58f756ab53bea844bb1b57b969b24e5831b060d7",
+      "size": 8902
     },
     "translations/de_de/online.json": {
       "sha256": "57a11e064d14b98910de999dc615c6a8aedb4b44f2adff9f8d46dceab514b709",
@@ -177,6 +181,10 @@
     "translations/en_us/anvil.json": {
       "sha256": "641dac81e57c4c0ef5d5e59dd7079f3294f9eb9d4eecb222e3cfc802eb393203",
       "size": 839
+    },
+    "translations/en_us/aspects.json": {
+      "sha256": "4f4ebc1c675eeabdcd269796cb5375105213a711819af09853bf19169e9a093a",
+      "size": 11654
     },
     "translations/en_us/blueprints.json": {
       "sha256": "377f5da0326ee4a1b34ccda42311dacbea997debfc813c2630644c622e8b29b5",
@@ -227,8 +235,8 @@
       "size": 32882
     },
     "translations/en_us/neci.json": {
-      "sha256": "ab05d3e576bcdae3ef42e5756988cd77759eeb085c76c351aaf7a626e8a1727d",
-      "size": 8551
+      "sha256": "737d3d255992479cf1ed9158b4acba7de271de52d99eb1391c8154f5d18b9bed",
+      "size": 8718
     },
     "translations/en_us/online.json": {
       "sha256": "5047ceb14f1ac2cf14b0f619d372af8e9684c58ef4c63ca3881de404bd80aa9b",

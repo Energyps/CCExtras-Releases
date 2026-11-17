@@ -148,5 +148,8 @@
   "neci.ccextras.filter.title.abilities": "Ability filter",
   "neci.ccextras.tooltip.unlock": "Unlock: ",
   "neci.ccextras.tooltip.researchTime": "Research time: %s h",
-  "neci.ccextras.tooltip.smithLevel": "from smith level %s"
+  "neci.ccextras.tooltip.smithLevel": "from smith level %s",
+  "neci.ccextras.category.aspects": "Aspects",
+  "neci.ccextras.aspects.blueprintCount": "%s blueprints",
+  "neci.ccextras.aspects.blueprintCount.one": "1 blueprint"
 }

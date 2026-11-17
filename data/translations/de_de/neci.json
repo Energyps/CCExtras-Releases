@@ -148,5 +148,8 @@
   "neci.ccextras.filter.title.abilities": "Fähigkeiten-Filter",
   "neci.ccextras.tooltip.unlock": "Freischaltung: ",
   "neci.ccextras.tooltip.researchTime": "Forschungszeit: %s Std.",
-  "neci.ccextras.tooltip.smithLevel": "ab Schmiedelevel %s"
+  "neci.ccextras.tooltip.smithLevel": "ab Schmiedelevel %s",
+  "neci.ccextras.category.aspects": "Aspekte",
+  "neci.ccextras.aspects.blueprintCount": "%s Baupläne",
+  "neci.ccextras.aspects.blueprintCount.one": "1 Bauplan"
 }

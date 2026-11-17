@@ -565,7 +565,7 @@
   },
   "Blitzsturm Schulterbuckel": {
     "aspect_name": "Aspekt des Blitzes",
-    "aspect_description": "Deine Angriffe haben eine Chance von 3% - 10% das Blitze auf Gegner in einem Umkreis von 2 - 8 Blöcken niedergehen die 5% - 10% Schaden deines generellen Schadens anrichten und die Gegner zu 30% - 50% für 1 - 3 Sek betäuben."
+    "aspect_description": "Deine Angriffe haben eine Chance von 3% - 10% das Blitze auf Gegner in einem Umkreis von 2 - 8 Blöcken niedergehen die 5% - 10% Schaden deines generellen Schadens anrichten und die Gegner zu 30% - 50% für 1 - 3 Sekunden betäuben."
   },
   "Wurzelring des Lebens": {
     "aspect_name": "-",
@@ -593,7 +593,7 @@
   },
   "Kristalline Schulterpanzer": {
     "aspect_name": "Aspekt des Kriegers",
-    "aspect_description": "Angriffe mit dem Schwert oder einer Axt haben eine Chance von 1% - 3% deine Stärke für 3 - 8 Sek um 3% - 10% zu erhöhen."
+    "aspect_description": "Angriffe mit dem Schwert oder einer Axt haben eine Chance von 1% - 3% deine Stärke für 3 - 8 Sekunden um 3% - 10% zu erhöhen."
   },
   "Lichtschild-Lederhaube": {
     "aspect_name": "-",
@@ -601,7 +601,7 @@
   },
   "Der Drachenfluch": {
     "aspect_name": "Aspekt des Schlächters",
-    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 5% den Gegner für 3 - 7 Sek Blutung zuzufügen wodurch er 5% - 10% Schaden in höhe deines generellen Schadens erleidet."
+    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 5% den Gegner für 3 - 7 Sekunden Blutung zuzufügen wodurch er 5% - 10% Schaden in höhe deines generellen Schadens erleidet."
   },
   "Spitzhacke des Kaktusmeister": {
     "aspect_name": "-",
@@ -609,11 +609,11 @@
   },
   "Sculkwanderer Plattenschuhe": {
     "aspect_name": "Aspekt des Todsuchers",
-    "aspect_description": "Wenn du einen Gegner besiegst, besteht eine Chance von 1% - 3% das für die nächsten 3 - 8 Sek deine kritisch Trefferchance um 3% - 8% und dein kritisch Trefferschaden um 5% - 10% erhöht wird."
+    "aspect_description": "Wenn du einen Gegner besiegst, besteht eine Chance von 1% - 3% das für die nächsten 3 - 8 Sekunden deine kritisch Trefferchance um 3% - 8% und dein kritisch Trefferschaden um 5% - 10% erhöht wird."
   },
   "Blitzsturm Gurt": {
     "aspect_name": "Aspekt des Glücks",
-    "aspect_description": "Wenn du einen Gegner besiegst, besteht eine Chance von 1% - 5% das dein Glückslevel für die nächsten 3 - 8 Sek um 1 - 5 erhöht wird."
+    "aspect_description": "Wenn du einen Gegner besiegst, besteht eine Chance von 1% - 5% das dein Glückslevel für die nächsten 3 - 8 Sekunden um 1 - 5 erhöht wird."
   },
   "Göttliche Balester": {
     "aspect_name": "-",
@@ -777,7 +777,7 @@
   },
   "Angus Dunkler Hass": {
     "aspect_name": "Aspekt des Todsuchers",
-    "aspect_description": "Wenn du einen Gegner besiegst, besteht eine Chance von 1% - 3% das für die nächsten 3 - 8 Sek deine kritisch Trefferchance um 3% - 8% und dein kritisch Trefferschaden um 5% - 10% erhöht wird."
+    "aspect_description": "Wenn du einen Gegner besiegst, besteht eine Chance von 1% - 3% das für die nächsten 3 - 8 Sekunden deine kritisch Trefferchance um 3% - 8% und dein kritisch Trefferschaden um 5% - 10% erhöht wird."
   },
   "Die Todesstunde": {
     "aspect_name": "-",
@@ -785,7 +785,7 @@
   },
   "Crimson Plattenhelm": {
     "aspect_name": "Aspekt des Schlächters",
-    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 5% den Gegner für 3 - 7 Sek Blutung zuzufügen wodurch er 5% - 10% Schaden in höhe deines generellen Schadens erleidet."
+    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 5% den Gegner für 3 - 7 Sekunden Blutung zuzufügen wodurch er 5% - 10% Schaden in höhe deines generellen Schadens erleidet."
   },
   "Thors Donnerläufer": {
     "aspect_name": "-",
@@ -805,7 +805,7 @@
   },
   "Karmesin Stiefel": {
     "aspect_name": "Aspekt des Giftes",
-    "aspect_description": "Deine Angriffe haben eine Chance von 10% - 25% den Gegner für 3 - 7 Sek zu vergiften wodurch er 5% - 10% Schaden in höhe deines Basisschadens erleidet."
+    "aspect_description": "Deine Angriffe haben eine Chance von 10% - 25% den Gegner für 3 - 7 Sekunden zu vergiften wodurch er 5% - 10% Schaden in höhe deines Basisschadens erleidet."
   },
   "Karmesin Schulterbuckel": {
     "aspect_name": "Aspekt der Raserei",
@@ -937,7 +937,7 @@
   },
   "Todesläufer": {
     "aspect_name": "Aspekt der Blutfessel",
-    "aspect_description": "Deine Angriffe haben eine Chance von 10% - 20%, Gegner die unter einem Blutungseffekt stehen für 3 - 5 Sek zu betäuben."
+    "aspect_description": "Deine Angriffe haben eine Chance von 10% - 20%, Gegner die unter einem Blutungseffekt stehen für 3 - 5 Sekunden zu betäuben."
   },
   "Götterstahl Gürtelschutz": {
     "aspect_name": "Aspekt des Heiligenlichts",
@@ -989,7 +989,7 @@
   },
   "Götterstahl Beinschützer": {
     "aspect_name": "Aspekt der Inneren Ruhe",
-    "aspect_description": "Deine Angriffe verursachen um 5% - 10% erhöhten Schaden für 5 - 10 Sek, so lange du still stehst."
+    "aspect_description": "Deine Angriffe verursachen um 5% - 10% erhöhten Schaden für 5 - 10 Sekunden, so lange du still stehst."
   },
   "Funke der Titanen": {
     "aspect_name": "-",
@@ -1085,7 +1085,7 @@
   },
   "Arkanstahl Gamaschen": {
     "aspect_name": "Aspekt des Schnitters",
-    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 3% deinen kritisch Trefferschaden für 3 - 8 Sek um 3% - 5% zu erhöhen. Der Effekt is bis zu 2 - 5 mal Stapelbar."
+    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 3% deinen kritisch Trefferschaden für 3 - 8 Sekunden um 3% - 5% zu erhöhen. Der Effekt is bis zu 2 - 5 mal Stapelbar."
   },
   "Himmelshüter Sandalen": {
     "aspect_name": "-",
@@ -1105,7 +1105,7 @@
   },
   "Titanen Entzweier": {
     "aspect_name": "Aspekt des Kriegers",
-    "aspect_description": "Angriffe mit dem Schwert oder einer Axt haben eine Chance von 1% - 3% deine Stärke für 3 - 8 Sek um 3% - 10% zu erhöhen."
+    "aspect_description": "Angriffe mit dem Schwert oder einer Axt haben eine Chance von 1% - 3% deine Stärke für 3 - 8 Sekunden um 3% - 10% zu erhöhen."
   },
   "Sternschnuppengurt": {
     "aspect_name": "-",
@@ -1293,7 +1293,7 @@
   },
   "Schattenstahl Leggings": {
     "aspect_name": "Aspekt der Schwäche",
-    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 3% dem Gegner 3% - 10% mehr Schaden auf Basis deines generellen Schadens zuzufügen und zusätzlich wird der Schaden des Gegners für 2 - 7 Sek um 3% - 10% reduziert."
+    "aspect_description": "Deine Angriffe haben eine Chance von 1% - 3% dem Gegner 3% - 10% mehr Schaden auf Basis deines generellen Schadens zuzufügen und zusätzlich wird der Schaden des Gegners für 2 - 7 Sekunden um 3% - 10% reduziert."
   },
   "Kristallklare Lederhandrüstung": {
     "aspect_name": "-",
