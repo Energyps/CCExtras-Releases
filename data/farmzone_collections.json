@@ -222,6 +222,87 @@
         }
       ]
     },
+    "Eisen": {
+      "type": "farmzone",
+      "seasonal": true,
+      "levels": [
+        {
+          "level": "I",
+          "required": 50,
+          "rewards": []
+        },
+        {
+          "level": "II",
+          "required": 100,
+          "rewards": []
+        },
+        {
+          "level": "III",
+          "required": 250,
+          "rewards": [
+            "Schatzsucher [Bauplan #1]"
+          ]
+        },
+        {
+          "level": "IV",
+          "required": 1000,
+          "rewards": [
+            "Erzbrecher [Bauplan #3]"
+          ]
+        },
+        {
+          "level": "V",
+          "required": 2500,
+          "rewards": [
+            "Pilzwald [Lizenz]"
+          ]
+        },
+        {
+          "level": "VI",
+          "required": 5000,
+          "rewards": [
+            "Autoschmelzer [Bauplan #2]"
+          ]
+        },
+        {
+          "level": "VII",
+          "required": 10000,
+          "rewards": [
+            "Eisenmagnet [Bauplan]"
+          ]
+        },
+        {
+          "level": "VIII",
+          "required": 25000,
+          "rewards": [
+            "Rüstungskern [Bauplan]"
+          ]
+        },
+        {
+          "level": "IX",
+          "required": 50000,
+          "rewards": [
+            "Zweiter Amboss",
+            "Angel Bauplan [Komponente]: Gusseisen-Rute [Bauplan]",
+            "Angel Bauplan [Komponente]: Gusseisen-Schnur [Bauplan]",
+            "Angel Bauplan [Komponente]: Gusseisen-Rolle [Bauplan]",
+            "Angel Bauplan [Komponente]: Gusseisen-Haken [Bauplan]",
+            "Angel Bauplan [Komponente]: Gusseisen-Köder [Bauplan]",
+            "Angel Bauplan [Komponente]: Gusseisen-Pose [Bauplan]",
+            "Angel Bauplan [Komponente]: Gusseisen-Gewicht [Bauplan]",
+            "Angel Bauplan [Komponente]: Gusseisen-Spinner [Bauplan]"
+          ]
+        },
+        {
+          "level": "X",
+          "required": 100000,
+          "rewards": [
+            "Schaltet die Maschine Eisen-Bohrer zum Kauf frei"
+          ]
+        }
+      ],
+      "itemName": "Rohes Eisenerz"
+    },
     "Fichtenholz": {
       "type": "farmzone",
       "seasonal": true,
