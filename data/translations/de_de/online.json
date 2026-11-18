@@ -105,5 +105,10 @@
   "online.ccextras.season.no": "Ablehnen",
   "online.ccextras.season.done": "Season-Reset durchgeführt: CCExtras ist jetzt in Season %s.",
   "online.ccextras.season.declined": "Season-Reset abgelehnt. Die Meldung erscheint beim nächsten Start von Minecraft wieder.",
-  "online.ccextras.season.none": "Es steht kein Season-Reset von der Webseite an."
+  "online.ccextras.season.none": "Es steht kein Season-Reset von der Webseite an.",
+  "online.ccextras.wardrobe.unreadSet": "Das Wardrobe-Set „%s“ hat CCExtras noch nicht gelesen, deshalb kommt die Aufwertung nicht auf die Webseite. Öffne das Set einmal per Rechtsklick in der Wardrobe, danach werden Aufwertungen automatisch übernommen.",
+  "online.ccextras.share.fromWeb": "Von der Webseite",
+  "online.ccextras.share.warning.replace": "Übernehmen aktualisiert deine Liste „%s“.",
+  "online.ccextras.share.unknownItems": "%s Items sind in deinem NECI unbekannt.",
+  "online.ccextras.share.hoverItems": "Maus über ein Item für Details"
 }

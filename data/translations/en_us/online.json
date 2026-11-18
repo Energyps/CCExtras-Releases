@@ -105,5 +105,10 @@
   "online.ccextras.season.no": "Decline",
   "online.ccextras.season.done": "Season reset done: CCExtras is now in season %s.",
   "online.ccextras.season.declined": "Season reset declined. The message appears again the next time you start Minecraft.",
-  "online.ccextras.season.none": "There is no season reset from the website pending."
+  "online.ccextras.season.none": "There is no season reset from the website pending.",
+  "online.ccextras.wardrobe.unreadSet": "CCExtras has not read the wardrobe set \"%s\" yet, so this upgrade cannot reach the website. Open the set once with a right-click in the wardrobe; upgrades are synced automatically after that.",
+  "online.ccextras.share.fromWeb": "From the website",
+  "online.ccextras.share.warning.replace": "Applying updates your list \"%s\".",
+  "online.ccextras.share.unknownItems": "%s items are unknown to your NECI.",
+  "online.ccextras.share.hoverItems": "Hover an item for details"
 }

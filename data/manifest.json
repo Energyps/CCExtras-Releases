@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "modVersion": "1.9.2-beta.47",
+  "modVersion": "1.9.2-beta.60",
   "files": {
     "neciitems.json": {
-      "sha256": "32a1aaa4751579976501ec4f52a3438041974dce30ff8dc72c6503432a314167",
-      "size": 3613372
+      "sha256": "76dd96010dcb94a17d386dd65544e765d2636d3504dd997c86d3366d805b11fa",
+      "size": 3612938
     },
     "Essence.json": {
       "sha256": "3eea4927d42855812576e1bc813f90d744e3363c1d3d89203f76ff6230e2d39e",
@@ -74,6 +74,10 @@
       "sha256": "23a3419986e6535968931c70a8b49de02ecdae67a2807a2910ebdeaebcdb83e3",
       "size": 41528
     },
+    "farmzone_waypoints.json": {
+      "sha256": "96b3a388c7684f2bf9f02fb6600111f14618fb71c66118dd3c002dd8bbdf4560",
+      "size": 50
+    },
     "security/developers.json": {
       "sha256": "135c2fa203ac4e1aac095ca1f8492e8dae77db1b4f70cf5fd1340f19b2c55340",
       "size": 290
@@ -99,8 +103,8 @@
       "size": 164693
     },
     "translations/de_de/ccextrasconfig.json": {
-      "sha256": "9c30e62b4dac08576e82c957be40b60b8fa030ccf5815e33b8d0b0a32779eafc",
-      "size": 73210
+      "sha256": "86d6b7291c5586e9712ca0e235a564cff9997ab7ba059336fc4eb3d5488f89a3",
+      "size": 75524
     },
     "translations/de_de/charms.json": {
       "sha256": "ab0687d909e9e383fbaf6798e42c7d57a417fbbfd36fcde8a251215b1611e14a",
@@ -135,20 +139,20 @@
       "size": 1485
     },
     "translations/de_de/hud.json": {
-      "sha256": "cf1519f33813a2d81cb6387769a04b65024cb150b82ff9f50b98c93135ac9f8b",
-      "size": 12449
+      "sha256": "852528ac03f9345f1f821958f2fc10377ec8e86390032fd76df749cc2bd02344",
+      "size": 16263
     },
     "translations/de_de/materials.json": {
       "sha256": "873d448d8681cc18cc4b8768471d1592f063cbd052c824ab0597bc9ab5524b04",
       "size": 33525
     },
     "translations/de_de/neci.json": {
-      "sha256": "6fd971ff3563ee91c7396b8d58f756ab53bea844bb1b57b969b24e5831b060d7",
-      "size": 8902
+      "sha256": "0be6d52da6fc4803d6fc7a84b85f932721de51d82d3f08c9653d01b4627d02b0",
+      "size": 9139
     },
     "translations/de_de/online.json": {
-      "sha256": "57a11e064d14b98910de999dc615c6a8aedb4b44f2adff9f8d46dceab514b709",
-      "size": 8731
+      "sha256": "abc183a24d1e678b9ad59104d040ecf1ddd6bf3090941609e8314b69f1db9953",
+      "size": 9298
     },
     "translations/de_de/rarity.json": {
       "sha256": "a13703b086f11c757c1fc36120e27166c6d08cc2d32f9e290a5c89176b2eb4c7",
@@ -191,8 +195,8 @@
       "size": 160535
     },
     "translations/en_us/ccextrasconfig.json": {
-      "sha256": "8756720d2d7170563789669eabf8903e677ba9db6add4d8675d6f15450701f9c",
-      "size": 69125
+      "sha256": "665dfbcc53bcd0dedde11c8036e3f72b5fd3405baafb32dd0b4f789b9b41b0d4",
+      "size": 71327
     },
     "translations/en_us/charms.json": {
       "sha256": "9832c14a775f9e57ace283f70cb2e68fbc4c844fac47315473b8823fe484e5ad",
@@ -227,20 +231,20 @@
       "size": 1444
     },
     "translations/en_us/hud.json": {
-      "sha256": "dbf05fa85bf73a1116706665d82dc807231b5563155069e35c54ad14b197b10b",
-      "size": 12096
+      "sha256": "992ee8f5d6ebc147d4cbfc552003ed33921dbe60ae19e11e22b5cfb392757d5a",
+      "size": 15739
     },
     "translations/en_us/materials.json": {
       "sha256": "bbdf2acbd75cbe223d20eddf3c9ed1afdbdcb7fc36e0a39b24815219569512b2",
       "size": 32882
     },
     "translations/en_us/neci.json": {
-      "sha256": "737d3d255992479cf1ed9158b4acba7de271de52d99eb1391c8154f5d18b9bed",
-      "size": 8718
+      "sha256": "eea90830d130539f2414b369de02c10b28f106eff8c7ba1f687747d7f3276b2d",
+      "size": 8945
     },
     "translations/en_us/online.json": {
-      "sha256": "5047ceb14f1ac2cf14b0f619d372af8e9684c58ef4c63ca3881de404bd80aa9b",
-      "size": 8222
+      "sha256": "cd55ad8d69520ed17965611793713a659ac4cd64b70a3ae4237b34170b923198",
+      "size": 8739
     },
     "translations/en_us/rarity.json": {
       "sha256": "b97fed1223ea79e2019f48aaa1cace4808f96b83c2eaca60c77f7b95e85156a1",
